@@ -11304,7 +11304,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1), return another follower on your field to its owner's hand: Evolve this follower. (Tokens returned to the hand are removed from the game.) Fanfare: Search your deck for a Beast follower, reveal it, and add it to your hand. If it costs 2 or less play points, put it onto your field instead.</text>
     <prop>
-        <type>Follower|Forestcraft|Fae-Touched</type>
+        <type>Follower|Forestcraft - Fae-Touched|Verdant</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
         <pt>4/4</pt>
@@ -11319,7 +11319,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field and return it to its owner's hand. If you selected an evolved follower, destroy it instead. (Tokens returned to the hand are removed from the game.)</text>
     <prop>
-        <type>Follower / Evolved|Forestcraft|Fae-Touched</type>
+        <type>Follower|Evolve|Forestcraft - Fae-Touched/Verdant</type>
         <pt>5/5</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11332,26 +11332,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Quick Select up to 2 enemy followers on the field and deal X damage divided between them. X equals the number of cards in your EX area.</text>
     <prop>
-        <type>Spell|Forestcraft|Elf</type>
+        <type>Spell|Forestcraft - Elf</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <pt/>
         <maintype>Spell</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
-    <name>Fairy</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T01EN.png">BP03</set>
-    <tablerow>1</tablerow>
-    <ability/>
-    <prop>
-        <type>Follower / Token|Forestcraft|Pixie</type>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <pt>1/1</pt>
-        <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11362,7 +11346,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Select an enemy follower on the field. It can't attack on its controller's next turn.</text>
     <prop>
-        <type>Follower|Forestcraft|Fae-Touched</type>
+        <type>Follower|Forestcraft - Fae-Touched</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <pt>4/3</pt>
@@ -11377,7 +11361,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Select a card on your field. Return it to its owner's hand and give your leader ??+1. (Token cards that are returned to the hand are removed from the game.)</text>
     <prop>
-        <type>Spell|Forestcraft|Verdant</type>
+        <type>Spell|Forestcraft - Verdant/Beast</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <maintype>Spell</maintype>
@@ -11391,7 +11375,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Put a Fairy token into your EX area. Combo (3): Put a Fairy Tale counter on this card. Activate: Engage this card, remove a Fairy Tale counter from this card: Select an enemy follower on the field and deal it 3 damage.</text>
     <prop>
-        <type>Follower|Forestcraft|Princess</type>
+        <type>Follower|Forestcraft - Princess/Fairy Tale</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/3</pt>
@@ -11406,7 +11390,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Whenever a card is returned from the field to your hand, give your leader ??+1.</text>
     <prop>
-        <type>Follower|Forestcraft|Verdant</type>
+        <type>Follower|Forestcraft - Verdant/Beast</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/2</pt>
@@ -11421,9 +11405,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Whenever a card is returned from the field to your hand, give your leader ??+1. On Evolve: Search your deck for a Floral Breeze, reveal it, and add it to your hand.</text>
     <prop>
-        <type>Follower|Forestcraft|Verdant</type>
+        <type>Follower|Evolve|Forestcraft - Verdant/Beast</type>
         <pt>3/3</pt>
-        <maintype>Follower|Evolved</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11446,7 +11430,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Activate: Engage this card: Put a Fairy Tale counter on this card. Activate: 1PP, remove a Fairy Tale counter from this card: Select an enemy follower on the field and destroy it.</text>
     <prop>
-        <type>Follower|Forestcraft|Pixie</type>
+        <type>Follower|Forestcraft - Pixie/Fairy Tale</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <pt>1/4</pt>
@@ -11461,7 +11445,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (0): Evolve this follower. Can only evolve if you have returned a card to your hand this turn. When this card is returned to your hand from the field, you may put a Forescraft follower that costs 2 or less play points from your hand onto the field.</text>
     <prop>
-        <type>Follower|Forestcraft|Verdant</type>
+        <type>Follower|Forestcraft - Verdant/Beast</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/2</pt>
@@ -11476,9 +11460,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>When this card is returned to your hand from the field, you may put a Forescraft follower that costs 2 or less play points from your hand onto the field. On Evolve: Draw a card.</text>
     <prop>
-        <type>Follower / Evolved|Forestcraft|Verdant</type>
+        <type>Follower|Evolve|Forestcraft - Verdant/Beast</type>
         <pt>3/3</pt>
-        <maintype>Follower|Evolved</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11489,7 +11473,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.</text>
     <prop>
-        <type>Follower|Forestcraft|Fairy Tale</type>
+        <type>Follower|Forestcraft - Fairy Tale</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/2</pt>
@@ -11504,9 +11488,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Look at the top 4 cards of your deck. Reveal a card that costs 1 play point from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
-        <type>Follower|Forestcraft|Fairy Tale</type>
+        <type>Follower|Evolve|Forestcraft - Fairy Tale</type>
         <pt>3/3</pt>
-        <maintype>Follower|Evolved</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11517,7 +11501,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>At the start of your main phase, destroy this card. While this card is on your field, your followers have "Follower Strike: Deal 2 damage to the enemy follower." Fanfare: Summon a Fairy token. Combo (3): Give it Rush.</text>
     <prop>
-        <type>Amulet|Forestcraft|Pixie</type>
+        <type>Amulet|Forestcraft - Pixie</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <maintype>Amulet</maintype>
@@ -11531,7 +11515,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Look at the top 4 cards of your deck. You may put a Fairy Tale follower from among them into your EX area. Put the rest on the bottom of your deck in any order. Activate: Engage this card, put this card into your cemetery: Select a Fairy Tale follower on your field and put a Fairy Tale counter on it.</text>
     <prop>
-        <type>Amulet|Forestcraft|Beast</type>
+        <type>Amulet|Forestcraft - Beast/Fairy Tale</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <maintype>Amulet</maintype>
