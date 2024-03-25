@@ -11514,5 +11514,864 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
+		<!-- Set 4 Neutral @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Arriet, Soothing Harpist</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-121.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select an engaged follower on your field. Give it ??+2/??+2 and refresh it. That follower can't attack this turn.</text>
+    <prop>
+        <type>Neutral - Singer|Follower</type>
+        <pt>4/5</pt>
+        <trait>Singer</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Goblin King</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-T02.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward. Fanfare: Give each other Goblinoid follower on your field ??+1/??+1.</text>
+    <prop>
+        <type>Neutral - Goblinoid|Follower|Token</type>
+        <pt>6/6</pt>
+        <trait>Goblinoid</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Goblin Princess</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-124.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower. Fanfare: Search your deck for a Neutral follower that costs 1 play point and put it onto your field.</text>
+    <prop>
+        <type>Neutral - Goblinoid|Follower</type>
+        <pt>2/1</pt>
+        <trait>Goblinoid</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Goblin Princess (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-125.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Put a Goblin King token into your EX area.</text>
+    <prop>
+        <type>Neutral - Goblinoid|Follower</type>
+        <pt>3/2</pt>
+        <trait>Goblinoid</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Grimnir, War Cyclone</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-119.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower. Ward.</text>
+    <prop>
+        <type>Neutral - Lightborne|Follower</type>
+        <pt>3/4</pt>
+        <trait>Lightborne</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Grimnir, War Cyclone (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-120.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward On Evolve: 4PP: Deal 4 damage to each enemy leader and enemy follower on the field.</text>
+    <prop>
+        <type>Neutral - Lightborne|Follower|Evolve</type>
+        <pt>5/6</pt>
+        <trait>Lightborne</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Israfil</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-117.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower. Strike: Deal 3 damage to each enemy follower on the field. Fanfare: Give your leader ??+4.</text>
+    <prop>
+        <type>Neutral - Angel|Follower</type>
+        <pt>8/8</pt>
+        <trait>Angel</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Israfil (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-118.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Strike: Deal 5 damage to each enemy follower on the field.</text>
+    <prop>
+        <type>Neutral - Angel|Follower|Evolve</type>
+        <pt>10/10</pt>
+        <trait>Angel</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mr. Full Moon</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-129.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare and Last Words: Select an enemy follower on the field and give it ??-3/??-3.</text>
+    <prop>
+        <type>Neutral - Lightborne|Follower</type>
+        <pt>3/3</pt>
+        <trait>Lightborne</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Mystic Ring</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-126.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Quick. Put a card in your hand on the bottom of your deck. Draw a card.</text>
+    <prop>
+        <type>Neutral - Lightborne|Spell</type>
+        <cost>1</cost>
+        <trait>Lightborne</trait>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Night's Way</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-130.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Activate: Engage this card: If there are no cards in your EX area, put the top card of your deck into your EX area.</text>
+    <prop>
+        <type>Neutral - Lightborne|Amulet</type>
+        <cost>3</cost>
+        <trait>Lightborne</trait>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Owlcat</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-127.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this card.</text>
+    <prop>
+        <type>Neutral - Beast|Follower</type>
+        <pt>2/2</pt>
+        <trait>Beast</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Owlcat (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-128.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select enemy follower on the field with 1 or less attack or 1 defense and banish it.</text>
+    <prop>
+        <type>Neutral - Beast|Follower</type>
+        <pt>3/3</pt>
+        <trait>Beast</trait>
+        <maintype>Follower</maintype>
+        <evolve>true</evolve>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Purehearted Singer</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-123.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare and Last Words: Draw a card.</text>
+    <prop>
+        <type>Neutral - Singer|Follower</type>
+        <pt>1/2</pt>
+        <trait>Singer</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Staircase to Paradise</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-122.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Whenever a follower leaves your field and goes into the cemetery, put a Soul counter on this card. Activate: If this card has 6 or more Soul counters, engage this card, put this card into your cemetery: Look at the top 5 cards of your deck. You may reveal up to 2 followers from among them and put them into your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Neutral - Angel|Amulet</type>
+        <cost>1</cost>
+        <trait>Angel</trait>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Zodiac Demon</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-116.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Activate: Engage this card and discard a follower in your hand: Select an enemy follower on the field and deal it X damage. X equals the cost of the discarded follower. Then, deal Y damage to its leader. Y equals half the cost of the discarded follower (rounded up).</text>
+    <prop>
+        <type>Neutral - Deity|Follower</type>
+        <pt>6/6</pt>
+        <trait>Deity</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<!-- Set 4 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
+<card>
+    <name>Armor of the Stars</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-037.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Select a follower on your field. Give it ??+1/??+2 and Aura.</text>
+    <prop>
+        <type>Swordcraft - Celestial|Spell</type>
+        <cost>2</cost>
+        <trait>Celestial</trait>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Barbarossa</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-023.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>If there are 3 or more enemy cards on the field, you may play this card for 2 less.
+Evolve (1): Evolve this follower.
+Assail.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <pt>6/5</pt>
+        <trait>Commander</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Barbarossa (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-024.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Assail.
+Last Words: Put this card into your EX area.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower / Evolved</type>
+        <trait>Commander</trait>
+        <pt>7/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Armor of the Stars</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-037.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Select a follower on your field. Give it ??+1/??+2 and Aura.</text>
+    <prop>
+        <type>Swordcraft - Celestial|Spell</type>
+        <cost>2</cost>
+        <trait>Celestial</trait>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Barbarossa</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-023.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>If there are 3 or more enemy cards on the field, you may play this card for 2 less.
+Evolve (1): Evolve this follower.
+Assail.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <pt>6/5</pt>
+        <trait>Commander</trait>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Barbarossa (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-024.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Assail.
+Last Words: Put this card into your EX area.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower / Evolved|Evolve</type>
+        <trait>Commander</trait>
+        <pt>7/6</pt>
+        <maintype>Follower / Evolved</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Flail Knight</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-033.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Strike: Select an enemy follower on the field. Deal it and its leader 1 damage.</text>
+    <prop>
+        <type>Swordcraft - Officer|Follower</type>
+        <trait>Officer</trait>
+        <pt>2/3</pt>
+        <cost>2</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Gawain of the Round Table</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-022.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Rush.
+While this card is on your field, whenever you play a Commander card for the first time each turn, you may play it for 1 less.
+Fanfare: Reveal 2 Commander or 2 Round Table cards in your hand: Recover 2 play points.</text>
+    <prop>
+        <type>Swordcraft - Officer|Follower</type>
+        <trait>Officer</trait>
+        <pt>5/5</pt>
+        <cost>5</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cyclone Blade</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-026.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Select a Commander follower on your field. Deal damage to each enemy follower on the field equal to the selected follower's attack.</text>
+    <prop>
+        <type>Swordcraft - Commander|Spell</type>
+        <trait>Commander</trait>
+        <cost>3</cost>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Knight's Whirlwind</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-027.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Cyclone Blade.)
+Select a Commander follower on your field. Deal damage to all enemy followers on the field equal to the chosen follower's attack.</text>
+    <prop>
+        <type>Swordcraft - Commander|Spell</type>
+        <trait>Commander</trait>
+        <cost>3</cost>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lord General Romeo</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-030.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>If Princess Juliet is on your field, you may play this card for 2 less.
+Ward.
+At the start of your end phase, if Princess Juliet is on your field, give your leader ??+2.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <trait>Commander</trait>
+        <pt>3/4</pt>
+        <cost>3</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mars, Silent Flame General</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-020.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (0): Evolve this follower.
+Whenever an Officer follower is put onto your field, give it ??+1.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <trait>Commander</trait>
+        <pt>3/2</pt>
+        <cost>3</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mars, Silent Flame General (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-021.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Whenever an Officer follower is put onto your field, give it ??+1.
+On Evolve: XPP: Search your deck for an Officer follower that costs X or less and put it onto your field. (You may pay any number of play points for X.)</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower / Evolved</type>
+        <trait>Commander</trait>
+        <pt>4/3</pt>
+        <cost></cost>
+        <maintype>Follower / Evolved</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Perseus</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-025.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: If there are at least 4 followers on your field, give this follower ??+1/??+1.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <trait>Commander</trait>
+        <pt>2/2</pt>
+        <cost>1</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Pollux</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-034.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: If there's a follower on your field that isn't Swordcraft, give this follower ??+1/??+1 and Rush.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <trait>Officer</trait>
+        <pt>5/5</pt>
+        <cost>4</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Princess Juliet</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-032.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>If Lord General Romeo is on your field, you may play this card for 2 less.
+Storm.
+At the start of your end phase, if Lord General Romeo is on your field, select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Swordcraft - Commander|Follower</type>
+        <trait>Commander</trait>
+        <pt>3/2</pt>
+        <cost>3</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Round Table Assembly</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-031.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Choose one of the following effects: (1) Search your deck for a Round Table follower, reveal it, and add it to your hand. (2) Select a Round Table follower on your field and give it ??+1/??+2.</text>
+    <prop>
+        <type>Swordcraft - Commander|Spell</type>
+        <trait>Commander</trait>
+        <cost>1</cost>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shrouded Assassin</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-028.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower.
+Bane.</text>
+    <prop>
+        <type>Swordcraft - Assassin|Follower</type>
+        <trait>Assassin</trait>
+        <pt>1/2</pt>
+        <cost>2</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shrouded Assassin (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-029.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Assail.
+Bane.</text>
+    <prop>
+        <type>Swordcraft - Assassin|Follower / Evolved</type>
+        <trait>Assassin</trait>
+        <pt>3/4</pt>
+        <cost></cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Tristan of the Round Table</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-035.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Ward.</text>
+    <prop>
+        <type>Swordcraft - Officer|Follower</type>
+        <trait>Officer</trait>
+        <pt>2/2</pt>
+        <cost>2</cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Suzaku Kururugi</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD02.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Swordcraft|Leader</type>
+        <cost></cost>
+        <maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Tristan of the Round Table (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-036.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+On Evolve: Select a Round Table card in your cemetery. You may put it into your hand.</text>
+    <prop>
+        <type>Swordcraft - Officer|Follower / Evolved</type>
+        <trait>Officer</trait>
+        <pt>3/3</pt>
+        <cost></cost>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+		<!-- Set 4 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Astrologist of the Mist</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-054.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward. Fanfare: Earth Rite: Give ??+1/??+1 to each follower on your field.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <maintype>Follower</maintype>
+        <pt>5/5</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Chain of Calling</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-044.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Quick. Look at the top 5 cards of your deck. You may reveal a Runecraft follower from among them and put it into your hand. Put the rest to the bottom of your deck in any order. Spellchain (10): Recover 1 play point.</text>
+    <prop>
+        <type>Runecraft|Spell</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Concentration</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-049.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Give your leader ??+3 and draw a card. Earth Rite: Draw 2 instead.</text>
+    <prop>
+        <type>Runecraft|Spell</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cornelia li Britannia</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD03.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text/>
+    <prop>
+        <type>Runecraft|Leader</type>
+        <maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dazzling Healer</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-051.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Follower</maintype>
+        <pt>2/2</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dazzling Healer (Evolve)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-052.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Spellchain (5): Give your leader ??+2.</text>
+    <prop>
+        <type>Runecraft|Follower|Evolve</type>
+        <maintype>Follower|Evolve</maintype>
+        <pt>3/3</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demonstration of Loyalty</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-050.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Concentration.) Give your leader ??+3 and draw a card. Earth Rite: Draw 2 instead.</text>
+    <prop>
+        <type>Runecraft|Spell</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Europa</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-042.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower. Fanfare: Select a face up Europa in your Evolve Deck. Flip it face down and give this follower ??+1/??+1.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Follower</maintype>
+        <pt>1/3</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Europa (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-043.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Storm. Ward. Bane.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <maintype>Follower|Evolve</maintype>
+        <pt>3/5</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Freshman Lou</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-046.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Search your deck for a spell that costs 1 play point, reveal it, and add it to your hand.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Follower</maintype>
+        <pt>1/2</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Giant Chimera</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-040.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Spellchain (10): Deal 5 damage to all enemy leaders and all enemy followers on the field. Spellchain (20): Deal 10 instead. Spellchain (30): Deal 30 instead.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <maintype>Follower</maintype>
+        <pt>7/7</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Haughty Leadership</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-045.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Chain of Calling.) Quick. Look at the top 5 cards of your deck. You may reveal a Runecraft follower from among them and put it into your hand. Put the rest to the bottom of your deck in any order. Spellchain (10): Recover 1 play point.</text>
+    <prop>
+        <type>Runecraft|Spell</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Jeremiah Gottwald</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD04.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text/>
+    <prop>
+        <type>Runecraft|Leader</type>
+        <maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mage of Nightfall</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-053.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Intimidate. Fanfare: Earth Rite: Give this follower ??+2/??+1.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <maintype>Follower</maintype>
+        <pt>3/3</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Magic Illusionist</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-047.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower. Last Words: Earth Rite: Put this card onto your field.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Follower|Evolve</maintype>
+        <pt>2/2</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Magic Illusionist (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-048.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Last Words: Earth Rite: Put this card onto your field.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <maintype>Follower|Evolve</maintype>
+        <pt>4/4</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Magic Owl</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-055.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Rush. Fanfare and Last Words: Discard a spell: Draw a card.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <maintype>Follower</maintype>
+        <pt>1/1</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Star Reader Stella</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-041.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Strike: Look at the top card of your deck. You may put it into your cemetery. Fanfare: Look at the top 4 cards of your deck. You may put a card from among them into your hand. If you do, put another card from among them into your cemetery, put another on the top of your deck, and put the last card on the bottom of your deck.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <maintype>Follower</maintype>
+        <pt>3/3</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Starseer's Telescope</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-056.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Stack. Fanfare: Look at the top card of your deck.</text>
+    <prop>
+        <type>Runecraft|Amulet</type>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Wordwielder Ginger</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-038.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower. Fanfare: You may put a follower from your hand onto your field. Do not activate its Fanfare effect. It can't attack this turn.</text>
+    <prop>
+        <type>Runecraft|Follower</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <maintype>Follower|Evolve</maintype>
+        <pt>4/4</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 </cards>
 </cockatrice_carddatabase>
