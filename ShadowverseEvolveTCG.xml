@@ -50,6 +50,11 @@
 			<longname>Umamusume: Pretty Derby</longname>
 			<settype>Expansion</settype>
 		</set>
+		<set>
+			<name>BP03</name>
+			<longname>BP03 Flames of Laevateinn</longname>
+			<settype>Expansion</settype>
+		</set>
 	</sets>
 	<cards>
 		<!-- SD01 Main -->
@@ -7709,7 +7714,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 		</card>
 		<card>
 			<name>Draconic Weapon </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t07.png">BP02</set>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T05EN.png">BP02</set>
 			<tablerow>0</tablerow>
 			<text>Activate: [act this card and put it into graveyard]: Choose one of your Dragoncraft followers. It gets +0/+1 and gains the Armed trait."</text>
 			<prop>
@@ -11009,20 +11014,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <cmc>2</cmc>
         <type>Spell|Dragoncraft - Dragonewt/Wyrmkin</type>
         <maintype>Spell</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
-    <name>Draconic Weapon</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T05EN.png">BP03</set>
-    <tablerow>1</tablerow>
-    <text>Activate: Engage this card, put it into your cemetery: Select a Dragoncraft follower on your field. Give it ??+1 and the Armed trait (in addition to its other traits).</text>
-    <prop>
-		<manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Amulet|Token|Dragoncraft - Armed</type>
-        <maintype>Amulet|Token</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
