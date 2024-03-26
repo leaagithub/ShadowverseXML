@@ -11538,7 +11538,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 <card>
     <name>Goblin King</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP04-T02.jpg">BP04</set>
-    <tablerow>1</tablerow>
+    <tablerow>0</tablerow>
     <text>Ward. Fanfare: Give each other Goblinoid follower on your field ??+1/??+1.</text>
     <prop>
 	<manacost>4</manacost>
@@ -12326,6 +12326,19 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
         <type>Follower|Runecraft - Mage</type>
         <pt>4/4</pt>
         <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Wordwielder Ginger (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-038.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: You may put any number of followers from your hand onto your field. Do not activate their Fanfare effects. They can't attack this turn.</text>
+    <prop>
+        <type>Follower||Evolve|Runecraft - Mage</type>
+        <pt>6/6</pt>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
