@@ -10574,9 +10574,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Follower|Abysscraft - Departed</type>
+        <type>Follower|Token|Abysscraft - Departed</type>
         <pt>3/3</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Token</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11536,7 +11536,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
-    <name>Goblin King</name>
+    <name>Goblin King (token)</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP04-T02.jpg">BP04</set>
     <tablerow>0</tablerow>
     <text>Ward. Fanfare: Give each other Goblinoid follower on your field ??+1/??+1.</text>
