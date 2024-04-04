@@ -12630,6 +12630,85 @@ Ward.</text>
         <format-sv>legal</format-sv>
     </prop>
 </card>
+<card>
+    <name>Scaled Berserker</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-077.jpg">BP04-077</set>
+    <tablerow>1</tablerow>
+    <text>Rush.
+Whenever this follower takes damage, give it ??+2/??+2.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Wyrmkin</type>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <pt>6/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Sibyl of the Waterwyrm</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-057.jpg">BP04-057</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, give your leader ??+1. If Overflow is active for you, give it ??+2 instead.
+Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increase your maximum play points by 1.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+<card>
+    <name>Star Phoenix</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-064.jpg">BP04-064</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this card is in your cemetery, put it onto your field.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Phoenix</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Star Phoenix (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-065.jpg">BP04-065</set>
+    <tablerow>1</tablerow>
+    <text>Strike: Select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Phoenix</type>
+        <pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Venomous Pucewyrm</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-068.jpg">BP04-068</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your main phase, discard a card.
+Fanfare: Discard a card.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Wyrmkin</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>6/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
 <!-- Set 4 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Castor</name>
@@ -12919,6 +12998,36 @@ Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or le
         <type>Spell|Abysscraft - Demon</type>
         <manacost>7</manacost>
         <cmc>7</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Venomfang Medusa</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-079.jpg">BP04-079</set>
+    <tablerow>1</tablerow>
+    <text>Activate: 0PP: Summon a Serpent token. This ability can be activated once per turn.
+Quick/Activate: Engage this card and put 2 Serpent tokens on your field into your cemetery: Select an enemy follower on the field and destroy it.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Venomous Bite</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-097.jpg">BP04-097</set>
+    <tablerow>1</tablerow>
+    <text>Summon a Serpent token. If there's a Gorgon follower on your field, give the Serpent token you summoned Rush and Assail.</text>
+    <prop>
+        <type>Spell|Abysscraft - Demon</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
