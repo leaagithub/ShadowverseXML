@@ -9868,8 +9868,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Winged Inversion</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-117.jpg">BP03</set>
     <tablerow>2</tablerow>
-    <text>Choose one of the following effects: (1) Discard an Angel card: Select an enemy follower on the field and destroy it.
-        (2) Discard a Fallen Angel card: Give your leader ??+3 and draw a card.</text>
+    <text>Choose one of the following: (1) Discard an Angel follower: Select an enemy follower on the field and destroy it.
+        (2) Discard a Fallen Angel follower: Give your leader ??+3 and draw a card.</text>
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
