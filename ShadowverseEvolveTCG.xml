@@ -12630,6 +12630,300 @@ Ward.</text>
         <format-sv>legal</format-sv>
     </prop>
 </card>
+<!-- Set 4 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Castor</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-093.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Last Words: 2PP: Put this follower onto your field.</text>
+    <prop>
+        <type>Follower|Abysscraft - Departed</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demonic Drummer</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-092.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward. Fanfare: 2PP: Search your deck for a Demonic Drummer and put it onto your field. Last Words: Give your leader ??+1.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demonlord Eachtar</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-082.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, your Abysscraft followers have Rush. Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or less in your cemetery and put them onto your field. Then, give each other follower on your field ??+1/??+1. NC (20): Give ??+3/??+3 instead.</text>
+    <prop>
+        <type>Follower|Abysscraft - Departed</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>5/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Emperor's Authority</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-091.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Grave Desecration.) Fanfare: Put the top 2 cards of your deck into your cemetery. Activate: 2PP, engage this card, put this card into your cemetery: Select a Departed follower in your cemetery and put it into your hand.</text>
+    <prop>
+        <type>Amulet|Abysscraft - Departed</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <pt>null</pt>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Euryale</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-089.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, your Venomfang Medusa and Stheno have Aura. Fanfare: Put a Serpent token into your EX area.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fenrir</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-087.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower. Whenever this card takes damage during your turn, select an enemy follower on the field and deal it 3 damage.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fenrir (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-088.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Whenever this card takes damage during your turn, select an enemy follower on the field and deal it 3 damage.</text>
+    <prop>
+        <type>Follower|Evolved|Abysscraft - Demon</type>
+        <pt>4/6</pt>
+        <maintype>Follower|Evolved</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Frogbat</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-094.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve: Banish 2 cards in your cemetery: Evolve this follower.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Frogbat (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-095.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, give this follower and your leader ??+1.</text>
+    <prop>
+        <type>Follower|Evolved|Abysscraft - Demon</type>
+        <pt>3/3</pt>
+        <maintype>Follower|Evolved</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Grave Desecration</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-090.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Put the top 2 cards of your deck into your cemetery.
+Activate: 2PP, engage this card, put this card into your cemetery: Select a Departed follower in your cemetery and put it into your hand.</text>
+    <prop>
+        <type>Amulet|Abysscraft - Departed</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Howling Demon</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-080.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (3): Evolve this follower.
+Fanfare: Select an enemy follower on the field and deal it 4 damage. If Sanguine is active for you, deal 8 damage instead.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>5/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Howling Demon (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-081.jpg">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Storm.
+On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
+    <prop>
+        <type>Follower|Evolved|Abysscraft - Demon</type>
+        <pt>7/6</pt>
+        <maintype>Follower|Evolved</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Khawy, Mediator of the Underworld</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD08.jpg">BP04-LD08</set>
+    <tablerow>1</tablerow>
+    <text></text>
+    <prop>
+        <type>Leader|Abysscraft</type>
+        <maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lelouch Lamperouge</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD07.jpg">BP04-LD07</set>
+    <tablerow>1</tablerow>
+    <text></text>
+    <prop>
+        <type>Leader|Abysscraft</type>
+        <maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Scorpius</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-096.jpg">BP04-096</set>
+    <tablerow>1</tablerow>
+    <text>Bane.
+Strike: Deal 1 damage to each leader.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Serpent</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-T01.jpg">BP04-T01</set>
+    <tablerow>1</tablerow>
+    <text>Bane.</text>
+    <prop>
+        <type>Follower|Token|Abysscraft - Demon</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <maintype>Follower|Token</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Stheno</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-084.jpg">BP04-084</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Whenever a Serpent token comes onto your field, select an enemy follower on the field and deal it 2 damage.
+Fanfare: Summon a Serpent token.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Stheno (Evolved)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-085.jpg">BP04-085</set>
+    <tablerow>1</tablerow>
+    <text>Whenever a Serpent token comes onto your field, select an enemy follower on the field and deal it 2 damage.
+On Evolve: Summon a Serpent token.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Demon</type>
+        <pt>4/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>The Order of Black Knights' Supreme Leader, Lelouch</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-083.jpg">BP04-083</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Demonlord Eachtar.)
+While this card is on your field, your Abysscraft followers have Rush.
+Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or less in your cemetery and put them onto your field. Then, give each other follower on your field ??+1/??+1. NC (20): Give ??+3/??+3 instead.</text>
+    <prop>
+        <type>Follower|Abysscraft - Departed</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>5/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Trial of the Gorgons</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-086.jpg">BP04-086</set>
+    <tablerow>1</tablerow>
+    <text>Search your deck for a Venomfang Medusa, a Stheno and a Euryale. Put them onto your field.</text>
+    <prop>
+        <type>Spell|Abysscraft - Demon</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 
 </cards>
 </cockatrice_carddatabase>
