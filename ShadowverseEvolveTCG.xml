@@ -12630,7 +12630,7 @@ Ward.</text>
 </card>
 <card>
     <name>Scaled Berserker</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-077.jpg">BP04-077</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-077.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Rush.
 Whenever this follower takes damage, give it ??+2/??+2.</text>
@@ -12646,7 +12646,7 @@ Whenever this follower takes damage, give it ??+2/??+2.</text>
 </card>
 <card>
     <name>Sibyl of the Waterwyrm</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-057.jpg">BP04-057</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-057.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>At the start of your end phase, give your leader ??+1. If Overflow is active for you, give it ??+2 instead.
 Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increase your maximum play points by 1.</text>
@@ -12662,7 +12662,7 @@ Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increas
 </card>
 <card>
     <name>Star Phoenix</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-064.jpg">BP04-064</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-064.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
 Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this card is in your cemetery, put it onto your field.</text>
@@ -12678,7 +12678,7 @@ Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this ca
 </card>
 <card>
     <name>Star Phoenix (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-065.jpg">BP04-065</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-065.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Strike: Select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
@@ -12691,7 +12691,7 @@ Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this ca
 </card>
 <card>
     <name>Venomous Pucewyrm</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-068.jpg">BP04-068</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-068.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>At the start of your main phase, discard a card.
 Fanfare: Discard a card.</text>
@@ -12884,7 +12884,7 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
 </card>
 <card>
     <name>Khawy, Mediator of the Underworld</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD08.jpg">BP04-LD08</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD08.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -12896,7 +12896,7 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
 </card>
 <card>
     <name>Lelouch Lamperouge</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD07.jpg">BP04-LD07</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD07.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -12908,7 +12908,7 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
 </card>
 <card>
     <name>Scorpius</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-096.jpg">BP04-096</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-096.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Bane.
 Strike: Deal 1 damage to each leader.</text>
@@ -12924,7 +12924,7 @@ Strike: Deal 1 damage to each leader.</text>
 </card>
 <card>
     <name>Serpent</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-T01.jpg">BP04-T01</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-T01.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Bane.</text>
     <prop>
@@ -12939,7 +12939,7 @@ Strike: Deal 1 damage to each leader.</text>
 </card>
 <card>
     <name>Stheno</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-084.jpg">BP04-084</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-084.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
 Whenever a Serpent token comes onto your field, select an enemy follower on the field and deal it 2 damage.
@@ -12956,7 +12956,7 @@ Fanfare: Summon a Serpent token.</text>
 </card>
 <card>
     <name>Stheno (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-085.jpg">BP04-085</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-085.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever a Serpent token comes onto your field, select an enemy follower on the field and deal it 2 damage.
 On Evolve: Summon a Serpent token.</text>
@@ -12970,7 +12970,7 @@ On Evolve: Summon a Serpent token.</text>
 </card>
 <card>
     <name>The Order of Black Knights' Supreme Leader, Lelouch</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-083.jpg">BP04-083</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-083.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>(This card is treated as Demonlord Eachtar.)
 While this card is on your field, your Abysscraft followers have Rush.
@@ -12987,7 +12987,7 @@ Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or le
 </card>
 <card>
     <name>Trial of the Gorgons</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-086.jpg">BP04-086</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-086.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Search your deck for a Venomfang Medusa, a Stheno and a Euryale. Put them onto your field.</text>
     <prop>
@@ -13001,7 +13001,7 @@ Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or le
 </card>
 <card>
     <name>Venomfang Medusa</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-079.jpg">BP04-079</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-079.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Activate: 0PP: Summon a Serpent token. This ability can be activated once per turn.
 Quick/Activate: Engage this card and put 2 Serpent tokens on your field into your cemetery: Select an enemy follower on the field and destroy it.</text>
@@ -13017,7 +13017,7 @@ Quick/Activate: Engage this card and put 2 Serpent tokens on your field into you
 </card>
 <card>
     <name>Venomous Bite</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-097.jpg">BP04-097</set>
+    <set picURL="https://images.shadowcard.io/images/cards/BP04-097.jpg">BP04</set>
     <tablerow>1</tablerow>
     <text>Summon a Serpent token. If there's a Gorgon follower on your field, give the Serpent token you summoned Rush and Assail.</text>
     <prop>
