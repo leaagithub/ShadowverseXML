@@ -11074,7 +11074,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <type>Follower|Evolve|Dragoncraft</type>
 		<pt>2/4</pt>
-        <maintype>Follower|evolve</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
