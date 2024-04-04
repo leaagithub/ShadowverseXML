@@ -12571,21 +12571,6 @@ Ward.</text>
     </prop>
 </card>
 <card>
-    <name>Megalorca</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-T05.jpg">BP04</set>
-    <tablerow>1</tablerow>
-    <text></text>
-    <prop>
-        <type>Follower|Token|Dragoncraft - Marine</type>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
-        <pt>2/2</pt>
-        <maintype>Follower|Token</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
     <name>Prime Dragon Keeper</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP04-063.jpg">BP04</set>
     <tablerow>1</tablerow>
