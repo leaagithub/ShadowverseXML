@@ -11522,7 +11522,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 		<!-- Set 4 Neutral @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Arriet, Soothing Harpist</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-121.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-121EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Select an engaged follower on your field. Give it ??+2/??+2 and refresh it. That follower can't attack this turn.</text>
     <prop>
@@ -11537,7 +11537,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Goblin King (token)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-T02.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T02EN.png">BP04</set>
     <tablerow>0</tablerow>
     <text>Ward. Fanfare: Give each other Goblinoid follower on your field ??+1/??+1.</text>
     <prop>
@@ -11552,7 +11552,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Goblin Princess</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-124.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-124EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Fanfare: Search your deck for a Neutral follower that costs 1 play point and put it onto your field.</text>
     <prop>
@@ -11568,7 +11568,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Goblin Princess (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-125.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-125EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Put a Goblin King token into your EX area.</text>
     <prop>
@@ -11581,7 +11581,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Grimnir, War Cyclone</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-119.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-119EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower. Ward.</text>
     <prop>
@@ -11596,7 +11596,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Grimnir, War Cyclone (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-120.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-120EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Ward On Evolve: 4PP: Deal 4 damage to each enemy leader and enemy follower on the field.</text>
     <prop>
@@ -11610,7 +11610,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Israfil</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-117.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-117EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Strike: Deal 3 damage to each enemy follower on the field. Fanfare: Give your leader ??+4.</text>
     <prop>
@@ -11625,7 +11625,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Israfil (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-118.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-118EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Strike: Deal 5 damage to each enemy follower on the field.</text>
     <prop>
@@ -11638,7 +11638,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mr. Full Moon</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-129.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-129EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare and Last Words: Select an enemy follower on the field and give it ??-3/??-3.</text>
     <prop>
@@ -11654,7 +11654,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Mystic Ring</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-126.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-126EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Quick. Put a card in your hand on the bottom of your deck. Draw a card.</text>
     <prop>
@@ -11668,7 +11668,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Night's Way</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-130.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-130EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Activate: Engage this card: If there are no cards in your EX area, put the top card of your deck into your EX area.</text>
     <prop>
@@ -11682,7 +11682,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Owlcat</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-127.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-127EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this card.</text>
     <prop>
@@ -11698,7 +11698,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Owlcat (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-128.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-128EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Select enemy follower on the field with 1 or less attack or 1 defense and banish it.</text>
     <prop>
@@ -11711,7 +11711,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Purehearted Singer</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-123.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-123EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare and Last Words: Draw a card.</text>
     <prop>
@@ -11726,7 +11726,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Staircase to Paradise</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-122.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-122EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever a follower leaves your field and goes into the cemetery, put a Soul counter on this card. Activate: If this card has 6 or more Soul counters, engage this card, put this card into your cemetery: Look at the top 5 cards of your deck. You may reveal up to 2 followers from among them and put them into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
@@ -11741,7 +11741,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Zodiac Demon</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-116.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-116EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Activate: Engage this card and discard a follower in your hand: Select an enemy follower on the field and deal it X damage. X equals the cost of the discarded follower. Then, deal Y damage to its leader. Y equals half the cost of the discarded follower (rounded up).</text>
     <prop>
@@ -11758,7 +11758,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 <!-- Set 4 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
 <card>
     <name>Armor of the Stars</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-037.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-037EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Select a follower on your field. Give it ??+1/??+2 and Aura.</text>
     <prop>
@@ -11773,7 +11773,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Barbarossa</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-023.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-023EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>If there are 3 or more enemy cards on the field, you may play this card for 2 less.
 Evolve (1): Evolve this follower.
@@ -11791,7 +11791,7 @@ Assail.</text>
 
 <card>
     <name>Barbarossa (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-024.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-024EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Assail.
 Last Words: Put this card into your EX area.</text>
@@ -11805,7 +11805,7 @@ Last Words: Put this card into your EX area.</text>
 </card>
 <card>
     <name>Cyclone Blade</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-026.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-026EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Select a Commander follower on your field. Deal damage to each enemy follower on the field equal to the selected follower's attack.</text>
     <prop>
@@ -11819,7 +11819,7 @@ Last Words: Put this card into your EX area.</text>
 </card>
 <card>
     <name>Flail Knight</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-033.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-033EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Strike: Select an enemy follower on the field. Deal it and its leader 1 damage.</text>
     <prop>
@@ -11834,7 +11834,7 @@ Last Words: Put this card into your EX area.</text>
 </card>
 <card>
     <name>Gawain of the Round Table</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-022.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-022EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Rush.
 While this card is on your field, whenever you play a Commander card for the first time each turn, you may play it for 1 less.
@@ -11851,7 +11851,7 @@ Fanfare: Reveal 2 Commander or 2 Round Table cards in your hand: Recover 2 play 
 </card>
 <card>
     <name>Knight's Whirlwind</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-027.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-027EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>(This card is treated as Cyclone Blade.)
 Select a Commander follower on your field. Deal damage to all enemy followers on the field equal to the chosen follower's attack.</text>
@@ -11866,7 +11866,7 @@ Select a Commander follower on your field. Deal damage to all enemy followers on
 </card>
 <card>
     <name>Lord General Romeo</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-030.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-030EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>If Princess Juliet is on your field, you may play this card for 2 less.
 Ward.
@@ -11883,7 +11883,7 @@ At the start of your end phase, if Princess Juliet is on your field, give your l
 </card>
 <card>
     <name>Mars, Silent Flame General</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-020.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-020EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (0): Evolve this follower.
 Whenever an Officer follower is put onto your field, give it ??+1.</text>
@@ -11899,7 +11899,7 @@ Whenever an Officer follower is put onto your field, give it ??+1.</text>
 </card>
 <card>
     <name>Mars, Silent Flame General (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-021.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-021EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever an Officer follower is put onto your field, give it ??+1.
 On Evolve: XPP: Search your deck for an Officer follower that costs X or less and put it onto your field. (You may pay any number of play points for X.)</text>
@@ -11913,7 +11913,7 @@ On Evolve: XPP: Search your deck for an Officer follower that costs X or less an
 </card>
 <card>
     <name>Perseus</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-025.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-025EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: If there are at least 4 followers on your field, give this follower ??+1/??+1.</text>
     <prop>
@@ -11928,7 +11928,7 @@ On Evolve: XPP: Search your deck for an Officer follower that costs X or less an
 </card>
 <card>
     <name>Pollux</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-034.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-034EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: If there's a follower on your field that isn't Swordcraft, give this follower ??+1/??+1 and Rush.</text>
     <prop>
@@ -11943,7 +11943,7 @@ On Evolve: XPP: Search your deck for an Officer follower that costs X or less an
 </card>
 <card>
     <name>Princess Juliet</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-032.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-032EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>If Lord General Romeo is on your field, you may play this card for 2 less.
 Storm.
@@ -11960,7 +11960,7 @@ At the start of your end phase, if Lord General Romeo is on your field, select a
 </card>
 <card>
     <name>Round Table Assembly</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-031.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-031EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Choose one of the following effects: (1) Search your deck for a Round Table follower, reveal it, and add it to your hand. (2) Select a Round Table follower on your field and give it ??+1/??+2.</text>
     <prop>
@@ -11975,7 +11975,7 @@ At the start of your end phase, if Lord General Romeo is on your field, select a
 </card>
 <card>
     <name>Shrouded Assassin</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-028.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-028EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower.
 Bane.</text>
@@ -11991,7 +11991,7 @@ Bane.</text>
 </card>
 <card>
     <name>Shrouded Assassin (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-029.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-029EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Assail.
 Bane.</text>
@@ -12005,7 +12005,7 @@ Bane.</text>
 </card>
 <card>
     <name>Suzaku Kururugi</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD02.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD02EN.png">BP04</set>
     <tablerow>1</tablerow>
     <prop>
         <type>Leader|Swordcraft</type>
@@ -12016,7 +12016,7 @@ Bane.</text>
 </card>
 <card>
     <name>Tristan of the Round Table</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-035.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-035EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
 Ward.</text>
@@ -12032,7 +12032,7 @@ Ward.</text>
 </card>
 <card>
     <name>Tristan of the Round Table (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-036.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-036EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Ward.
 On Evolve: Select a Round Table card in your cemetery. You may put it into your hand.</text>
@@ -12048,7 +12048,7 @@ On Evolve: Select a Round Table card in your cemetery. You may put it into your 
 		<!-- Set 4 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Astrologist of the Mist</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-054.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-054EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Ward. Fanfare: Earth Rite: Give ??+1/??+1 to each follower on your field.</text>
     <prop>
@@ -12063,7 +12063,7 @@ On Evolve: Select a Round Table card in your cemetery. You may put it into your 
 </card>
 <card>
     <name>Chain of Calling</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-044.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-044EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Quick. Look at the top 5 cards of your deck. You may reveal a Runecraft follower from among them and put it into your hand. Put the rest to the bottom of your deck in any order. Spellchain (10): Recover 1 play point.</text>
     <prop>
@@ -12077,7 +12077,7 @@ On Evolve: Select a Round Table card in your cemetery. You may put it into your 
 </card>
 <card>
     <name>Concentration</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-049.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-049EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Give your leader ??+3 and draw a card. Earth Rite: Draw 2 instead.</text>
     <prop>
@@ -12091,7 +12091,7 @@ On Evolve: Select a Round Table card in your cemetery. You may put it into your 
 </card>
 <card>
     <name>Cornelia li Britannia</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD03.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD03EN.png">BP04</set>
     <tablerow>1</tablerow>
     <prop>
         <type>Leader|Runecraft</type>
@@ -12102,7 +12102,7 @@ On Evolve: Select a Round Table card in your cemetery. You may put it into your 
 </card>
 <card>
     <name>Dazzling Healer</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-051.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-051EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
 Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
@@ -12118,7 +12118,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Dazzling Healer (Evolve)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-052.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-052EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Spellchain (5): Give your leader ??+2.</text>
     <prop>
@@ -12131,7 +12131,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Demonstration of Loyalty</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-050.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-050EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>(This card is treated as Concentration.) Give your leader ??+3 and draw a card. Earth Rite: Draw 2 instead.</text>
     <prop>
@@ -12145,7 +12145,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Europa</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-042.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-042EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower. Fanfare: Select a face up Europa in your Evolve Deck. Flip it face down and give this follower ??+1/??+1.</text>
     <prop>
@@ -12160,7 +12160,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Europa (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-043.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-043EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Storm. Ward. Bane.</text>
     <prop>
@@ -12173,7 +12173,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Freshman Lou</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-046.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-046EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Search your deck for a spell that costs 1 play point, reveal it, and add it to your hand.</text>
     <prop>
@@ -12188,7 +12188,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Giant Chimera</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-040.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-040EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Spellchain (10): Deal 5 damage to all enemy leaders and all enemy followers on the field. Spellchain (20): Deal 10 instead. Spellchain (30): Deal 30 instead.</text>
     <prop>
@@ -12203,7 +12203,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Haughty Leadership</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-045.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-045EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>(This card is treated as Chain of Calling.) Quick. Look at the top 5 cards of your deck. You may reveal a Runecraft follower from among them and put it into your hand. Put the rest to the bottom of your deck in any order. Spellchain (10): Recover 1 play point.</text>
     <prop>
@@ -12217,7 +12217,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Jeremiah Gottwald</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD04.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD04EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text/>
     <prop>
@@ -12229,7 +12229,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Mage of Nightfall</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-053.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-053EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Intimidate. Fanfare: Earth Rite: Give this follower ??+2/??+1.</text>
     <prop>
@@ -12244,7 +12244,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Magic Illusionist</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-047.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-047EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower. Last Words: Earth Rite: Put this card onto your field.</text>
     <prop>
@@ -12259,7 +12259,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Magic Illusionist (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-048.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-048EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Last Words: Earth Rite: Put this card onto your field.</text>
     <prop>
@@ -12272,7 +12272,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Magic Owl</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-055.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-055EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Rush. Fanfare and Last Words: Discard a spell: Draw a card.</text>
     <prop>
@@ -12287,7 +12287,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Star Reader Stella</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-041.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-041EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Strike: Look at the top card of your deck. You may put it into your cemetery. Fanfare: Look at the top 4 cards of your deck. You may put a card from among them into your hand. If you do, put another card from among them into your cemetery, put another on the top of your deck, and put the last card on the bottom of your deck.</text>
     <prop>
@@ -12302,7 +12302,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Starseer's Telescope</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-056.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-056EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Stack. Fanfare: Look at the top card of your deck.</text>
     <prop>
@@ -12316,7 +12316,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Wordwielder Ginger</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-038.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-038EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower. Fanfare: You may put a follower from your hand onto your field. Do not activate its Fanfare effect. It can't attack this turn.</text>
     <prop>
@@ -12331,7 +12331,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 </card>
 <card>
     <name>Wordwielder Ginger (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-038.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-038EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>On Evolve: You may put any number of followers from your hand onto your field. Do not activate their Fanfare effects. They can't attack this turn.</text>
     <prop>
@@ -12345,7 +12345,7 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 <!-- Set 4 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Aqua Nereid</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-074.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-074EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Ward.
 Fanfare: Summon a Megalorca token. If Overflow is active for you, give it Storm.</text>
@@ -12361,7 +12361,7 @@ Fanfare: Summon a Megalorca token. If Overflow is active for you, give it Storm.
 </card>
 <card>
     <name>Cetus</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-069.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-069EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.</text>
     <prop>
@@ -12376,7 +12376,7 @@ Fanfare: Summon a Megalorca token. If Overflow is active for you, give it Storm.
 </card>
 <card>
     <name>Cetus (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-070.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-070EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Destroy each of the lowest cost enemy followers on the field.</text>
     <prop>
@@ -12389,7 +12389,7 @@ Fanfare: Summon a Megalorca token. If Overflow is active for you, give it Storm.
 </card>
 <card>
     <name>Crimson Rebellion</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-067.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-067EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Quick.
 You may play this card for 5 more. If you do, banish each enemy follower on the field. Otherwise, select an enemy follower on the field and banish it.</text>
@@ -12404,7 +12404,7 @@ You may play this card for 5 more. If you do, banish each enemy follower on the 
 </card>
 <card>
     <name>Crimson Yaksha, Kallen</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-058.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-058EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>At the start of your end phase, give your leader ??+1. If Overflow is active for you, give it ??+2 instead.
 Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increase your maximum play points by 1.</text>
@@ -12420,7 +12420,7 @@ Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increas
 </card>
 <card>
     <name>Divine Tiger</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-072.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-072EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>If this card is discarded, you may put it into your EX area.
 -----------------
@@ -12436,7 +12436,7 @@ Select an enemy follower on the field and deal it 3 damage.</text>
 </card>
 <card>
     <name>Dragon's Nest</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-078.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-078EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Activate: Engage this card, put this card into your cemetery: Give your leader ??+2. If Overflow is active for you, draw a card.</text>
     <prop>
@@ -12450,7 +12450,7 @@ Select an enemy follower on the field and deal it 3 damage.</text>
 </card>
 <card>
     <name>Dragonewt Fist</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-071.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-071EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>If this card is discarded, you may put it into your EX area.
 -----------------
@@ -12466,7 +12466,7 @@ Select an enemy follower on the field and deal it 3 damage.</text>
 </card>
 <card>
     <name>Dragonrearer Matilda</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-073.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-073EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Activate: 1PP, engage this card, put this card into your cemetery: Look at the top 3 cards of your deck. You may reveal a Dragoncraft follower that costs 3 or less play points from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
@@ -12481,7 +12481,7 @@ Select an enemy follower on the field and deal it 3 damage.</text>
 </card>
 <card>
     <name>Hippocampus</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-075.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-075EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (4): Evolve this follower.
 Ward.</text>
@@ -12497,7 +12497,7 @@ Ward.</text>
 </card>
 <card>
     <name>Hippocampus (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-076.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-076EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -12510,7 +12510,7 @@ Ward.</text>
 </card>
 <card>
     <name>Kallen Kozuki</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD05.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD05EN.png">BP04</set>
     <tablerow>1</tablerow>
     <prop>
         <type>Leader|Dragoncraft</type>
@@ -12521,7 +12521,7 @@ Ward.</text>
 </card>
 <card>
     <name>Li Xingke</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD06.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD06EN.png">BP04</set>
     <tablerow>1</tablerow>
     <prop>
         <type>Leader|Dragoncraft</type>
@@ -12532,7 +12532,7 @@ Ward.</text>
 </card>
 <card>
     <name>Lightning Blast</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-066.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-066EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -12546,7 +12546,7 @@ Ward.</text>
 </card>
 <card>
     <name>Lævateinn Dragon, Blast Form (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-062.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-062EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>This card is treated as Lævateinn Dragon in addition to its other names. Intimidate. On Evolve: Deal X damage to each enemy follower on the field. X equals twice the number of Armed followers on your field.</text>
     <prop>
@@ -12559,7 +12559,7 @@ Ward.</text>
 </card>
 <card>
     <name>Lævateinn Dragon, Defense Form (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-061.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-061EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>This card is treated as Lævateinn Dragon in addition to its other names. Ward. Subtract 1 from all damage dealt to this card. At the start of your end phase, give your leader ??+3.</text>
     <prop>
@@ -12572,7 +12572,7 @@ Ward.</text>
 </card>
 <card>
     <name>Prime Dragon Keeper</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-063.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-063EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever another Dragoncraft follower that costs 3 or less comes onto your field, select an enemy follower on the field and deal it 2 damage. Then, deal 1 damage to its leader. Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and Intimidate.</text>
     <prop>
@@ -12587,7 +12587,7 @@ Ward.</text>
 </card>
 <card>
     <name>Python</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-059.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-059EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Fanfare: Select your deck for up to 10 cards and banish them.</text>
     <prop>
@@ -12602,7 +12602,7 @@ Ward.</text>
 </card>
 <card>
     <name>Python (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-060.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-060EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Search your deck for up to 10 cards and banish them.</text>
     <prop>
@@ -12615,7 +12615,7 @@ Ward.</text>
 </card>
 <card>
     <name>Scaled Berserker</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-077.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-077EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Rush.
 Whenever this follower takes damage, give it ??+2/??+2.</text>
@@ -12631,7 +12631,7 @@ Whenever this follower takes damage, give it ??+2/??+2.</text>
 </card>
 <card>
     <name>Sibyl of the Waterwyrm</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-057.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-057EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>At the start of your end phase, give your leader ??+1. If Overflow is active for you, give it ??+2 instead.
 Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increase your maximum play points by 1.</text>
@@ -12647,7 +12647,7 @@ Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increas
 </card>
 <card>
     <name>Star Phoenix</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-064.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-064EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
 Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this card is in your cemetery, put it onto your field.</text>
@@ -12663,7 +12663,7 @@ Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this ca
 </card>
 <card>
     <name>Star Phoenix (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-065.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-065EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Strike: Select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
@@ -12676,7 +12676,7 @@ Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this ca
 </card>
 <card>
     <name>Venomous Pucewyrm</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-068.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-068EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>At the start of your main phase, discard a card.
 Fanfare: Discard a card.</text>
@@ -12694,7 +12694,7 @@ Fanfare: Discard a card.</text>
 <!-- Set 4 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Castor</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-093.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-093EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Last Words: 2PP: Put this follower onto your field.</text>
     <prop>
@@ -12709,7 +12709,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Demonic Drummer</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-092.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-092EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Ward. Fanfare: 2PP: Search your deck for a Demonic Drummer and put it onto your field. Last Words: Give your leader ??+1.</text>
     <prop>
@@ -12724,7 +12724,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Demonlord Eachtar</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-082.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-082EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>While this card is on your field, your Abysscraft followers have Rush. Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or less in your cemetery and put them onto your field. Then, give each other follower on your field ??+1/??+1. NC (20): Give ??+3/??+3 instead.</text>
     <prop>
@@ -12739,7 +12739,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Emperor's Authority</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-091.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-091EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>(This card is treated as Grave Desecration.) Fanfare: Put the top 2 cards of your deck into your cemetery. Activate: 2PP, engage this card, put this card into your cemetery: Select a Departed follower in your cemetery and put it into your hand.</text>
     <prop>
@@ -12753,7 +12753,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Euryale</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-089.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-089EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>While this card is on your field, your Venomfang Medusa and Stheno have Aura. Fanfare: Put a Serpent token into your EX area.</text>
     <prop>
@@ -12768,7 +12768,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Fenrir</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-087.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-087EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Whenever this card takes damage during your turn, select an enemy follower on the field and deal it 3 damage.</text>
     <prop>
@@ -12783,7 +12783,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Fenrir (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-088.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-088EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever this card takes damage during your turn, select an enemy follower on the field and deal it 3 damage.</text>
     <prop>
@@ -12796,7 +12796,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Frogbat</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-094.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-094EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve: Banish 2 cards in your cemetery: Evolve this follower.</text>
     <prop>
@@ -12811,7 +12811,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Frogbat (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-095.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-095EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>At the start of your end phase, give this follower and your leader ??+1.</text>
     <prop>
@@ -12824,7 +12824,7 @@ Fanfare: Discard a card.</text>
 </card>
 <card>
     <name>Grave Desecration</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-090.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-090EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Put the top 2 cards of your deck into your cemetery.
 Activate: 2PP, engage this card, put this card into your cemetery: Select a Departed follower in your cemetery and put it into your hand.</text>
@@ -12839,7 +12839,7 @@ Activate: 2PP, engage this card, put this card into your cemetery: Select a Depa
 </card>
 <card>
     <name>Howling Demon</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-080.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-080EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (3): Evolve this follower.
 Fanfare: Select an enemy follower on the field and deal it 4 damage. If Sanguine is active for you, deal 8 damage instead.</text>
@@ -12855,7 +12855,7 @@ Fanfare: Select an enemy follower on the field and deal it 4 damage. If Sanguine
 </card>
 <card>
     <name>Howling Demon (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-081.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-081EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Storm.
 On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
@@ -12869,7 +12869,7 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
 </card>
 <card>
     <name>Khawy, Mediator of the Underworld</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD08.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD08EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -12881,7 +12881,7 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
 </card>
 <card>
     <name>Lelouch Lamperouge</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-LD07.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD07EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -12893,7 +12893,7 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
 </card>
 <card>
     <name>Scorpius</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-096.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-096EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Bane.
 Strike: Deal 1 damage to each leader.</text>
@@ -12909,7 +12909,7 @@ Strike: Deal 1 damage to each leader.</text>
 </card>
 <card>
     <name>Serpent</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-T01.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T01EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Bane.</text>
     <prop>
@@ -12924,7 +12924,7 @@ Strike: Deal 1 damage to each leader.</text>
 </card>
 <card>
     <name>Stheno</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-084.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-084EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
 Whenever a Serpent token comes onto your field, select an enemy follower on the field and deal it 2 damage.
@@ -12941,7 +12941,7 @@ Fanfare: Summon a Serpent token.</text>
 </card>
 <card>
     <name>Stheno (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-085.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-085EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever a Serpent token comes onto your field, select an enemy follower on the field and deal it 2 damage.
 On Evolve: Summon a Serpent token.</text>
@@ -12955,7 +12955,7 @@ On Evolve: Summon a Serpent token.</text>
 </card>
 <card>
     <name>The Order of Black Knights' Supreme Leader, Lelouch</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-083.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-083EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>(This card is treated as Demonlord Eachtar.)
 While this card is on your field, your Abysscraft followers have Rush.
@@ -12972,7 +12972,7 @@ Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or le
 </card>
 <card>
     <name>Trial of the Gorgons</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-086.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-086EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Search your deck for a Venomfang Medusa, a Stheno and a Euryale. Put them onto your field.</text>
     <prop>
@@ -12986,7 +12986,7 @@ Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or le
 </card>
 <card>
     <name>Venomfang Medusa</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-079.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-079EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Activate: 0PP: Summon a Serpent token. This ability can be activated once per turn.
 Quick/Activate: Engage this card and put 2 Serpent tokens on your field into your cemetery: Select an enemy follower on the field and destroy it.</text>
@@ -13002,7 +13002,7 @@ Quick/Activate: Engage this card and put 2 Serpent tokens on your field into you
 </card>
 <card>
     <name>Venomous Bite</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP04-097.jpg">BP04</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-097EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Summon a Serpent token. If there's a Gorgon follower on your field, give the Serpent token you summoned Rush and Assail.</text>
     <prop>
