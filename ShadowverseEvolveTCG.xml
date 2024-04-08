@@ -13014,6 +13014,590 @@ Quick/Activate: Engage this card and put 2 Serpent tokens on your field into you
         <format-sv>legal</format-sv>
     </prop>
 </card>
+		<!-- Set 4 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Aether of the White Wing</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-098EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Fanfare: Search your deck for a Havencraft follower (with a different name than this card) that costs X or less play points and put it onto your field. X equals your maximum play points.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Andromeda</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-103EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Your leader and each follower on your field cannot take damage from card effects this turn.</text>
+    <prop>
+        <type>Follower|Havencraft - Celestial</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Calydonian Boar</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-108EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Rush.
+Once per turn, when an amulet leaves your field, give this follower ??+2/??+2 and Assail.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Candelabra of Prayers</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-115EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Once per turn, whenever another amulet comes onto your field, give your leader ??+1.</text>
+    <prop>
+        <type>Amulet|Havencraft - Faith</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Charles zi Britannia</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD09EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text></text>
+    <prop>
+        <type>Leader|Havencraft</type>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dark Jeanne</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-099EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: Deal 2 damage to each other follower on the field. Give ??+2 to each other follower on your field.</text>
+    <prop>
+        <type>Follower|Havencraft - Zealot</type>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dark Jeanne (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-100EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: If your leader's defense is ??5 or more, select an enemy follower on the field. Deal 4 damage to it and each leader.</text>
+    <prop>
+        <type>Follower / Evolved|Havencraft - Zealot</type>
+        <cmc>6</cmc>
+        <pt>6/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Globe of the Starways</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-104EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Search your deck for an amulet, reveal it, and add it to your hand.
+Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give your leader ??+1 and draw a card.</text>
+    <prop>
+        <type>Amulet|Havencraft - Faith</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Jet Black Charisma</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-105EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Search your deck for an amulet, reveal it, and add it to your hand.
+Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give your leader ??+1 and draw a card.</text>
+    <prop>
+        <type>Amulet|Havencraft - Faith</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lorena, Gentle Piety</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD10EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text></text>
+    <prop>
+        <type>Leader|Havencraft</type>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mist Shaman</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-112EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mist Shaman (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-113EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select another follower on your field and give it Aura.</text>
+    <prop>
+        <type>Follower / Evolved|Havencraft - Faith</type>
+        <cmc>2</cmc>
+        <pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Octobishop</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-114EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+At the start of your end phase, give this follower ??+2.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Sister of Punishment</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-111EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Once per turn, when an amulet leaves your field, select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Follower|Havencraft - Zealot</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Star Priestess</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-106EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve: Banish an amulet on your field: Evolve this follower.
+Fanfare: Engage 2 amulets on your field: Select an enemy follower on the field. Deal it 3 damage and give your leader ??+3.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Star Priestess (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-107EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select an amulet in your cemetery and put it onto your field.</text>
+    <prop>
+        <type>Follower / Evolved|Havencraft - Faith</type>
+        <cmc>6</cmc>
+        <pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Star Torrent</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-109EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Quick.
+Deal 3 damage to each engaged enemy follower on the field. If there's an amulet on your field, give your leader ??+2.</text>
+    <prop>
+        <type>Spell|Havencraft - Faith</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Starchaser Sprite</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-110EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Engage 2 amulets on your field: Draw 2 cards, then discard a card.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Zoe, Queen of Goldenia</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-101EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into your cemetery and draw a card.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Zoe, Queen of Goldenia (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-102EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select an enemy follower on the field and banish it.</text>
+    <prop>
+        <type>Follower / Evolved|Havencraft - Faith</type>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+		<!-- Set 4 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Beetle Warrior</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-018EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Combo (3): Give this follower ??+1/??+1 and Storm.</text>
+    <prop>
+        <type>Follower|Forestcraft - Hunter</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>C.C.</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD01EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text></text>
+    <prop>
+        <type>Leader|Forestcraft</type>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cassiopeia</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-001EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select any number of enemy followers on the field. Deal X damage divided between them. X equals the total number of cards in your hand and EX area.</text>
+    <prop>
+        <type>Follower|Forestcraft - Fae-Touched</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>4/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Deepwood Anomaly</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-003EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+If this follower successfully attacks and deals damage to the enemy leader, you win the match.</text>
+    <prop>
+        <type>Follower|Forestcraft - Verdant</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>8/8</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Deepwood Anomaly (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-004EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>If this follower successfully attacks and deals damage to the enemy leader, you win the match.
+On Evolve: Select an enemy follower on the field. Put it on the bottom of its owner's deck. (Tokens put on the bottom of the deck are removed from the game.)</text>
+    <prop>
+        <type>Follower / Evolved|Forestcraft - Verdant</type>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dolorblade Demon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-012EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare and Last Words: Deal 1 damage to each enemy leader and enemy follower on the field.</text>
+    <prop>
+        <type>Follower|Forestcraft - Hunter</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dryad</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-017EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Strike: Select an enemy follower on the field and give it ??-1.</text>
+    <prop>
+        <type>Follower|Forestcraft - Fae-Touched</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Elf Song</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-013EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Summon a Fairy token. Combo (3): Give each Forestcraft follower on your field ??+1/??+1.</text>
+    <prop>
+        <type>Spell|Forestcraft - Fae-Touched</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fairy</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T04EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Follower / Token|Forestcraft - Pixie</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fairy Wisp</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T03EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Follower / Token|Forestcraft - Pixie</type>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fashionista Nelcha</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-007EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Activate: Engage this card: Combo (3): Choose one of the following effects: (1) Select another follower on your field and give it ??+2/??+2. (2) Select an enemy follower on the field and give it ??-2/??-2.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fita the Gentle Elf</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-015EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fita the Gentle Elf (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-016EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Give your leader ??+1 and draw a card.</text>
+    <prop>
+        <type>Follower / Evolved|Forestcraft - Elf</type>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost></manacost>
+        <cmc></cmc>
+        <pt>3/2</pt>
+    </prop>
+</card>
+<card>
+    <name>Inviolable Domain</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-009EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Spring-Green Protection.) When this card leaves the field, put a Fairy Wisp token into your EX area. Activate: 1PP, engage this card, put this card into your cemetery: Select a Forestcraft follower on your field and give it ??+1. Combo (3): Then give it ??+1.</text>
+    <prop>
+        <type>Amulet|Forestcraft - Elf</type>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+    </prop>
+</card>
+<card>
+    <name>Ivy Spellbomb</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-019EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Select an enemy follower on the field and deal it 5 damage. Combo (3): Then, deal 3 damage to its leader.</text>
+    <prop>
+        <type>Spell|Forestcraft - Elf</type>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+    </prop>
+</card>
+<card>
+    <name>King Elephant</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-005EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (4): Evolve this follower. Storm. Fanfare: Select any number of cards on your field and return them to the hand. Then, give this follower ??+X/??+X. X equals the number of cards in your hand.</text>
+    <prop>
+        <type>Follower|Forestcraft - Hunter</type>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <pt>1/1</pt>
+    </prop>
+</card>
+<card>
+    <name>King Elephant (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-006EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Storm. This follower ignores Ward. On Evolve: Give this follower ??+X/??+X. X equals the number of cards in your hand.</text>
+    <prop>
+        <type>Follower / Evolved|Forestcraft - Hunter</type>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost></manacost>
+        <cmc></cmc>
+        <pt>1/1</pt>
+    </prop>
+</card>
+<card>
+    <name>Spring-Green Protection</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-008EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>When this card leaves the field, put a Fairy Wisp token into your EX area. Activate: 1PP, engage this card, put this card into your cemetery: Select a Forestcraft follower on your field and give it ??+1. Combo (3): Then give it ??+1.</text>
+    <prop>
+        <type>Amulet|Forestcraft - Elf</type>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+    </prop>
+</card>
+<card>
+    <name>Starry Elf</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-014EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Search your deck for an amulet, reveal it, and add it to your hand.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf</type>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+    </prop>
+</card>
+<card>
+    <name>Sukuna, Brave and Small</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-010EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Forestcraft - Hunter</type>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+    </prop>
+</card>
 
 </cards>
 </cockatrice_carddatabase>
