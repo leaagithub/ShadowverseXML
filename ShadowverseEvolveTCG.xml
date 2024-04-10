@@ -10211,7 +10211,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
-    <name>Witch's Cauldron</name>
+    <name>Witchs Cauldron</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-054.jpg">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Look at the top 4 cards of your deck. You may reveal a card with Earth Rite from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
