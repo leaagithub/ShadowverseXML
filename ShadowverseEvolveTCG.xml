@@ -9652,7 +9652,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Follower|Neutral - Singer/Fable</type>
+        <type>Follower|Neutral - Musical/Fable</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11670,7 +11670,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>5</manacost>
 	<cmc>5</cmc>
-        <type>Follower|Neutral - Singer</type>
+        <type>Follower|Neutral - Musical</type>
         <pt>4/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11872,7 +11872,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>3</manacost>
 	<cmc>3</cmc>
-        <type>Follower|Neutral - Singer</type>
+        <type>Follower|Neutral - Musical</type>
         <pt>1/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -12956,7 +12956,7 @@ Fanfare: Discard a card.</text>
     <tablerow>1</tablerow>
     <text>Ward. Fanfare: 2PP: Search your deck for a Demonic Drummer and put it onto your field. Last Words: Give your leader ??+1.</text>
     <prop>
-        <type>Follower|Abysscraft - Demon/Singer</type>
+        <type>Follower|Abysscraft - Demon/Musical</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <pt>1/1</pt>
@@ -13087,7 +13087,7 @@ Activate: 2PP, engage this card, put this card into your cemetery: Select a Depa
     <text>Evolve (3): Evolve this follower.
 Fanfare: Select an enemy follower on the field and deal it 4 damage. If Sanguine is active for you, deal 8 damage instead.</text>
     <prop>
-        <type>Follower|Abysscraft - Demon/Singer</type>
+        <type>Follower|Abysscraft - Demon/Musical</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
         <pt>5/4</pt>
@@ -13103,7 +13103,7 @@ Fanfare: Select an enemy follower on the field and deal it 4 damage. If Sanguine
     <text>Storm.
 On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
     <prop>
-        <type>Follower|Evolve|Abysscraft - Demon/Singer</type>
+        <type>Follower|Evolve|Abysscraft - Demon/Musical</type>
         <pt>7/6</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
