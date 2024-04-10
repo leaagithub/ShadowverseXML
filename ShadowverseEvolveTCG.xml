@@ -9643,53 +9643,67 @@ Strike: If there are no other followers on your field, select an enemy follower 
 			</prop>
 		</card>
 		<!-- Set 3 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
-	<card>
+		<!-- Set 3 Neutral @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
     <name>Actress Feria</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-114.jpg">BP03</set>
     <tablerow>2</tablerow>
-    <text>Activate: Engage this card: Select another Fairy Tale follower on your field and put a Fairy Tale counter on it.</text>
+    <text>Activate: Engage this card: Select another Fable follower on your field and put a Fable counter on it.</text>
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Follower|Neutral - Singer/Fairy Tale</type>
+        <type>Follower|Neutral - Singer/Fable</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
-	</card>
-    <card>
+</card>
+<card>
         <name>Alice, Wonderland Explorer</name>
         <set picURL="https://images.shadowcard.io/images/cards/BP03-107.jpg">BP03</set>
         <tablerow>2</tablerow>
         <text>Evolve (1): Evolve this follower.
-            Fanfare: Put a Fairy Tale counter on this card.
-            Activate: Remove a Fairy Tale counter from this card: Select a Fairy Tale follower on your field or in your EX area. Put a Fairy Tale counter on it.</text>
+            Fanfare: Put a Fable counter on this card.
+            Activate: Remove a Fable counter from this card: Select a Fable follower on your field or in your EX area. Put a Fable counter on it.</text>
         <prop>
             <manacost>3</manacost>
             <cmc>3</cmc>
-            <type>Follower|Neutral - Fairy Tale</type>
+            <type>Follower|Neutral - Fable</type>
             <pt>3/3</pt>
             <maintype>Follower</maintype>
             <format-shadowverse>legal</format-shadowverse>
             <format-sv>legal</format-sv>
         </prop>
-    </card>
-
-    <card>
+</card>
+<card>
         <name>Alice, Wonderland Explorer (Evolved)</name>
         <set picURL="https://images.shadowcard.io/images/cards/BP03-108.jpg">BP03</set>
         <tablerow>2</tablerow>
-        <text>On Evolve: Look at the top 4 cards of your deck. Put up to 2 Fairy Tale cards from among them into your EX area. Put the rest on the bottom of your deck in any order.
-            Activate: Remove a Fairy Tale counter from this card: Select a Fairy Tale follower on your field or in your EX area. Put a Fairy Tale counter on it.</text>
+        <text>On Evolve: Look at the top 4 cards of your deck. Put up to 2 Fable cards from among them into your EX area. Put the rest on the bottom of your deck in any order.
+            Activate: Remove a Fable counter from this card: Select a Fable follower on your field or in your EX area. Put a Fable counter on it.</text>
         <prop>
-            <type>Follower|Evolve|Neutral - Fairy Tale</type>
+            <type>Follower|Evolve|Neutral - Fable</type>
             <pt>4/4</pt>
             <maintype>Follower|Evolve</maintype>
             <format-shadowverse>legal</format-shadowverse>
             <format-sv>legal</format-sv>
         </prop>
-    </card>
+</card>
+<card>
+        <name>Alice, Wonderland Explorer (Evolved) (U)</name>
+        <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U07EN.png">BP03</set>
+        <tablerow>2</tablerow>
+        <text>On Evolve: Look at the top 4 cards of your deck. Put up to 2 Fable cards from among them into your EX area. Put the rest on the bottom of your deck in any order.
+            Activate: Remove a Fable counter from this card: Select a Fable follower on your field or in your EX area. Put a Fable counter on it.</text>
+        <prop>
+            <type>Follower|Evolve|Neutral - Fable</type>
+            <pt>4/4</pt>
+            <maintype>Follower|Evolve</maintype>
+            <format-shadowverse>legal</format-shadowverse>
+            <format-sv>legal</format-sv>
+        </prop>
+</card>
 <card>
     <name>Angel of Chaos</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-109.jpg">BP03</set>
@@ -9707,7 +9721,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Coal-Black Disciple</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-118.jpg">BP03</set>
@@ -9739,7 +9752,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Dark Messenger (Evolved)</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-120.jpg">BP03</set>
@@ -9764,13 +9776,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Spell|Neutral - Fairy Tale</type>
+        <type>Spell|Neutral - Fable</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Garuel, Seraphic Leo</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-112.jpg">BP03</set>
@@ -9802,7 +9813,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Humpty Dumpty</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-115.jpg">BP03</set>
@@ -9811,7 +9821,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Neutral - Fairy Tale</type>
+        <type>Follower|Neutral - Fable</type>
         <pt>3/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -9824,23 +9834,22 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>2</tablerow>
     <text>On Evolve: Deal 5 damage to each follower on the field, deal 3 damage to each enemy leader and discard your hand.</text>
     <prop>
-        <type>Follower|Evolve|Neutral - Fairy Tale</type>
+        <type>Follower|Evolve|Neutral - Fable</type>
         <pt>4/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Rapunzel</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-110.jpg">BP03</set>
     <tablerow>2</tablerow>
-    <text>Ward. This follower can't attack unless it has a Fairy Tale counter on it.</text>
+    <text>Ward. This follower can't attack unless it has a Fable counter on it.</text>
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Neutral - Princess/Fairy Tale</type>
+        <type>Follower|Neutral - Princess/Fable</type>
         <pt>4/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -9863,7 +9872,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Winged Inversion</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-117.jpg">BP03</set>
@@ -9879,6 +9887,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
+		<!-- Set 3 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Blitz</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-053.jpg">BP03</set>
@@ -9893,7 +9902,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Check</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-044.jpg">BP03</set>
@@ -9922,7 +9930,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Falise, Leonardian Mage</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-041.jpg">BP03</set>
@@ -9948,13 +9955,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Amulet|Runecraft - Earth Sigil/Fairy Tale</type>
+        <type>Amulet|Runecraft - Earth Sigil/Fable</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Magic Sediment</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-T02.jpg">BP03</set>
@@ -9985,7 +9991,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Magical Knight</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-046.jpg">BP03</set>
@@ -10015,7 +10020,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Magical Pawn</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-T03.jpg">BP03</set>
@@ -10046,7 +10050,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Milady, Mystic Queen</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-042.jpg">BP03</set>
@@ -10076,7 +10079,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Mr. Heinlein, Shadow Mage</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-045.jpg">BP03</set>
@@ -10109,7 +10111,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Mystic King (Evolved)</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-040.jpg">BP03</set>
@@ -10125,6 +10126,62 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
+    <name>The Cauldron of Calamity</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-054EN.png">BP03</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Look at the top 4 cards of your deck. You may reveal a card with Earth Rite from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Amulet|Runecraft - Mage/Earth Sigil</type>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Witch of Calamity, Millie Parfait</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-LDⓈ01EN.png">BP03</set>
+    <tablerow>0</tablerow>
+    <text></text>
+    <prop>
+        <type>Leader|Runecraft</type>
+        <maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Witch of Calamity, Millie Parfait</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-036EN.png">BP03</set>
+    <tablerow>6</tablerow>
+    <text>Fanfare: Summon a Magic Sediment token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
+    <prop>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Follower|Runecraft - Mage/Fable</type>
+        <pt>4/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Witch of Calamity, Millie Parfait (SP)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-SP01EN.png">BP03</set>
+    <tablerow>6</tablerow>
+    <text>Fanfare: Summon a Magic Sediment token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
+    <prop>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Follower|Runecraft - Mage/Fable</type>
+        <pt>4/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Witch of Sweets</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-049.jpg">BP03</set>
     <tablerow>2</tablerow>
@@ -10132,7 +10189,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Runecraft - Mage/Fairy Tale</type>
+        <type>Follower|Runecraft - Mage/Fable</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10146,7 +10203,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>2</tablerow>
     <text>On Evolve: Draw a card.</text>
     <prop>
-        <type>Follower|Evolve|Runecraft - Mage/Fairy Tale</type>
+        <type>Follower|Evolve|Runecraft - Mage/Fable</type>
         <pt>2/2</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10154,7 +10211,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
-    <name>Witchs Cauldron</name>
+    <name>Witch's Cauldron</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-054.jpg">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Look at the top 4 cards of your deck. You may reveal a card with Earth Rite from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
@@ -10167,7 +10224,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Wizardess of Oz</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-038.jpg">BP03</set>
@@ -10176,7 +10232,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Follower|Runecraft - Mage/Fairy Tale</type>
+        <type>Follower|Runecraft - Mage/Fable</type>
         <pt>4/6</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10184,21 +10240,36 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
+    <name>Wizardess of Oz (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U03EN.png">BP03</set>
+    <tablerow>6</tablerow>
+    <text>Fanfare: Summon a Magic Sediment token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
+    <prop>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Follower|Runecraft - Mage/Fable</type>
+        <pt>4/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+		<!-- Set 3 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
     <name>Aiming to be a Lady, Salome</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-019.jpg">BP03</set>
     <tablerow>7</tablerow>
-    <text>(This card is treated as Cinderella.) Storm. Strike: Remove a Fairy Tale counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fairy Tale follower on your field, put a Fairy Tale counter on this card.</text>
+    <text>(This card is treated as Cinderella.) Storm. Strike: Remove a Fable counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fable follower on your field, put a Fable counter on this card.</text>
     <prop>
         <manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Swordcraft - Princess/Fairy Tale</type>
+        <type>Follower|Swordcraft - Princess/Fable</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Amerro, Spear Knight</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-023.jpg">BP03</set>
@@ -10227,7 +10298,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Bladed Hedgehog</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-034.jpg">BP03</set>
@@ -10236,7 +10306,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Swordcraft - Beast/Fairy Tale</type>
+        <type>Follower|Swordcraft - Beast/Fable</type>
         <pt>1/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10249,14 +10319,13 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>N/A</tablerow>
     <text>Whenever an enemy follower is destroyed during your turn, give this follower ??+1. On Evolve: Select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
-        <type>Follower|Evolve|Swordcraft - Beast/Fairy Tale</type>
+        <type>Follower|Evolve|Swordcraft - Beast/Fable</type>
         <pt>2/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Castle in the Sky</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-025.jpg">BP03</set>
@@ -10275,18 +10344,32 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Cinderella</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-018.jpg">BP03</set>
     <tablerow>7</tablerow>
-    <text>Storm. Strike: Remove a Fairy Tale counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fairy Tale follower on your field, put a Fairy Tale counter on this card.</text>
+    <text>Storm. Strike: Remove a Fable counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fable follower on your field, put a Fable counter on this card.</text>
     <prop>
         <manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Swordcraft - Princess/Fairy Tale</type>
+        <type>Follower|Swordcraft - Princess/Fable</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
+<card>
+    <name>Cinderella (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U02EN.png">BP03</set>
+    <tablerow>7</tablerow>
+    <text>Storm. Strike: Remove a Fable counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fable follower on your field, put a Fable counter on this card.</text>
+    <prop>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Follower|Swordcraft - Princess/Fable</type>
+        <pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 <card>
     <name>Heroic Entry</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-037.jpg">BP03</set>
@@ -10316,16 +10399,15 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Kiss of the Princess</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-030.jpg">BP03</set>
     <tablerow>1</tablerow>
-    <text>If you have a Princess card on your field, this card costs 1 less to play. Choose one of the following effects: (1) Select a follower on your field, give it ??+1 and put a Fairy Tale counter on it. (2) Select up to 3 Swordcraft followers in your cemetery. Return them to your deck, then shuffle your deck. Then, draw a card.</text>
+    <text>If you have a Princess card on your field, this card costs 1 less to play. Choose one of the following effects: (1) Select a follower on your field, give it ??+1 and put a Fable counter on it. (2) Select up to 3 Swordcraft followers in your cemetery. Return them to your deck, then shuffle your deck. Then, draw a card.</text>
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Spell|Swordcraft - Princess/Fairy Tale</type>
+        <type>Spell|Swordcraft - Princess/Fable</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10346,7 +10428,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Mach Knight (Evolved)</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-029.jpg">BP03</set>
@@ -10364,18 +10445,17 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Maisy, Red Riding Hood</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-022.jpg">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: If there's another Fairy Tale follower on your field, put a Fairy Tale counter on this card. Activate: 1PP, engage this card, remove a Fairy Tale counter from this card: Select an enemy follower on the field and destroy it.</text>
+    <text>Fanfare: If there's another Fable follower on your field, put a Fable counter on this card. Activate: 1PP, engage this card, remove a Fable counter from this card: Select an enemy follower on the field and destroy it.</text>
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Swordcraft - Fairy Tale/Assassin</type>
+        <type>Follower|Swordcraft - Fable/Assassin</type>
         <pt>1/1</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Old Man and Old Woman</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-033.jpg">BP03</set>
@@ -10384,7 +10464,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Follower|Swordcraft - Fairy Tale </type>
+        <type>Follower|Swordcraft - Fable </type>
         <pt>1/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10395,18 +10475,17 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Rabbit Ear Attendant</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-032.jpg">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: If there's another Fairy Tale follower on your field, draw a card.</text>
+    <text>Fanfare: If there's another Fable follower on your field, draw a card.</text>
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Swordcraft - Fairy Tale</type>
+        <type>Follower|Swordcraft - Fable</type>
         <pt>3/4</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Salome Hyakumantenbara</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-LDS01.jpg">BP03</set>
@@ -10435,7 +10514,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Valiant Fencer (Evolved)</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-021.jpg">BP03</set>
@@ -10453,17 +10531,18 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Young Ogrehunter Momo</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-027.jpg">BP03</set>
     <tablerow>1</tablerow>
-    <text>Assail. Follower Strike: If the enemy follower has 5 or less defense, draw a card, then discard a card. Fanfare: If there's another Fairy Tale follower on your field, give this follower Rush.</text>
+    <text>Assail. Follower Strike: If the enemy follower has 5 or less defense, draw a card, then discard a card. Fanfare: If there's another Fable follower on your field, give this follower Rush.</text>
     <prop>
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>Follower|Swordcraft - Officer/Fairy Tale</type>
+        <type>Follower|Swordcraft - Officer/Fable</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
+		<!-- Set 3 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->		
 <card>
     <name>Baccherus, Peppy Ghostie</name>
     <set picURL="https://images.shadowcard.io/images/cards/BP03-078.jpg">BP03</set>
@@ -10500,7 +10579,22 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Follower|Abysscraft - Demon/Fairy Tale</type>
+        <type>Follower|Abysscraft - Demon/Fable</type>
+        <pt>6/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dark Alice (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U05EN.png">BP03</set>
+    <tablerow>1</tablerow>
+    <text>Rush. Strike: Each opponent discards a card. Last Words: Banish the top 10 cards of your deck: Put this card onto your field and discard a card.</text>
+    <prop>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Follower|Abysscraft - Demon/Fable</type>
         <pt>6/6</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10560,7 +10654,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Spell|Abysscraft - Beast/Fairy Tale</type>
+        <type>Spell|Abysscraft - Beast/Fable</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10659,7 +10753,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>Follower|Abysscraft - Fairy Tale</type>
+        <type>Follower|Abysscraft - Fable</type>
         <pt>6/4</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10742,12 +10836,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Alice's Adventure</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-096EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: Search your deck for a Fairy Tale card, reveal it, and add it to your hand. Activate: 1PP, engage this card, put this card into your cemetery: Select a Fairy Tale follower on your field. Give it Rush and Assail.</text>
+    <text>Fanfare: Search your deck for a Fable card, reveal it, and add it to your hand. Activate: 1PP, engage this card, put this card into your cemetery: Select a Fable follower on your field. Give it Rush and Assail.</text>
     <prop>
-        <type>Amulet|Havencraft - Fairy Tale</type>
+        <type>Amulet|Havencraft - Fable</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
-		<maintype>Amulet</maintype>
+	<maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -10761,7 +10855,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Follower|Havencraft - Faith/Beast</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>2/1</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10776,7 +10870,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Amulet|Havencraft - Faith</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
-		<maintype>Amulet</maintype>
+	<maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -10790,7 +10884,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Follower|Havencraft - Faith/Avian</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>5/4</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10805,7 +10899,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Follower|Havencraft - Faith</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>2/5</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10818,8 +10912,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>If this card can be selected by your opponent's card effects, it must be selected. On Evolve: Select a follower with Ward or Storm in your cemetery that costs 3 or less play points and put it onto your field.</text>
     <prop>
         <type>Follower|Evolve|Havencraft - Faith</type>
-		<pt>4/7</pt>
-		<maintype>Follower|Evolve</maintype>
+	<pt>4/7</pt>
+	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -10828,12 +10922,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>March Hare's Teatime</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-100EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: Look at the top 5 cards of your deck. You may put a Fairy Tale follower that costs 5 or less play points from among them onto your field. Put the rest on the bottom of your deck in any order. Activate: 2PP, engage this card, put this card into your cemetery: Select a Fairy Tale follower in your cemetery that costs 3 or less play points and put it onto your field.</text>
+    <text>Fanfare: Look at the top 5 cards of your deck. You may put a Fable follower that costs 5 or less play points from among them onto your field. Put the rest on the bottom of your deck in any order. Activate: 2PP, engage this card, put this card into your cemetery: Select a Fable follower in your cemetery that costs 3 or less play points and put it onto your field.</text>
     <prop>
-        <type>Amulet|Havencraft - Fairy Tale</type>
+        <type>Amulet|Havencraft - Fable</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
-		<maintype>Amulet</maintype>
+	<maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -10844,10 +10938,25 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Give each other follower on your field and your leader ??+2. Last Words: Give each follower on your field and your leader ??+2.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Fairy Tale</type>
+        <type>Follower|Havencraft - Faith/Fable</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
+        <pt>4/6</pt>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Odette, White Swan (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U06EN.png">BP03</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Give each other follower on your field and your leader ??+2. Last Words: Give each follower on your field and your leader ??+2.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith/Fable</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+	<maintype>Follower</maintype>
         <pt>4/6</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10857,12 +10966,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Pinion Prince</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-102EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Evolve (1): Evolve this follower. Fanfare: Select a Fairy Tale card in your cemetery. Put it into your EX area and put a Fairy Tale counter on it.</text>
+    <text>Evolve (1): Evolve this follower. Fanfare: Select a Fable card in your cemetery. Put it into your EX area and put a Fable counter on it.</text>
     <prop>
-        <type>Follower|Havencraft - Avian/Fairy Tale</type>
+        <type>Follower|Havencraft - Avian/Fable</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>4/5</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10874,9 +10983,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Assail.</text>
     <prop>
-        <type>Follower|Evolve|Havencraft - Avian/Fairy Tale</type>
-		<pt>5/6</pt>
-		<maintype>Follower|Evolve</maintype>
+        <type>Follower|Evolve|Havencraft - Avian/Fable</type>
+	<pt>5/6</pt>
+	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -10885,12 +10994,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Princess Snow White</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-090EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Ward. Fanfare: If this follower was put onto the field from your hand, put a Fairy Tale counter on it. Fanfare: If this follower was put onto the field from anywhere other than your hand, give it ??+1/??+1. Last Words: If this card has a Fairy Tale counter on it, put it into your EX area.</text>
+    <text>Ward. Fanfare: If this follower was put onto the field from your hand, put a Fable counter on it. Fanfare: If this follower was put onto the field from anywhere other than your hand, give it ??+1/??+1. Last Words: If this card has a Fable counter on it, put it into your EX area.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Fairy Tale</type>
+        <type>Follower|Havencraft - Faith/Fable</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>2/2</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10905,7 +11014,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Follower|Havencraft - Faith/Avian</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>3/3</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10918,8 +11027,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>Ward. Whenever another follower on your field with Ward or Storm attacks, deal 1 damage to each enemy leader. On Evolve: Select an enemy follower on the field and deal it 2 damage. Activate: 2PP: Give this follower Storm.</text>
     <prop>
         <type>Follower|Evolve|Havencraft - Faith/Avian</type>
-		<pt>4/4</pt>
-		<maintype>Follower|Evolve</maintype>
+	<pt>4/4</pt>
+	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -10928,12 +11037,12 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Tin Soldier</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-101EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: If this follower is put onto your field from anywhere other than your hand, put a Fairy Tale counter on it. Activate: Remove a Fairy Tale counter from this card: Select an enemy leader or enemy follower on the field and deal it 2 damage.</text>
+    <text>Fanfare: If this follower is put onto your field from anywhere other than your hand, put a Fable counter on it. Activate: Remove a Fable counter from this card: Select an enemy leader or enemy follower on the field and deal it 2 damage.</text>
     <prop>
-        <type>Follower|Havencraft - Eidolon/Fairy Tale</type>
+        <type>Follower|Havencraft - Eidolon/Fable</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>3/4</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10948,7 +11057,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Follower|Havencraft - Faith</type>
         <manacost>6</manacost>
         <cmc>6</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>6/6</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10963,7 +11072,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <type>Follower|Havencraft - Faith/Avian</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
-		<maintype>Follower</maintype>
+	<maintype>Follower</maintype>
         <pt>1/1</pt>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10976,8 +11085,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>Ward. On Evolve: Search your deck for a follower with 2 or less attack, reveal it, and add it to your hand.</text>
     <prop>
         <type>Follower|Evolve|Havencraft - Faith/Avian</type>
-		<pt>2/2</pt>
-		<maintype>Follower|Evolve</maintype>
+	<pt>2/2</pt>
+	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11001,7 +11110,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Select an Armed follower on your field and an enemy follower on the field. Put the follower on your field into your EX area and deal 3 damage to the enemy follower. Summon a Draconic Weapon token.</text>
     <prop>
-		<manacost>1</manacost>
+	<manacost>1</manacost>
         <cmc>1</cmc>
         <type>Spell|Dragoncraft - Wyrmkin/Armed</type>
         <maintype>Spell</maintype>
@@ -11015,7 +11124,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Quick. Select an enemy follower on the field and deal it 3 damage. Summon a Draconic Weapon token.</text>
     <prop>
-		<manacost>2</manacost>
+	<manacost>2</manacost>
         <cmc>2</cmc>
         <type>Spell|Dragoncraft - Dragonewt/Wyrmkin</type>
         <maintype>Spell</maintype>
@@ -11032,7 +11141,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 		<manacost>3</manacost>
         <cmc>3</cmc>
         <type>Follower|Dragoncraft - Wyrmkin/Armed</type>
-		<pt>3/3</pt>
+	<pt>3/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11045,7 +11154,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>On Evolve: Select an enemy follower on the field deal it 2 damage. If there's another Armed follower on your field, deal 4 damage instead.</text>
     <prop>
         <type>Follower|Evolve|Dragoncraft - Wyrmkin/Armed</type>
-		<pt>4/4</pt>
+	<pt>4/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11057,10 +11166,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.</text>
     <prop>
-		<manacost>2</manacost>
+	<manacost>2</manacost>
         <cmc>2</cmc>
         <type>Follower|Dragoncraft - Dragonheart/Dragonewt</type>
-		<pt>1/3</pt>
+	<pt>1/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11073,7 +11182,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>On Evolve: Look at the top 3 cards of your deck. You may reveal a Dragoncraft follower from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
         <type>Follower|Evolve|Dragoncraft</type>
-		<pt>2/4</pt>
+	<pt>2/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11085,10 +11194,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: You gain 1 Evolution Point. If Overflow is active for you, give this follower ??+2/??+2.</text>
     <prop>
-		<manacost>4</manacost>
+	<manacost>4</manacost>
         <cmc>4</cmc>
         <type>Follower|Dragoncraft - Marine</type>
-		<pt>3/5</pt>
+	<pt>3/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11102,10 +11211,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
         Fanfare: Look at the top 4 cards of your deck. You may reveal an Armed spell from among them and put
         it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
-		<manacost>2</manacost>
+	<manacost>2</manacost>
         <cmc>2</cmc>
         <type>Follower|Dragoncraft - Dragonewt/Wyrmkin</type>
-		<pt>2/2</pt>
+	<pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11118,7 +11227,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>On Evolve: Deal 2 damage to each enemy leader.</text>
     <prop>
         <type>Follower|Evolve|Dragoncraft - Dragonewt/Wyrmkin</type>
-		<pt>3/3</pt>
+	<pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11133,10 +11242,28 @@ Strike: If there are no other followers on your field, select an enemy follower 
         effect. Put the revealed follower onto your field. Shuffle the rest of the revealed cards, then put
         them on the bottom of your deck.</text>
     <prop>
-		<manacost>7</manacost>
+	<manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Fairy Tale</type>
-		<pt>7/7</pt>
+        <type>Follower|Dragoncraft - Wyrmkin/Fable</type>
+	<pt>7/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Jabberwock (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U04EN.png">BP03</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Put another follower on your field into your cemetery: Reveal the top of your card of your
+        deck until you reveal a follower that costs more than the one put into your cemetery with this
+        effect. Put the revealed follower onto your field. Shuffle the rest of the revealed cards, then put
+        them on the bottom of your deck.</text>
+    <prop>
+	<manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Follower|Dragoncraft - Wyrmkin/Fable</type>
+	<pt>7/7</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11150,10 +11277,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
         deal 1 damage to each enemy leader.
         Fanfare: If Overflow is active for you, summon a Draconic Weapon token.</text>
     <prop>
-		<manacost>3</manacost>
+	<manacost>3</manacost>
         <cmc>3</cmc>
         <type>Follower|Dragoncraft - Wyrmkin/Armed</type>
-		<pt>3/4</pt>
+	<pt>3/4</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11177,10 +11304,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower into an evolved follower with Lævateinn Dragon in its name.</text>
     <prop>
-		<manacost>6</manacost>
+	<manacost>6</manacost>
         <cmc>6</cmc>
         <type>Follower|Dragoncraft - Wyrmkin/Armed</type>
-		<pt>5/5</pt>
+	<pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11194,7 +11321,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         On Evolve: Summon a Draconic Weapon token and recover 2 play points.</text>
     <prop>
         <type>Follower|Evolve|Dragoncraft - Wyrmkin/Armed</type>
-		<pt>6/6</pt>
+	<pt>6/6</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11209,7 +11336,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         leader.</text>
     <prop>
         <type>Follower|Evolve|Dragoncraft - Wyrmkin/Armed</type>
-		<pt>7/5</pt>
+	<pt>7/5</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11223,10 +11350,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
         Ward.
         Fanfare: if Overflow is active for you, give this follower ??+4 and Rush.</text>
     <prop>
-		<manacost>3</manacost>
+	<manacost>3</manacost>
         <cmc>3</cmc>
         <type>Follower|Dragoncraft - Dragonheart</type>
-		<pt>2/4</pt>
+	<pt>2/4</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11239,10 +11366,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>Activate: Engage this card: Give this follower ??+5. If Overflow is active for you, give it ??+10
         instead.</text>
     <prop>
-		<manacost>3</manacost>
+	<manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Fairy Tale</type>
-		<pt>0/5</pt>
+        <type>Follower|Dragoncraft - Wyrmkin/Fable</type>
+	<pt>0/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11255,9 +11382,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>Activate: 3PP, engage this card: You may put a follower from your hand onto your field. Give it the
         following effect: "At the start of your end phase, destroy this card."</text>
     <prop>
-		<manacost>6</manacost>
+	<manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Amulet|Dragoncraft - Fairy Tale</type>
+        <type>Amulet|Dragoncraft - Fable</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11269,10 +11396,10 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Intimidate.</text>
     <prop>
-		<manacost>2</manacost>
+	<manacost>2</manacost>
         <cmc>2</cmc>
         <type>Follower|Dragoncraft - Wyrmkin</type>
-		<pt>3/2</pt>
+	<pt>3/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11369,9 +11496,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Flower Princess</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-012EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: Put a Fairy token into your EX area. Combo (3): Put a Fairy Tale counter on this card. Activate: Engage this card, remove a Fairy Tale counter from this card: Select an enemy follower on the field and deal it 3 damage.</text>
+    <text>Fanfare: Put a Fairy token into your EX area. Combo (3): Put a Fable counter on this card. Activate: Engage this card, remove a Fable counter from this card: Select an enemy follower on the field and deal it 3 damage.</text>
     <prop>
-        <type>Follower|Forestcraft - Princess/Fairy Tale</type>
+        <type>Follower|Forestcraft - Princess/Fable</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/3</pt>
@@ -11424,9 +11551,24 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Magical Fairy, Lilac</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-004EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Activate: Engage this card: Put a Fairy Tale counter on this card. Activate: 1PP, remove a Fairy Tale counter from this card: Select an enemy follower on the field and destroy it.</text>
+    <text>Activate: Engage this card: Put a Fable counter on this card. Activate: 1PP, remove a Fable counter from this card: Select an enemy follower on the field and destroy it.</text>
     <prop>
-        <type>Follower|Forestcraft - Pixie/Fairy Tale</type>
+        <type>Follower|Forestcraft - Pixie/Fable</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>1/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Magical Fairy, Lilac (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-U01EN.png">BP03</set>
+    <tablerow>1</tablerow>
+    <text>Activate: Engage this card: Put a Fable counter on this card. Activate: 1PP, remove a Fable counter from this card: Select an enemy follower on the field and destroy it.</text>
+    <prop>
+        <type>Follower|Forestcraft - Pixie/Fable</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <pt>1/4</pt>
@@ -11469,7 +11611,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.</text>
     <prop>
-        <type>Follower|Forestcraft - Fairy Tale</type>
+        <type>Follower|Forestcraft - Fable</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/2</pt>
@@ -11484,7 +11626,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Look at the top 4 cards of your deck. Reveal a card that costs 1 play point from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
-        <type>Follower|Evolve|Forestcraft - Fairy Tale</type>
+        <type>Follower|Evolve|Forestcraft - Fable</type>
         <pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11509,9 +11651,9 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Woodland Band</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-017EN.png">BP03</set>
     <tablerow>1</tablerow>
-    <text>Fanfare: Look at the top 4 cards of your deck. You may put a Fairy Tale follower from among them into your EX area. Put the rest on the bottom of your deck in any order. Activate: Engage this card, put this card into your cemetery: Select a Fairy Tale follower on your field and put a Fairy Tale counter on it.</text>
+    <text>Fanfare: Look at the top 4 cards of your deck. You may put a Fable follower from among them into your EX area. Put the rest on the bottom of your deck in any order. Activate: Engage this card, put this card into your cemetery: Select a Fable follower on your field and put a Fable counter on it.</text>
     <prop>
-        <type>Amulet|Forestcraft - Beast/Fairy Tale</type>
+        <type>Amulet|Forestcraft - Beast/Fable</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <maintype>Amulet</maintype>
@@ -11626,6 +11768,19 @@ Strike: If there are no other followers on your field, select an enemy follower 
 <card>
     <name>Israfil (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-118EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Strike: Deal 5 damage to each enemy follower on the field.</text>
+    <prop>
+        <type>Follower|Evolve|Neutral - Angel/Diety</type>
+        <pt>10/10</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Israfil (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U07EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Strike: Deal 5 damage to each enemy follower on the field.</text>
     <prop>
@@ -11770,7 +11925,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Barbarossa</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-023EN.png">BP04</set>
@@ -11788,7 +11942,6 @@ Assail.</text>
         <format-sv>legal</format-sv>
     </prop>
 </card>
-
 <card>
     <name>Barbarossa (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-024EN.png">BP04</set>
@@ -11799,6 +11952,20 @@ Last Words: Put this card into your EX area.</text>
         <type>Follower|Evolve|Swordcraft - Commander</type>
         <pt>7/6</pt>
         <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Chivalrous Charge</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-027EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Select a Commander follower on your field. Deal damage to each enemy follower on the field equal to the selected follower's attack.</text>
+    <prop>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+        <type>Spell|Swordcraft - Commander</type>
+        <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -11850,16 +12017,18 @@ Fanfare: Reveal 2 Commander or 2 Round Table cards in your hand: Recover 2 play 
     </prop>
 </card>
 <card>
-    <name>Knight's Whirlwind</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-027EN.png">BP04</set>
+    <name>Gawain of the Round Table (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U02EN.png">BP04</set>
     <tablerow>1</tablerow>
-    <text>(This card is treated as Cyclone Blade.)
-Select a Commander follower on your field. Deal damage to all enemy followers on the field equal to the chosen follower's attack.</text>
+    <text>Rush.
+While this card is on your field, whenever you play a Commander card for the first time each turn, you may play it for 1 less.
+Fanfare: Reveal 2 Commander or 2 Round Table cards in your hand: Recover 2 play points.</text>
     <prop>
-	<manacost>3</manacost>
-	<cmc>3</cmc>
-        <type>Spell|Swordcraft - Commander</type>
-        <maintype>Spell</maintype>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+        <type>Follower|Swordcraft - Officer/Round Table</type>
+        <pt>5/5</pt>
+        <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -12130,20 +12299,6 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
     </prop>
 </card>
 <card>
-    <name>Demonstration of Loyalty</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-050EN.png">BP04</set>
-    <tablerow>1</tablerow>
-    <text>(This card is treated as Concentration.) Give your leader ??+3 and draw a card. Earth Rite: Draw 2 instead.</text>
-    <prop>
-	<manacost>3</manacost>
-        <cmc>3</cmc>
-        <type>Runecraft|Spell|Runecraft - Mage</type>
-        <maintype>Spell</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
     <name>Europa</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-042EN.png">BP04</set>
     <tablerow>1</tablerow>
@@ -12161,6 +12316,19 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
 <card>
     <name>Europa (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-043EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Storm. Ward. Bane.</text>
+    <prop>
+        <type>Follower|Evolve|Runecraft - Mage/Celestial</type>
+	<pt>3/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Europa (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U03EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Storm. Ward. Bane.</text>
     <prop>
@@ -12281,6 +12449,34 @@ Fanfare: If there's a spell in the cemetery, give your leader ??+2.</text>
         <type>Follower|Runecraft - Arcanaform</type>
         <pt>1/1</pt>
         <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Noble Instruction</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-045EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Quick. Look at the top 5 cards of your deck. You may reveal a Runecraft follower from among them and put it into your hand. Put the rest to the bottom of your deck in any order. Spellchain (10): Recover 1 play point.</text>
+    <prop>
+	<manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Spell|Runecraft - Mage</type>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Show of Loyalty</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-050EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Give your leader ??+3 and draw a card. Earth Rite: Draw 2 instead.</text>
+    <prop>
+	<manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Spell|Runecraft - Mage</type>
+        <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -12480,6 +12676,21 @@ Select an enemy follower on the field and deal it 3 damage.</text>
     </prop>
 </card>
 <card>
+    <name>Guren Revolt</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-067EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Quick. You may play this card for 5 more play points.
+Select an enemy follower on the field and banish it. If you played this card for 5 more play points, instead of banishing that follower, banish each enemy follower on the field.</text>
+    <prop>
+        <type>Spell|Dragoncraft - Wyrmkin</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Hippocampus</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-075EN.png">BP04</set>
     <tablerow>1</tablerow>
@@ -12504,6 +12715,22 @@ Ward.</text>
         <type>Follower|Evolve|Dragoncraft - Marine</type>
         <pt>7/7</pt>
         <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kallen, Crimson Yaksha</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-058EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, give your leader ??+1. If Overflow is active for you, give it ??+2 instead.
+Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and increase your maximum play points by 1.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/4</pt>
+        <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -12534,7 +12761,8 @@ Ward.</text>
     <name>Lightning Blast</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-066EN.png">BP04</set>
     <tablerow>1</tablerow>
-    <text></text>
+    <text>Quick. You may play this card for 5 more play points.
+Select an enemy follower on the field and banish it. If you played this card for 5 more play points, instead of banishing that follower, banish each enemy follower on the field.</text>
     <prop>
         <type>Spell|Dragoncraft - Wyrmkin</type>
         <manacost>5</manacost>
@@ -12573,6 +12801,21 @@ Ward.</text>
 <card>
     <name>Prime Dragon Keeper</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-063EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Whenever another Dragoncraft follower that costs 3 or less comes onto your field, select an enemy follower on the field and deal it 2 damage. Then, deal 1 damage to its leader. Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and Intimidate.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>1/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Prime Dragon Keeper (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U04EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Whenever another Dragoncraft follower that costs 3 or less comes onto your field, select an enemy follower on the field and deal it 2 damage. Then, deal 1 damage to its leader. Fanfare: If Overflow is active for you, give this follower ??+1/??+1 and Intimidate.</text>
     <prop>
@@ -12892,6 +13135,36 @@ On Evolve: If Sanguine is active for you, give your leader ??+5.</text>
     </prop>
 </card>
 <card>
+    <name>Lelouch, Leader of the Black Knights</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-083EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, your Abysscraft followers have Rush. Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or less in your cemetery and put them onto your field. Then, give each other follower on your field ??+1/??+1. NC (20): Give ??+3/??+3 instead.</text>
+    <prop>
+        <type>Follower|Abysscraft - Departed</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>5/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lelouch, Leader of the Black Knights (SP)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-SP01EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, your Abysscraft followers have Rush. Fanfare: Necrocharge (10): Select up to 2 Abysscraft followers that cost 2 or less in your cemetery and put them onto your field. Then, give each other follower on your field ??+1/??+1. NC (20): Give ??+3/??+3 instead.</text>
+    <prop>
+        <type>Follower|Abysscraft - Departed</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>5/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Scorpius</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-096EN.png">BP04</set>
     <tablerow>1</tablerow>
@@ -13001,6 +13274,22 @@ Quick/Activate: Engage this card and put 2 Serpent tokens on your field into you
     </prop>
 </card>
 <card>
+    <name>Venomfang Medusa (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U05EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Activate: 0PP: Summon a Serpent token. This ability can be activated once per turn.
+Quick/Activate: Engage this card and put 2 Serpent tokens on your field into your cemetery: Select an enemy follower on the field and destroy it.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon/Gorgon</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Venomous Bite</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-097EN.png">BP04</set>
     <tablerow>1</tablerow>
@@ -13022,7 +13311,23 @@ Quick/Activate: Engage this card and put 2 Serpent tokens on your field into you
     <text>Ward.
 Fanfare: Search your deck for a Havencraft follower (with a different name than this card) that costs X or less play points and put it onto your field. X equals your maximum play points.</text>
     <prop>
-        <type>Follower|Havencraft - Faith</type>
+        <type>Follower|Havencraft - Faith/Luminary/Lightborne</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Aether of the White Wing (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U06EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Fanfare: Search your deck for a Havencraft follower (with a different name than this card) that costs X or less play points and put it onto your field. X equals your maximum play points.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith/Luminary/Lightborne</type>
         <manacost>7</manacost>
         <cmc>7</cmc>
         <pt>3/5</pt>
@@ -13037,7 +13342,7 @@ Fanfare: Search your deck for a Havencraft follower (with a different name than 
     <tablerow>1</tablerow>
     <text>Fanfare: Your leader and each follower on your field cannot take damage from card effects this turn.</text>
     <prop>
-        <type>Follower|Havencraft - Celestial</type>
+        <type>Follower|Havencraft - Celestial/Princess</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <pt>2/2</pt>
@@ -13053,7 +13358,7 @@ Fanfare: Search your deck for a Havencraft follower (with a different name than 
     <text>Rush.
 Once per turn, when an amulet leaves your field, give this follower ??+2/??+2 and Assail.</text>
     <prop>
-        <type>Follower|Havencraft - Faith</type>
+        <type>Follower|Havencraft - Faith/Beast</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
         <pt>5/5</pt>
@@ -13083,6 +13388,7 @@ Once per turn, when an amulet leaves your field, give this follower ??+2/??+2 an
     <text></text>
     <prop>
         <type>Leader|Havencraft</type>
+	<maintype>Leader</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13109,10 +13415,9 @@ Fanfare: Deal 2 damage to each other follower on the field. Give ??+2 to each ot
     <tablerow>1</tablerow>
     <text>On Evolve: If your leader's defense is ??5 or more, select an enemy follower on the field. Deal 4 damage to it and each leader.</text>
     <prop>
-        <type>Follower / Evolved|Havencraft - Zealot</type>
-        <cmc>6</cmc>
+        <type>Follower|Evolve|Havencraft - Zealot</type>
         <pt>6/6</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13124,7 +13429,7 @@ Fanfare: Deal 2 damage to each other follower on the field. Give ??+2 to each ot
     <text>Fanfare: Search your deck for an amulet, reveal it, and add it to your hand.
 Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give your leader ??+1 and draw a card.</text>
     <prop>
-        <type>Amulet|Havencraft - Faith</type>
+        <type>Amulet|Havencraft - Faith/Celestial</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <maintype>Amulet</maintype>
@@ -13133,13 +13438,13 @@ Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give yo
     </prop>
 </card>
 <card>
-    <name>Jet Black Charisma</name>
+    <name>Dark Charisma</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-105EN.png">BP04</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Search your deck for an amulet, reveal it, and add it to your hand.
 Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give your leader ??+1 and draw a card.</text>
     <prop>
-        <type>Amulet|Havencraft - Faith</type>
+        <type>Amulet|Havencraft - Faith/Celestial</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <maintype>Amulet</maintype>
@@ -13154,6 +13459,7 @@ Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give yo
     <text></text>
     <prop>
         <type>Leader|Havencraft</type>
+	<maintype>Leader</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13179,10 +13485,9 @@ Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give yo
     <tablerow>1</tablerow>
     <text>On Evolve: Select another follower on your field and give it Aura.</text>
     <prop>
-        <type>Follower / Evolved|Havencraft - Faith</type>
-        <cmc>2</cmc>
+        <type>Follower|Evolve|Havencraft - Faith</type>
         <pt>3/3</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13194,7 +13499,7 @@ Quick/Activate: 2PP, engage this card, put this card into your cemetery: Give yo
     <text>Ward.
 At the start of your end phase, give this follower ??+2.</text>
     <prop>
-        <type>Follower|Havencraft - Faith</type>
+        <type>Follower|Havencraft - Faith/Beast</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
         <pt>4/4</pt>
@@ -13225,7 +13530,7 @@ At the start of your end phase, give this follower ??+2.</text>
     <text>Evolve: Banish an amulet on your field: Evolve this follower.
 Fanfare: Engage 2 amulets on your field: Select an enemy follower on the field. Deal it 3 damage and give your leader ??+3.</text>
     <prop>
-        <type>Follower|Havencraft - Faith</type>
+        <type>Follower|Havencraft - Faith/Celestial</type>
         <manacost>6</manacost>
         <cmc>6</cmc>
         <pt>3/3</pt>
@@ -13240,10 +13545,9 @@ Fanfare: Engage 2 amulets on your field: Select an enemy follower on the field. 
     <tablerow>1</tablerow>
     <text>On Evolve: Select an amulet in your cemetery and put it onto your field.</text>
     <prop>
-        <type>Follower / Evolved|Havencraft - Faith</type>
-        <cmc>6</cmc>
+        <type>Follower|Evolve|Havencraft - Faith/Celestial</type>
         <pt>4/4</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13255,7 +13559,7 @@ Fanfare: Engage 2 amulets on your field: Select an enemy follower on the field. 
     <text>Quick.
 Deal 3 damage to each engaged enemy follower on the field. If there's an amulet on your field, give your leader ??+2.</text>
     <prop>
-        <type>Spell|Havencraft - Faith</type>
+        <type>Spell|Havencraft - Faith/Celestial</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
         <maintype>Spell</maintype>
@@ -13269,7 +13573,7 @@ Deal 3 damage to each engaged enemy follower on the field. If there's an amulet 
     <tablerow>1</tablerow>
     <text>Fanfare: Engage 2 amulets on your field: Draw 2 cards, then discard a card.</text>
     <prop>
-        <type>Follower|Havencraft - Faith</type>
+        <type>Follower|Havencraft - Faith/Celestial</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <pt>3/4</pt>
@@ -13285,7 +13589,7 @@ Deal 3 damage to each engaged enemy follower on the field. If there's an amulet 
     <text>Evolve (1): Evolve this follower.
 Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into your cemetery and draw a card.</text>
     <prop>
-        <type>Follower|Havencraft - Faith</type>
+        <type>Follower|Havencraft - Faith/Princess</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
         <pt>3/3</pt>
@@ -13300,10 +13604,9 @@ Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into you
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field and banish it.</text>
     <prop>
-        <type>Follower / Evolved|Havencraft - Faith</type>
-        <cmc>4</cmc>
+        <type>Follower|Evolve|Havencraft - Faith/Princess</type>
         <pt>4/4</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13315,7 +13618,7 @@ Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into you
     <tablerow>1</tablerow>
     <text>Fanfare: Combo (3): Give this follower ??+1/??+1 and Storm.</text>
     <prop>
-        <type>Follower|Forestcraft - Hunter</type>
+        <type>Follower|Forestcraft - Hunter/Insect</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <pt>3/4</pt>
@@ -13331,6 +13634,22 @@ Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into you
     <text></text>
     <prop>
         <type>Leader|Forestcraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>C.C., Woodland Witch</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-002EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select any number of enemy followers on the field. Deal X damage divided between them. X equals the total number of cards in your hand and EX area.</text>
+    <prop>
+        <type>Follower|Forestcraft - Fae-Touched/Celestial</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>4/5</pt>
+        <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13341,7 +13660,22 @@ Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into you
     <tablerow>1</tablerow>
     <text>Fanfare: Select any number of enemy followers on the field. Deal X damage divided between them. X equals the total number of cards in your hand and EX area.</text>
     <prop>
-        <type>Follower|Forestcraft - Fae-Touched</type>
+        <type>Follower|Forestcraft - Fae-Touched/Celestial</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>4/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cassiopeia (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-U01EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select any number of enemy followers on the field. Deal X damage divided between them. X equals the total number of cards in your hand and EX area.</text>
+    <prop>
+        <type>Follower|Forestcraft - Fae-Touched/Celestial</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
         <pt>4/5</pt>
@@ -13373,8 +13707,9 @@ If this follower successfully attacks and deals damage to the enemy leader, you 
     <text>If this follower successfully attacks and deals damage to the enemy leader, you win the match.
 On Evolve: Select an enemy follower on the field. Put it on the bottom of its owner's deck. (Tokens put on the bottom of the deck are removed from the game.)</text>
     <prop>
-        <type>Follower / Evolved|Forestcraft - Verdant</type>
-        <maintype>Follower</maintype>
+        <type>Follower|Evolve|Forestcraft - Verdant</type>
+	<pt>10/10</pt>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13400,7 +13735,7 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
     <tablerow>1</tablerow>
     <text>Strike: Select an enemy follower on the field and give it ??-1.</text>
     <prop>
-        <type>Follower|Forestcraft - Fae-Touched</type>
+        <type>Follower|Forestcraft - Fae-Touched/Verdant</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/3</pt>
@@ -13419,34 +13754,6 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
         <manacost>2</manacost>
         <cmc>2</cmc>
         <maintype>Spell</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
-    <name>Fairy</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T04EN.png">BP04</set>
-    <tablerow>1</tablerow>
-    <prop>
-        <type>Follower / Token|Forestcraft - Pixie</type>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <pt>1/1</pt>
-        <maintype>Follower</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
-    <name>Fairy Wisp</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-T03EN.png">BP04</set>
-    <tablerow>1</tablerow>
-    <prop>
-        <type>Follower / Token|Forestcraft - Pixie</type>
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <pt>1/1</pt>
-        <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -13487,13 +13794,11 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
     <tablerow>1</tablerow>
     <text>On Evolve: Give your leader ??+1 and draw a card.</text>
     <prop>
-        <type>Follower / Evolved|Forestcraft - Elf</type>
-        <maintype>Follower</maintype>
+        <type>Follower|Evolve|Forestcraft - Elf</type>
+	<pt>3/2</pt>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
-        <manacost></manacost>
-        <cmc></cmc>
-        <pt>3/2</pt>
     </prop>
 </card>
 <card>
@@ -13530,7 +13835,7 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
     <tablerow>1</tablerow>
     <text>Evolve (4): Evolve this follower. Storm. Fanfare: Select any number of cards on your field and return them to the hand. Then, give this follower ??+X/??+X. X equals the number of cards in your hand.</text>
     <prop>
-        <type>Follower|Forestcraft - Hunter</type>
+        <type>Follower|Forestcraft - Hunter/Beast</type>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -13545,13 +13850,11 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
     <tablerow>1</tablerow>
     <text>Storm. This follower ignores Ward. On Evolve: Give this follower ??+X/??+X. X equals the number of cards in your hand.</text>
     <prop>
-        <type>Follower / Evolved|Forestcraft - Hunter</type>
-        <maintype>Follower</maintype>
+        <type>Follower|Evolve|Forestcraft - Hunter/Beast</type>
+	<pt>1/1</pt>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
-        <manacost></manacost>
-        <cmc></cmc>
-        <pt>1/1</pt>
     </prop>
 </card>
 <card>
@@ -13574,7 +13877,7 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
     <tablerow>1</tablerow>
     <text>Fanfare: Search your deck for an amulet, reveal it, and add it to your hand.</text>
     <prop>
-        <type>Follower|Forestcraft - Elf</type>
+        <type>Follower|Forestcraft - Elf/Celestial</type>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -13596,6 +13899,19 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
         <manacost>1</manacost>
         <cmc>1</cmc>
         <pt>1/1</pt>
+    </prop>
+</card>
+<card>
+    <name>Sukuna, Brave and Small (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-011EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Storm. On Evolve: Combo (3): Give this follower ??+1/??+1. Combo (5): Give it ??+3/??+3 instead.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Hunter</type>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+        <pt>2/2</pt>
     </prop>
 </card>
 
