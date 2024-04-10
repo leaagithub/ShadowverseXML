@@ -9646,7 +9646,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 		<!-- Set 3 Neutral @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Actress Feria</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-114.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-114EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Activate: Engage this card: Select another Fable follower on your field and put a Fable counter on it.</text>
     <prop>
@@ -9661,7 +9661,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
         <name>Alice, Wonderland Explorer</name>
-        <set picURL="https://images.shadowcard.io/images/cards/BP03-107.jpg">BP03</set>
+        <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-107EN.png">BP03</set>
         <tablerow>2</tablerow>
         <text>Evolve (1): Evolve this follower.
             Fanfare: Put a Fable counter on this card.
@@ -9678,7 +9678,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
         <name>Alice, Wonderland Explorer (Evolved)</name>
-        <set picURL="https://images.shadowcard.io/images/cards/BP03-108.jpg">BP03</set>
+        <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-108EN.png">BP03</set>
         <tablerow>2</tablerow>
         <text>On Evolve: Look at the top 4 cards of your deck. Put up to 2 Fable cards from among them into your EX area. Put the rest on the bottom of your deck in any order.
             Activate: Remove a Fable counter from this card: Select a Fable follower on your field or in your EX area. Put a Fable counter on it.</text>
@@ -9706,7 +9706,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Angel of Chaos</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-109.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-109EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Ward.
         Activate: Banish 3 Fallen Angel cards in your cemetery: Select an enemy follower on the field. Take control of it and refresh it. This ability can be activated once per turn. (The follower you took control of cannot attack this turn, unless it has Storm or Rush. When the follower you took control of leaves the field, return it to your opponent in the proper area.)
@@ -9723,7 +9723,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Coal-Black Disciple</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-118.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-118EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Activate: Engage this card, put a Fallen Angel follower on your field into your cemetery: Select an enemy follower on the field and deal it 4 damage.</text>
     <prop>
@@ -9738,7 +9738,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Dark Messenger</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-119.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-119EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (1): Evolve this follower.
         Fanfare: Select an enemy follower on the field and deal it 1 damage.</text>
@@ -9754,7 +9754,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Dark Messenger (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-120.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-120EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Deal 1 damage to each enemy leader.</text>
     <prop>
@@ -9769,7 +9769,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Eggsplosion</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-121.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-121EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Deal X damage to each enemy leader and each follower on the field. X equals the total number of
         Eggsplosion and Humpty Dumpty in your cemetery plus 1. (Do not count this card.)</text>
@@ -9784,7 +9784,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Garuel, Seraphic Leo</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-112.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-112EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (1): Evolve this follower.
         Fanfare: You may put a Neutral follower that costs X or less play points from your hand onto
@@ -9802,7 +9802,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Garuel, Seraphic Leo (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-113.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-113EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Select another Neutral follower on your field and return it to its owner's hand.</text>
     <prop>
@@ -9815,7 +9815,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Humpty Dumpty</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-115.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-115EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (0): Evolve this follower.</text>
     <prop>
@@ -9830,7 +9830,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Humpty Dumpty (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-116.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-116EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Deal 5 damage to each follower on the field, deal 3 damage to each enemy leader and discard your hand.</text>
     <prop>
@@ -9843,7 +9843,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Rapunzel</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-110.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-110EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Ward. This follower can't attack unless it has a Fable counter on it.</text>
     <prop>
@@ -9858,7 +9858,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Tainted Angel Soldier</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-111.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-111EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Fanfare: Select an enemy leader or an enemy follower on the field and deal it 2 damage.
         Last Words: Select a Fallen Angel card in your cemetery that costs 3 or less play points and put it into your hand.</text>
@@ -9874,7 +9874,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Winged Inversion</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-117.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-117EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Choose one of the following: (1) Discard an Angel follower: Select an enemy follower on the field and destroy it.
         (2) Discard a Fallen Angel follower: Give your leader ??+3 and draw a card.</text>
@@ -9890,7 +9890,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 		<!-- Set 3 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Blitz</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-053.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-053EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Select an enemy follower on the field and deal it X damage. X equals the number of Magical Pawn tokens on your field plus 2.</text>
     <prop>
@@ -9904,7 +9904,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Check</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-044.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-044EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Select an enemy follower on the field and deal it 4 damage. Look at the top 3 cards of your deck.
         You may reveal a Chess card (with a different name than this card) from among them and put it into your hand.
@@ -9920,7 +9920,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Daria, Boundary Transcender</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-LD02.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-LD02EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text></text>
     <prop>
@@ -9932,7 +9932,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Falise, Leonardian Mage</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-041.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-041EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Fanfare: Earth Rite: Give this follower Storm.
         Fanfare: Spellchain (7): Deal 4 damage to each enemy follower on the field.</text>
@@ -9948,7 +9948,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Gingerbread House</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-048.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-048EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Stack.
         Fanfare: Give your leader ??+3.</text>
@@ -9963,7 +9963,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Magic Sediment</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-T02.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T02EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Stack.</text>
     <prop>
@@ -9977,7 +9977,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Magical Bishop</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-052.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-052EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>At the start of your end phase, if there's another Chess follower on your field, deal 1 damage to each enemy leader and give your leader ??+1.
         Fanfare: Put a Magical Pawn token into your EX area.</text>
@@ -9993,7 +9993,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Magical Knight</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-046.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-046EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (1): Evolve this follower.
         Whenever another Chess follower is put onto your field, give it ??+1.</text>
@@ -10008,7 +10008,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Magical Knight (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-047.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-047EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Summon a Magical Pawn token.
         Whenever another Chess follower is put onto your field, give it ??+1.</text>
@@ -10022,7 +10022,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Magical Pawn</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-T03.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T03EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text></text>
     <prop>
@@ -10037,7 +10037,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Magical Rook</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-051.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-051EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Fanfare: If there's a Magical Pawn token in your EX area, give this follower ??+1 and Ward.</text>
     <prop>
@@ -10052,7 +10052,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Milady, Mystic Queen</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-042.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-042EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (1): Evolve this follower.
         Fanfare: Summon a Magical Pawn token. Put a Magical Pawn token into your EX area.</text>
@@ -10068,7 +10068,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Milady, Mystic Queen (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-043.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-043EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Select an enemy follower on the field and deal it X damage. X equals the number of Chess followers on your field.</text>
     <prop>
@@ -10081,7 +10081,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mr. Heinlein, Shadow Mage</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-045.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-045EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Fanfare: Put the top 4 cards of your deck into your cemetery. Recover X play points. X equals the number of spells put into your cemetery with this effect.
         Activate: Engage this card, discard a spell: Select an enemy follower on the field and deal it 4 damage.</text>
@@ -10097,7 +10097,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mystic King</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-039.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-039EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (2): Evolve this follower.
         Activate: Put another Chess follower on your field into your cemetery: Select an enemy follower on the field and deal it 5 damage. This ability can be activated once per turn.</text>
@@ -10113,7 +10113,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mystic King (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-040.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-040EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Select up to 4 differently named Chess followers that cost 4 or less in your cemetery and put them onto your field.
         Activate: Put another Chess follower on your field into your cemetery: Select an enemy follower on the field and deal it 5 damage. This ability can be activated once per turn.</text>
@@ -10183,7 +10183,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Witch of Sweets</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-049.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-049EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (0): Evolve this follower.</text>
     <prop>
@@ -10199,7 +10199,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 
 <card>
     <name>Witch of Sweets (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-050.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-050EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Draw a card.</text>
     <prop>
@@ -10212,7 +10212,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Witchs Cauldron</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-054.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-054EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Look at the top 4 cards of your deck. You may reveal a card with Earth Rite from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
@@ -10226,7 +10226,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Wizardess of Oz</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-038.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-038EN.png">BP03</set>
     <tablerow>6</tablerow>
     <text>Fanfare: Summon a Magic Sediment token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
     <prop>
@@ -10257,7 +10257,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 		<!-- Set 3 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Aiming to be a Lady, Salome</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-019.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-019EN.png">BP03</set>
     <tablerow>7</tablerow>
     <text>(This card is treated as Cinderella.) Storm. Strike: Remove a Fable counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fable follower on your field, put a Fable counter on this card.</text>
     <prop>
@@ -10272,7 +10272,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Amerro, Spear Knight</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-023.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-023EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (3): Evolve this card. Strike: If there's another Heroic follower on your field, give this follower ??+1/??+1.</text>
     <prop>
@@ -10287,7 +10287,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Amerro, Spear Knight (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-024.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-024EN.png">BP03</set>
     <tablerow>N/A</tablerow>
     <text>Strike: If there's another Heroic follower on your field, give this follower ??+1/??+1. On Evolve: Select a Heroic card in your cemetery and play it for 0 play points.</text>
     <prop>
@@ -10300,7 +10300,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Bladed Hedgehog</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-034.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-034EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (2): Evolve this follower. Whenever an enemy follower is destroyed during your turn, give this follower ??+1.</text>
     <prop>
@@ -10315,7 +10315,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Bladed Hedgehog (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-035.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-035EN.png">BP03</set>
     <tablerow>N/A</tablerow>
     <text>Whenever an enemy follower is destroyed during your turn, give this follower ??+1. On Evolve: Select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
@@ -10328,7 +10328,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Castle in the Sky</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-025.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-025EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Fanfare: Search you deck for a follower with Storm, reveal it, and add it to your hand. Activate: Engage this card, put this card into your cemetery: Select a follower on your field with Storm and give it ??+1. Activate: 10PP, engage this card, put this card into your cemetery: You may put any number of followers with Storm from your hand onto your field. Give them each ??+2/??+2.</text>
     <prop>
@@ -10342,7 +10342,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Cinderella</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-018.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-018EN.png">BP03</set>
     <tablerow>7</tablerow>
     <text>Storm. Strike: Remove a Fable counter from this card: Look at the top 4 cards of your deck. You may put a follower that costs 5 or less play points from among them onto your field. Put the rest into your cemetery. Fanfare: If there's another Fable follower on your field, put a Fable counter on this card.</text>
     <prop>
@@ -10372,7 +10372,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Heroic Entry</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-037.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-037EN.png">BP03</set>
     <tablerow>3</tablerow>
     <text>Look at the top 4 cards of your deck. You may put a Swordcraft follower that costs 3 or less from among them onto your field. Put the rest on the bottom of your deck in any order. If you put a Heroic follower, give it ??+1/??+1.</text>
     <prop>
@@ -10386,7 +10386,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Ironwrought Defender</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-036.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-036EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: If there are 2 or more Heroic cards in your cemetery, give this follower ??+1 and Ward.</text>
     <prop>
@@ -10401,7 +10401,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Kiss of the Princess</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-030.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-030EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>If you have a Princess card on your field, this card costs 1 less to play. Choose one of the following effects: (1) Select a follower on your field, give it ??+1 and put a Fable counter on it. (2) Select up to 3 Swordcraft followers in your cemetery. Return them to your deck, then shuffle your deck. Then, draw a card.</text>
     <prop>
@@ -10415,7 +10415,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mach Knight</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-028.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-028EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Fanfare: If this follower was put onto the field from anywhere other than your hand, give it Storm.</text>
     <prop>
@@ -10430,7 +10430,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mach Knight (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-029.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-029EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field and deal it 2 damage. If there are 2 or more Heroic cards in your cemetery, deal 4 damage instead.</text>
     <prop>
@@ -10443,7 +10443,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Maisy, Red Riding Hood</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-022.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-022EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: If there's another Fable follower on your field, put a Fable counter on this card. Activate: 1PP, engage this card, remove a Fable counter from this card: Select an enemy follower on the field and destroy it.</text>
     <prop>
@@ -10458,7 +10458,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Old Man and Old Woman</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-033.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-033EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Bane.</text>
     <prop>
@@ -10473,7 +10473,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Rabbit Ear Attendant</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-032.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-032EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: If there's another Fable follower on your field, draw a card.</text>
     <prop>
@@ -10488,7 +10488,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Salome Hyakumantenbara</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-LDS01.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-LDS01EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -10501,7 +10501,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Valiant Fencer</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-020.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-020EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Can only evolve if you have 2 or less cards in your hand. Fanfare: Search your deck for a Heroic card (with a different name than this card), reveal it, and add it to your hand.</text>
     <prop>
@@ -10516,7 +10516,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Valiant Fencer (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-021.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-021EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Select a Heroic follower on your field that can Evolve. Evolve that follower.</text>
     <prop>
@@ -10529,7 +10529,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Young Ogrehunter Momo</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-027.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-027EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Assail. Follower Strike: If the enemy follower has 5 or less defense, draw a card, then discard a card. Fanfare: If there's another Fable follower on your field, give this follower Rush.</text>
     <prop>
@@ -10545,7 +10545,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 		<!-- Set 3 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->		
 <card>
     <name>Baccherus, Peppy Ghostie</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-078.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-078EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>This card is treated as Ghost in addition to its other names. Evolve (1): Evolve this follower. Fanfare: If there's a Gargantuan Ghost token on your field, draw a card.</text>
     <prop>
@@ -10560,7 +10560,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Baccherus, Peppy Ghostie (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-079.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-079EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>This card is treated as Ghost in addition to its other names. Last Words: Put this card into your EX area.</text>
     <prop>
@@ -10573,7 +10573,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Dark Alice</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-073.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-073EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Rush. Strike: Each opponent discards a card. Last Words: Banish the top 10 cards of your deck: Put this card onto your field and discard a card.</text>
     <prop>
@@ -10603,7 +10603,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Demon Maestro</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-080.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-080EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Activate: Give your leader ??-2: Draw a card. This ability can be activated once per turn.</text>
     <prop>
@@ -10618,7 +10618,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Demonium, Punk Devil</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-077.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-077EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Ward. Last Words: Give your leader ??+2. Activate: Give your leader ??-2: Give this follower Bane. This ability can be activated once per turn.</text>
     <prop>
@@ -10633,7 +10633,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Devilish Flautist</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-088.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-088EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Rush. Fanfare: Discard a random card: Give this follower ??+1 and Drain.</text>
     <prop>
@@ -10648,7 +10648,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Furtive Fangs</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-083.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-083EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Select a follower on your field. For the rest of this turn, it has the following effect: "Strike: Select an enemy follower on the field and deal it X damage. X equals this follower's attack."</text>
     <prop>
@@ -10662,7 +10662,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Gargantuan Ghost</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-T06.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T06EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Ward. At the start of your main phase, banish this card.</text>
     <prop>
@@ -10677,7 +10677,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Infernal Orchestration</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-089.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-089EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Deal 1 damage to your leader. Give ??+1/??+1 to the next follower you play this turn.</text>
     <prop>
@@ -10691,7 +10691,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Masquerade Ghost</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-074.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-074EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Whenever a Ghost is put onto your field, give it ??+1.</text>
     <prop>
@@ -10706,7 +10706,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Masquerade Ghost (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-075.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-075EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Whenever a Ghost is put onto your field, give it ??+1. Whenever a Ghost leaves your field, summon a Gargantuan Ghost token. Last Words: Put this card into your EX Area.</text>
     <prop>
@@ -10719,7 +10719,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mischievous Zombie</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-086.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-086EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower. Fanfare: Discard a card: Summon a Ghost token. If you discarded a Departed card, draw a card.</text>
     <prop>
@@ -10734,7 +10734,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Mischievous Zombie (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-087.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-087EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Select a Ghost on your field and give it Bane.</text>
     <prop>
@@ -10747,7 +10747,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Odile, Black Swan</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-076.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-076EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Strike: Deal 2 damage to each enemy leader and enemy follower on the field. Fanfare: Deal 2 damage to each enemy leader and enemy follower on the field. Necrocharge (20): Give this follower Storm.</text>
     <prop>
@@ -10762,7 +10762,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Parade Raven</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-085.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-085EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Put another follower on your field into your cemetery: Select a follower in your cemetery that costs 5 or less and put it onto your field.</text>
     <prop>
@@ -10777,7 +10777,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Pumpkin Necromancer</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-084.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-084EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Put a Gargantuan Ghost token into your EX area</text>
     <prop>
@@ -10792,7 +10792,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Subaru Makabe</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-LD04.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-LD04EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text></text>
     <prop>
@@ -10804,7 +10804,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Trombone Devil</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-081.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-081EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. At the start of your end phase, if Sanguine is active for you, select an enemy leader or enemy follower on the field and deal it 3 damage.</text>
     <prop>
@@ -10819,7 +10819,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
 </card>
 <card>
     <name>Trombone Devil (Evolved)</name>
-    <set picURL="https://images.shadowcard.io/images/cards/BP03-082.jpg">BP03</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-082EN.png">BP03</set>
     <tablerow>1</tablerow>
     <text>At the start of your end phase, if Sanguine is active for you, select an enemy leader or enemy follower on the field and deal it 3 damage. On Evolve: Deal 1 damage to each leader.</text>
     <prop>
