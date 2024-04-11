@@ -7083,7 +7083,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a Forest Bat toke
 		</card>
 		<card>
 			<name>Planet Laplaton</name>
-			<set picURLhttps://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_077.png">BP02</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_077.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Fanfare: Look at the top 3 cards of your deck. You may reveal a Vampire card from among them and add it to your hand. Put the rest on the bottom of your deck in any order. 
 Activate: [1 PP, act this card and put it into graveyard]: Put a Forest Bat token into the field.
