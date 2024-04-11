@@ -7865,7 +7865,7 @@ Activate: [1 PP and put a Forest Bat token into your graveyard]: Choose an enemy
 		<!-- Forestcraft -->
 		<card>
 			<name>Silence Suzuka </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-001.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-001EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (2): Evolve this follower.
 Feed (1): This follower begins Racing.
@@ -7882,7 +7882,7 @@ Storm.</text>
 		</card>
 		<card>
 			<name>Silence Suzuka (Evolved) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-002.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-002EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Storm. 
 On Evolve: Select an enemy follower on the field. Put it on top of its owner's deck. (Tokens put into the deck deck are removed from the game.)</text>
@@ -7896,7 +7896,7 @@ On Evolve: Select an enemy follower on the field. Put it on top of its owner's d
 		</card>
 		<card>
 			<name>Smart Falcon </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-003.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-003EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Return any number of other Umamusume cards on your field to their owner's hands: Deal X damage to each enemy follower on the field. X equals twice the number of cards returned to the hand with this effect. (Tokens returned to the hand are removed from the game.)</text>
@@ -7912,7 +7912,7 @@ Fanfare: Return any number of other Umamusume cards on your field to their owner
 		</card>
 		<card>
 			<name>Gold City </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-004.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-004EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 If there are at least 8 total cards on the field, give this follower Storm. 
@@ -7928,8 +7928,8 @@ Fanfare: Recover 3 play points.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Quick! Tasty! Fast!</name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-005.png">CP01</set>
+			<name>Eat Fast! Yum Fast!</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-005EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Choose one of the following effects: 
 (1) Search your deck for a follower with Storm and put it into your hand. 
@@ -7945,7 +7945,7 @@ Fanfare: Recover 3 play points.</text>
 		</card>
 		<card>
 			<name>Shinko Windy </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-006.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-006EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Look at the top card of your deck. You may put it onto the bottom of your deck.</text>
@@ -7961,7 +7961,7 @@ Fanfare: Look at the top card of your deck. You may put it onto the bottom of yo
 		</card>
 		<card>
 			<name>Eishin Flash </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-007.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-007EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then select up to 1 enemy follower on the field and return it to its owner's hand. (Tokens returned to the hand are removed from the game.)</text>
@@ -7976,8 +7976,8 @@ When this follower begins Racing, give it +1/+1. Then select up to 1 enemy follo
 			</prop>
 		</card>
 		<card>
-			<name>Friend to Train </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-008.png">CP01</set>
+			<name>Systematic Squats </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-008EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>When this card leaves the field, select an Umamusume follower on your field and give it +1/+1. 
 Fanfare: Draw a card.</text>
@@ -7992,7 +7992,7 @@ Fanfare: Draw a card.</text>
 		</card>
 		<card>
 			<name>Marvelous Sunday </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-009.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-009EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Return another card on your field to its owner's hand: Give your leader +2 defense. (Tokens returned to the hand are removed from the game.)</text>
@@ -8008,7 +8008,7 @@ Fanfare: Return another card on your field to its owner's hand: Give your leader
 		</card>
 		<card>
 			<name>Yukino Bijin </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-010.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-010EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Ward. 
@@ -8025,7 +8025,7 @@ Fanfare: Return another card on your the field to the hand: Give this follower +
 		</card>
 		<card>
 			<name>Ines Fujin </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-011.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-011EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Rush. 
@@ -8043,7 +8043,7 @@ Fanfare: Select another card on your field and return it to the hand. (Tokens re
 		</card>
 		<card>
 			<name>Taiki Shuttle </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-012.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-012EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this card is returned to your hand from the field, select an enemy follower on the field and deal it 2 damage.</text>
@@ -8059,7 +8059,7 @@ When this card is returned to your hand from the field, select an enemy follower
 		</card>
 		<card>
 			<name>Haru Urara </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-013.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-013EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, this follower cannot take damage this turn.</text>
@@ -8076,7 +8076,7 @@ When this follower begins Racing, give it +1/+1. Then, this follower cannot take
 		<!-- Swordcraft -->
 		<card>
 			<name>Tokai Teio</name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-014.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-014EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (2): Evolve this follower. 
 Feed (1): This follower begins Racing. 
@@ -8093,7 +8093,7 @@ Fanfare: Select an enemy follower on the field and deal it X damage. X equals th
 		</card>
 		<card>
 			<name>Tokai Teio (Evolved) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-015.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-015EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Storm.</text>
 			<prop>
@@ -8106,7 +8106,7 @@ Fanfare: Select an enemy follower on the field and deal it X damage. X equals th
 		</card>
 		<card>
 			<name>Narita Brian </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-016.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-016EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing.
 Bane.
@@ -8125,7 +8125,7 @@ Activate: Engage this card: Select an enemy leader or enemy follower on the fiel
 		</card>
 		<card>
 			<name>Winning Ticket </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-017.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-017EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Storm. 
@@ -8141,8 +8141,8 @@ Fanfare: If Trial Initiation and Narita Taishin are in your cemetery, give this 
 			</prop>
 		</card>
 		<card>
-			<name>Pressured by the Approaching Heat </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-018.png">CP01</set>
+			<name>Outrunning the Encroaching Heat </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-018EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Select a follower on your field and give it Storm. If it's an Umamusume follower, also give it +1/+1.</text>
 			<prop>
@@ -8156,7 +8156,7 @@ Fanfare: If Trial Initiation and Narita Taishin are in your cemetery, give this 
 		</card>
 		<card>
 			<name>Air Groove </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-019.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-019EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, select up to 1 other follower on your field and refresh it. It can't attack this turn.</text>
@@ -8172,7 +8172,7 @@ When this follower begins Racing, give it +1/+1. Then, select up to 1 other foll
 		</card>
 		<card>
 			<name>Hishi Amazon </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-020.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-020EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Rush. 
@@ -8189,7 +8189,7 @@ Fanfare: 3PP: Search your deck for an Umamusume follower that costs 3 or less an
 		</card>
 		<card>
 			<name>Trial Initiation </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-021.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-021EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Choose one of the following effects: 
 (1) Look at the top 2 cards of your deck. You may reveal an Umamusume card from among them and put it into your hand. Put the rest on the bottom of your deck in any order. 
@@ -8205,7 +8205,7 @@ Fanfare: 3PP: Search your deck for an Umamusume follower that costs 3 or less an
 		</card>
 		<card>
 			<name>Sirius Symboli </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-022.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-022EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Bane.</text>
@@ -8221,7 +8221,7 @@ Bane.</text>
 		</card>
 		<card>
 			<name>Narita Taishin </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-023.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-023EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Rush.</text>
@@ -8237,7 +8237,7 @@ Rush.</text>
 		</card>
 		<card>
 			<name>Symboli Rudolf </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-024.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-024EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Last Words: Search your deck for a Tokai Teio, reveal it, and add it to your hand.</text>
@@ -8253,7 +8253,7 @@ Last Words: Search your deck for a Tokai Teio, reveal it, and add it to your han
 		</card>
 		<card>
 			<name>Biko Pegasus </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-025.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-025EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower beings Racing, you may select an enemy follower on the field and engage it.</text>
@@ -8269,7 +8269,7 @@ When this follower beings Racing, you may select an enemy follower on the field 
 		</card>
 		<card>
 			<name>Fuji Kiseki </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-026.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-026EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing.
 Activate: 3PP and engage this card: Select an enemy follower on the field and deal it 3 damage.</text>
@@ -8286,7 +8286,7 @@ Activate: 3PP and engage this card: Select an enemy follower on the field and de
 		<!-- Runecraft -->
 		<card>
 			<name>Agnes Tachyon </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-027.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-027EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
 Feed (1): This follower begins Racing. Whenever you play a spell, select an enemy follower on the field and give it -1/-1.</text>
@@ -8302,7 +8302,7 @@ Feed (1): This follower begins Racing. Whenever you play a spell, select an enem
 		</card>
 		<card>
 			<name>Agnes Tachyon (Evolved) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-028.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-028EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: You may select a spell in your cemetery and put it into your hand. 
 Whenever you play a spell, select an enemy follower on the field and give it -1/-1</text>
@@ -8316,7 +8316,7 @@ Whenever you play a spell, select an enemy follower on the field and give it -1/
 		</card>
 		<card>
 			<name>Daiwa Scarlet </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-029.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-029EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 While this card is on your field, whenever you play an Umamusume spell for the first time each turn, you may play it for 1 less. 
@@ -8334,7 +8334,7 @@ Fanfare: Search your deck for an Umamusume spell, reveal it, and put it into you
 		</card>
 		<card>
 			<name>Vodka </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-030.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-030EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>If Daiwa Scarlet is on your field, you may play this card for 2 less. 
 Feed (1): This follower begins Racing. 
@@ -8350,8 +8350,8 @@ Once per turn, whenever you play a spell, give each Umamusume follower on your f
 			</prop>
 		</card>
 		<card>
-			<name>Dance Clamour Festival! </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-031.png">CP01</set>
+			<name>Make! Some! NOISE! </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-031EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>[Quick]
 Select an enemy follower on the field and deal it 3 damage. If there is an Umamusume card on your field, deal 4 damage instead.</text>
@@ -8366,7 +8366,7 @@ Select an enemy follower on the field and deal it 3 damage. If there is an Umamu
 		</card>
 		<card>
 			<name>Zenno Rob Roy </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-032.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-032EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): this card begins Racing. 
 Whenever another one of your followers begins Racing: Look at the top 4 cards of your deck. You may reveal an amulet or spell from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
@@ -8382,7 +8382,7 @@ Whenever another one of your followers begins Racing: Look at the top 4 cards of
 		</card>
 		<card>
 			<name>Agnes Digital </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-033.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-033EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, draw a card, then discard a card.</text>
@@ -8397,8 +8397,8 @@ When this follower begins Racing, draw a card, then discard a card.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Long Night with the Witch Apprentice </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-034.png">CP01</set>
+			<name>Lamplit Training of a Witch-to-Be </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-034EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>[Quick] 
 Select an enemy follower on the field and deal it 2 damage. If a follower on your field is Racing, deal 3 damage instead.</text>
@@ -8413,7 +8413,7 @@ Select an enemy follower on the field and deal it 2 damage. If a follower on you
 		</card>
 		<card>
 			<name>Admire Vega </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-035.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-035EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Activate: Engage this card: Select a spell in your hand that costs 2 or less and put it into your EX area. You may play it for 0 this turn.</text>
@@ -8429,7 +8429,7 @@ Activate: Engage this card: Select a spell in your hand that costs 2 or less and
 		</card>
 		<card>
 			<name>Kawakami Princess </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-036.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-036EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Discard a card: Select an enemy follower on the field and deal it 4 damage.</text>
@@ -8445,7 +8445,7 @@ Fanfare: Discard a card: Select an enemy follower on the field and deal it 4 dam
 		</card>
 		<card>
 			<name>Nakayama Festa </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-037.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-037EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Deal 5 damage to each enemy follower on the field and each enemy leader. Then, discard your hand.</text>
@@ -8461,7 +8461,7 @@ Fanfare: Deal 5 damage to each enemy follower on the field and each enemy leader
 		</card>
 		<card>
 			<name>Tosen Jordan </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-038.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-038EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Last Words: You may select a spell in your cemetery and put it into your hand.</text>
@@ -8477,7 +8477,7 @@ Last Words: You may select a spell in your cemetery and put it into your hand.</
 		</card>
 		<card>
 			<name>Narita Top Road </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-039.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-039EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, draw 2 cards, then discard a card.</text>
@@ -8494,7 +8494,7 @@ When this follower begins Racing, give it +1/+1. Then, draw 2 cards, then discar
 		<!-- Dragoncraft -->
 		<card>
 			<name>Special Week</name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-040.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-040EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
 Feed (1): This follower begins Racing. 
@@ -8511,7 +8511,7 @@ Fanfare: Look at the top card of your deck. If it's an Umamusume card, you may r
 		</card>
 		<card>
 			<name>Special Week (Evolved) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-041.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-041EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: If Overflow is active for you, give each other Umamusume follower on your field +1/+1.</text>
 			<prop>
@@ -8524,7 +8524,7 @@ Fanfare: Look at the top card of your deck. If it's an Umamusume card, you may r
 		</card>
 		<card>
 			<name>Oguri Cap </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-042.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-042EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Feed (2): This follower begins Racing twice. 
@@ -8544,7 +8544,7 @@ Fanfare: Discard 2 cards: Give this follower Storm.</text>
 		</card>
 		<card>
 			<name>Seiun Sky </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-043.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-043EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Storm. 
@@ -8561,8 +8561,8 @@ Strike: Give this follower +1/+0.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Passion Championer! </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-044.png">CP01</set>
+			<name>Champion's Passion </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-044EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>At the start of your main phase, select an enemy follower on the field or an enemy leader and deal it 4 damage. 
 Fanfare: If there are any other Umamusume cards on your field, select an enemy follower on the field and deal it 4 damage.</text>
@@ -8577,7 +8577,7 @@ Fanfare: If there are any other Umamusume cards on your field, select an enemy f
 		</card>
 		<card>
 			<name>King Halo </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-045.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-045EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Select one of the following effects: 
@@ -8595,7 +8595,7 @@ Fanfare: Select one of the following effects:
 		</card>
 		<card>
 			<name>Tamamo Cross </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-046.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-046EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, select up to 1 enemy follower on the field and deal it 2 damage.</text>
@@ -8610,8 +8610,8 @@ When this follower begins Racing, give it +1/+1. Then, select up to 1 enemy foll
 			</prop>
 		</card>
 		<card>
-			<name>Supporting You </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-047.png">CP01</set>
+			<name>Flowers for You </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-047EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Select an Umamusume follower on your field. Give it +1/+0 and draw a card. If the selected follower was Seiun Sky, give it an additional +1/+1.</text>
 			<prop>
@@ -8625,7 +8625,7 @@ When this follower begins Racing, give it +1/+1. Then, select up to 1 enemy foll
 		</card>
 		<card>
 			<name>Bamboo Memory </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-048.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-048EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Discard a card: Deal 2 damage to each enemy leader.</text>
@@ -8641,7 +8641,7 @@ Fanfare: Discard a card: Deal 2 damage to each enemy leader.</text>
 		</card>
 		<card>
 			<name>Yaeno Muteki </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-049.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-049EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, select another follower on your field and give it +1/+1.</text>
@@ -8657,7 +8657,7 @@ When this follower begins Racing, give it +1/+1. Then, select another follower o
 		</card>
 		<card>
 			<name>Grass Wonder </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-050.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-050EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Deal 2 damage to each enemy follower on the field.</text>
@@ -8673,7 +8673,7 @@ Fanfare: Deal 2 damage to each enemy follower on the field.</text>
 		</card>
 		<card>
 			<name>Super Creek </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-051.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-051EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Ward. 
@@ -8690,7 +8690,7 @@ Fanfare: Give your leader +5 defense.</text>
 		</card>
 		<card>
 			<name>Hishi Akebono </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-052.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-052EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Give your leader +10 defense.</text>
@@ -8707,7 +8707,7 @@ Fanfare: Give your leader +10 defense.</text>
 		<!-- Abysscraft -->
 		<card>
 			<name>Maruzensky </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-053.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-053EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
 Feed (1): This follower begins Racing. 
@@ -8724,7 +8724,7 @@ Fanfare: Necrocharge (10): Select an enemy follower on the field and give it -4/
 		</card>
 		<card>
 			<name>Maruzensky (Evolved) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-054.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-054EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: Select an enemy follower on the field and give it -2/-2.</text>
 			<prop>
@@ -8737,7 +8737,7 @@ Fanfare: Necrocharge (10): Select an enemy follower on the field and give it -4/
 		</card>
 		<card>
 			<name>Rice Shower </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-055.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-055EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Ward. 
@@ -8755,7 +8755,7 @@ Last Words: You may select an Umamusume follower in your cemetery (with a differ
 		</card>
 		<card>
 			<name>Nice Nature </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-056.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-056EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Select an enemy follower on the field and give it -1/-1. 
@@ -8771,8 +8771,8 @@ Last Words: Each opponent discards a card.</text>
 			</prop>
 		</card>
 		<card>
-			<name>7cm Ahead </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-057.png">CP01</set>
+			<name>7 More Centimeters </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-057EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>This card cannot be played unless you have 20 or more Umamusume cards in your cemetery. 
 Destroy each enemy follower on the field and draw 3 cards. Each opponent discards 3 cards.</text>
@@ -8787,7 +8787,7 @@ Destroy each enemy follower on the field and draw 3 cards. Each opponent discard
 		</card>
 		<card>
 			<name>Fine Motion </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-058.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-058EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, give your leader +2 defense and put the top 2 cards of your deck into your cemetery.</text>
@@ -8803,7 +8803,7 @@ When this follower begins Racing, give it +1/+1. Then, give your leader +2 defen
 		</card>
 		<card>
 			<name>Mayano Top Gun </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-059.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-059EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Rush. 
@@ -8820,8 +8820,8 @@ Fanfare: If there are at least 5 Umamusume cards in your cemetery, give this fol
 			</prop>
 		</card>
 		<card>
-			<name>Recital of the Rain, My Own Invention </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-060.png">CP01</set>
+			<name>My Solo Drawn to Raindrop Drums </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-060EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>[Quick] 
 If there are 10 or more Umamusume cards in your cemetery, you may play this card for 2 less. 
@@ -8837,7 +8837,7 @@ Select an enemy follower on the field and destroy it.</text>
 		</card>
 		<card>
 			<name>Curren Chan </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-061.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-061EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Activate: 1PP, engage this card: Select an enemy follower on the field and deal it 1 damage. Put the top card of your deck into your cemetery.</text>
@@ -8853,7 +8853,7 @@ Activate: 1PP, engage this card: Select an enemy follower on the field and deal 
 		</card>
 		<card>
 			<name>Twin Turbo </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-062.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-062EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Assail. 
@@ -8870,7 +8870,7 @@ Fanfare: If there are 10 or more Umamusume cards in your cemetery, give this fol
 		</card>
 		<card>
 			<name>Sakura Chiyono O </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-063.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-063EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, select up to 1 Umamusume card in your cemetery and put it into your hand.</text>
@@ -8886,7 +8886,7 @@ When this follower begins Racing, give it +1/+1. Then, select up to 1 Umamusume 
 		</card>
 		<card>
 			<name>Seeking the Pearl </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-064.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-064EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Last Words: Put the top 2 cards of your deck into your cemetery.</text>
@@ -8902,7 +8902,7 @@ Last Words: Put the top 2 cards of your deck into your cemetery.</text>
 		</card>
 		<card>
 			<name>Matikanetannhauser</name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-065.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-065EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Select an enemy amulet on the field and destroy it.</text>
@@ -8919,7 +8919,7 @@ Fanfare: Select an enemy amulet on the field and destroy it.</text>
 		<!-- Havencraft -->
 		<card>
 			<name>Mejiro McQueen </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-066.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-066EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Evolve (1): Evolve this follower. 
@@ -8937,7 +8937,7 @@ Fanfare: Put an amulet on your field into the cemetery: Select an enemy leader o
 		</card>
 		<card>
 			<name>Mejiro McQueen (Evolved) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-067.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-067EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Ward.
 On Evolve: Select an amulet in your cemetery. You may put it into your hand.</text>
@@ -8951,7 +8951,7 @@ On Evolve: Select an amulet in your cemetery. You may put it into your hand.</te
 		</card>
 		<card>
 			<name>Gold Ship </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-068.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-068EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing.
 Fanfare: Reveal the top card of your deck. Deal X damage to each enemy leader and give your leader +X health. X equals cost of the revealed card. 
@@ -8968,7 +8968,7 @@ Activate: 10PP: Give this follower +10/+10.</text>
 		</card>
 		<card>
 			<name>Ikuno Dictus </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-069.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-069EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Ward. 
@@ -8984,8 +8984,8 @@ Fanfare: Look at the top 3 cards of your deck. You may reveal an amulet or an Um
 			</prop>
 		</card>
 		<card>
-			<name>Beyond Her Rear </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-070.png">CP01</set>
+			<name>The Will to Overtake </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-070EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Fanfare: Look at the top 3 cards of your deck. You may put any number of them on the top of your deck and the rest on the bottom of your deck in any order. 
 Activate: 2PP, engage this card, put this card into your cemetery: Draw a card.</text>
@@ -9000,7 +9000,7 @@ Activate: 2PP, engage this card, put this card into your cemetery: Draw a card.<
 		</card>
 		<card>
 			<name>Meisho Doto </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-071.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-071EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, search your deck for an amulet that originally costs 1 play point and put it onto your field.</text>
@@ -9016,7 +9016,7 @@ When this follower begins Racing, give it +1/+1. Then, search your deck for an a
 		</card>
 		<card>
 			<name>Mejiro Ryan </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-072.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-072EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Whenever a Mejiro Family follower or amulet leaves your field, give this follower Storm.</text>
@@ -9031,8 +9031,8 @@ Whenever a Mejiro Family follower or amulet leaves your field, give this followe
 			</prop>
 		</card>
 		<card>
-			<name>Road of Fortune </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-073.png">CP01</set>
+			<name>Fate's Forecast </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-073EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Fanfare: Select an enemy follower on the field and destroy it. 
 Activate: Engage this card, put this card into your cemetery: Look at the top card of your deck. You may reveal a card that costs 7 from among them and put it into your hand.</text>
@@ -9047,7 +9047,7 @@ Activate: Engage this card, put this card into your cemetery: Look at the top ca
 		</card>
 		<card>
 			<name>Inari One </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-074.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-074EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Discard an amulet: Give this follower +2/+0 and Rush.</text>
@@ -9063,7 +9063,7 @@ Fanfare: Discard an amulet: Give this follower +2/+0 and Rush.</text>
 		</card>
 		<card>
 			<name>Mejiro Dober </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-075.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-075EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 When this follower begins Racing, give it +1/+1. Then, give your leader +2 defense.</text>
@@ -9079,7 +9079,7 @@ When this follower begins Racing, give it +1/+1. Then, give your leader +2 defen
 		</card>
 		<card>
 			<name>Mejiro Ardan </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-076.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-076EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Ward. At the start of your main phase, if there are no other Mejiro Family followers on your field (with a different name than this card), return this card to the hand.</text>
@@ -9095,7 +9095,7 @@ Ward. At the start of your main phase, if there are no other Mejiro Family follo
 		</card>
 		<card>
 			<name>Mejiro Palmer </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-077.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-077EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Search your deck for a Mejiro Family follower and put it into your hand. 
@@ -9112,7 +9112,7 @@ Fanfare: If Dance Clamour Festival! is in your cemetery, give this follower +1/+
 		</card>
 		<card>
 			<name>T.M. Opera O </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-078.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-078EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Select an enemy follower on the field. Banish it and draw a card.</text>
@@ -9128,8 +9128,8 @@ Fanfare: Select an enemy follower on the field. Banish it and draw a card.</text
 		</card>
 		<!-- Neutral -->
 		<card>
-			<name>(Complete Management) Riko Kashimoto </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-079.png">CP01</set>
+			<name>Riko Kashimoto (Planned Perfection)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-079EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Rush.
 Strike: If there are no other followers on your field, select an enemy follower on the field and destroy it. Then deal 3 damage to its leader.</text>
@@ -9144,8 +9144,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
 			</prop>
 		</card>
 		<card>
-			<name>Assemblage of Feelings </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-080.png">CP01</set>
+			<name>Close-Knit Ambitions</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-080EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Shuffle your deck, then reveal the top 6 cards. From among the revealed cards, you may put any number of Umamusume followers and amulets onto your field. Put the rest into your hand.</text>
 			<prop>
@@ -9158,8 +9158,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
 			</prop>
 		</card>
 		<card>
-			<name>Go Big or Go Bust </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-081.png">CP01</set>
+			<name>Take a Jab! </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-081EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>At the start of your end phase, roll a six-sided die. If the result is 1, deal 5 damage to your leader. If the result is 2, 3, 4 or 5, draw a card. If the result is 6, give your leader +3 defense and destroy this card.</text>
 			<prop>
@@ -9172,8 +9172,8 @@ Strike: If there are no other followers on your field, select an enemy follower 
 			</prop>
 		</card>
 		<card>
-			<name>(Same Road, Together!) Aoi Kiryuin </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-082.png">CP01</set>
+			<name>Aoi Kiryuin [Trainer's Teamwork]</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-082EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Ward. 
 Whenever one of your followers begins Racing, give it +1/+1. 
@@ -9190,7 +9190,7 @@ Fanfare: Select a face up Carrot in your Evolve Deck. Turn it face down and draw
 		</card>
 		<card>
 			<name>Sasami Anshinzawa </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-083.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-083EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Fanfare: Reveal the top card of your deck. If its cost is an odd number, deal 2 damage to each enemy leader. If its cost is an even number, deal 2 damage to your leader.</text>
 			<prop>
@@ -9205,7 +9205,7 @@ Fanfare: Select a face up Carrot in your Evolve Deck. Turn it face down and draw
 		</card>
 		<card>
 			<name>Tazuna Hayakawa </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-084.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-084EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Ward. 
 Fanfare: Select an Umamusume follower on your field and give it +1/+2.</text>
@@ -9221,7 +9221,7 @@ Fanfare: Select an Umamusume follower on your field and give it +1/+2.</text>
 		</card>
 		<card>
 			<name>Carrot </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-085.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-085EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>When used to Feed an Umamusume follower, that follower begins Racing. Racing followers have Rush.
 -----------------------
@@ -9236,7 +9236,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		<!-- CP01 Leaders -->
 		<card>
 			<name>(Hometown Cheers!) Yukino Bijin </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld01.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld01EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Forestcraft</type>
@@ -9247,7 +9247,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(Mark of Stubbornness) Narita Taishin </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld02.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld02EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Swordcraft</type>
@@ -9258,7 +9258,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(Bride to Be!!) Kawakami Princess </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld03.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld03EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Runecraft</type>
@@ -9269,7 +9269,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(Enduring Through What Burns) Yaeno Muteki </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld04.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld04EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Dragoncraft</type>
@@ -9280,7 +9280,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(A Dignified Air in a Sea of Colors) Grass Wonder </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld05.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld05EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Dragoncraft</type>
@@ -9291,7 +9291,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(Declaration of Turbo Engines at Full Throttle!) Twin Turbo </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld06.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld06EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Abysscraft</type>
@@ -9302,7 +9302,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(Solo Spiral Chase Song) Manhattan Cafe </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld07.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld07EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Abysscraft</type>
@@ -9313,7 +9313,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<card>
 			<name>(Foolish Laughter) Mejiro Palmer </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld08.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-ld08EN.png">CP01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Havencraft</type>
@@ -9325,7 +9325,7 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		<!-- CP01 SPs -->
 		<card>
 			<name>Silence Suzuka (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp01.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp01EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (2): Evolve this follower.
 Feed (1): This follower begins Racing.
@@ -9342,7 +9342,7 @@ Storm.</text>
 		</card>
 		<card>
 			<name>Silence Suzuka (Evolved) (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp02.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp02EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Storm. 
 On Evolve: Select an enemy follower on the field. Put it on top of its owner's deck. (Tokens put into the deck deck are removed from the game.)</text>
@@ -9356,7 +9356,7 @@ On Evolve: Select an enemy follower on the field. Put it on top of its owner's d
 		</card>
 		<card>
 			<name>Smart Falcon (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp03.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp03EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Fanfare: Return any number of other Umamusume cards on your field to their owner's hands: Deal X damage to each enemy follower on the field. X equals twice the number of cards returned to the hand with this effect. (Tokens returned to the hand are removed from the game.)</text>
@@ -9372,7 +9372,7 @@ Fanfare: Return any number of other Umamusume cards on your field to their owner
 		</card>
 		<card>
 			<name>Tokai Teio (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp04.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp04EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (2): Evolve this follower. 
 Feed (1): This follower begins Racing. 
@@ -9389,7 +9389,7 @@ Fanfare: Select an enemy follower on the field and deal it X damage. X equals th
 		</card>
 		<card>
 			<name>Tokai Teio (Evolved) (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp05.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp05EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Storm.</text>
 			<prop>
@@ -9402,7 +9402,7 @@ Fanfare: Select an enemy follower on the field and deal it X damage. X equals th
 		</card>
 		<card>
 			<name>Narita Brian (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp06.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp06EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing.
 Bane.
@@ -9421,7 +9421,7 @@ Activate: Engage this card: Select an enemy leader or enemy follower on the fiel
 		</card>
 		<card>
 			<name>Agnes Tachyon (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp07.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp07EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
 Feed (1): This follower begins Racing. Whenever you play a spell, select an enemy follower on the field and give it -1/-1.</text>
@@ -9437,7 +9437,7 @@ Feed (1): This follower begins Racing. Whenever you play a spell, select an enem
 		</card>
 		<card>
 			<name>Agnes Tachyon (Evolved) (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp08.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp08EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: You may select a spell in your cemetery and put it into your hand. 
 Whenever you play a spell, select an enemy follower on the field and give it -1/-1</text>
@@ -9451,7 +9451,7 @@ Whenever you play a spell, select an enemy follower on the field and give it -1/
 		</card>
 		<card>
 			<name>Daiwa Scarlet (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp09.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp09EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 While this card is on your field, whenever you play an Umamusume spell for the first time each turn, you may play it for 1 less. 
@@ -9469,7 +9469,7 @@ Fanfare: Search your deck for an Umamusume spell, reveal it, and put it into you
 		</card>
 		<card>
 			<name>Special Week (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp10.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp10EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
 Feed (1): This follower begins Racing. 
@@ -9486,7 +9486,7 @@ Fanfare: Look at the top card of your deck. If it's an Umamusume card, you may r
 		</card>
 		<card>
 			<name>Special Week (Evolved) (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp11.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp11EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: If Overflow is active for you, give each other Umamusume follower on your field +1/+1.</text>
 			<prop>
@@ -9499,7 +9499,7 @@ Fanfare: Look at the top card of your deck. If it's an Umamusume card, you may r
 		</card>
 		<card>
 			<name>Oguri Cap (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp12.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp12EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Feed (2): This follower begins Racing twice. 
@@ -9519,7 +9519,7 @@ Fanfare: Discard 2 cards: Give this follower Storm.</text>
 		</card>
 		<card>
 			<name>Maruzensky (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp13.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp13EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
 Feed (1): This follower begins Racing. 
@@ -9536,7 +9536,7 @@ Fanfare: Necrocharge (10): Select an enemy follower on the field and give it -4/
 		</card>
 		<card>
 			<name>Maruzensky (Evolved) (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp14.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp14EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: Select an enemy follower on the field and give it -2/-2.</text>
 			<prop>
@@ -9549,7 +9549,7 @@ Fanfare: Necrocharge (10): Select an enemy follower on the field and give it -4/
 		</card>
 		<card>
 			<name>Rice Shower (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp15.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp15EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Ward. 
@@ -9567,7 +9567,7 @@ Last Words: You may select an Umamusume follower in your cemetery (with a differ
 		</card>
 		<card>
 			<name>Mejiro McQueen (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp16.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp16EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing. 
 Evolve (1): Evolve this follower. 
@@ -9585,7 +9585,7 @@ Fanfare: Put an amulet on your field into the cemetery: Select an enemy leader o
 		</card>
 		<card>
 			<name>Mejiro McQueen (Evolved) (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp17.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp17EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Ward.
 On Evolve: Select an amulet in your cemetery. You may put it into your hand.</text>
@@ -9599,7 +9599,7 @@ On Evolve: Select an amulet in your cemetery. You may put it into your hand.</te
 		</card>
 		<card>
 			<name>Gold Ship (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp18.png">CP01</set>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp18EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Feed (1): This follower begins Racing.
 Fanfare: Reveal the top card of your deck. Deal X damage to each enemy leader and give your leader +X health. X equals cost of the revealed card. 
@@ -9615,8 +9615,8 @@ Activate: 10PP: Give this follower +10/+10.</text>
 			</prop>
 		</card>
 		<card>
-			<name>(Complete Management) Riko Kashimoto (SP) </name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp19.png">CP01</set>
+			<name>Riko Kashimoto (Planned Perfection) (SP) </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp19EN.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Rush.
 Strike: If there are no other followers on your field, select an enemy follower on the field and destroy it. Then deal 3 damage to its leader.</text>
