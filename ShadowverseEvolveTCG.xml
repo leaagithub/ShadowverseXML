@@ -1634,7 +1634,7 @@ Put a Forest Bat token into your EX area.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Neutral</type>
+				<type>Follower|Neutral - Mercenary</type>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -2571,6 +2571,159 @@ Fanfare: Select an enemy follower on the field. Banish it and draw a card.</text
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
+		</card>
+		<!-- Promo Cards-->
+		<card>
+			<name>Bahamut (PR)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/BSF2024-001EN.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (0): Evolve this card. 
+If there are 2 or more followers in an enemy field, this card cannot attack an enemy leader. 
+Fanfare: Destroy all other followers.</text>
+			<prop>
+				<manacost>9</manacost>
+				<cmc>9</cmc>
+				<type>Follower|Neutral - Diety/Supreme</type>
+				<pt>9/9</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Fighter (PR) </name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-000EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Neutral - Mercenary</type>
+				<pt>2/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Aria, Fairy Princess (PR) </name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-016EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>Ward.
+(F) Put up to 9 Fairy tokens onto your field or into your EX area.
+While this card is on your field, your other Pixie followers have Rush.</text>
+			<prop>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<type>Follower|Forestcraft - Pixie/Princess</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Crystalia Tia (PR)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-038EN.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+Fanfare: [Combo_3] Put a "Crystalia Eve" into the field.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Crystalia / Princess</type>
+				<pt>1/1</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Crystalia Tia (Evolved) (PR) </name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-039EN.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose one of your "Crystalia Eve." It gets +1/+1 and gains [Rush].</text>
+			<prop>
+				<type>Follower|Evolve|Forestcraft - Crystalia / Princess</type>
+				<pt>2/2</pt>
+				<maintype>Follower|Evolve</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Angelic Snipe (PR) </name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-017EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Select an enemy follower on the field and deal it 2 damage.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Neutral - Angel</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Angelic Barrage (PR) </name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-018EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Deal 1 damage to each enemy follower on the field.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Neutral - Angel</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Demonic Strike (PR) </name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-019EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>Select an enemy leader or enemy follower on the field and deal it 3 damage.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Spell|Neutral - Fiend</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+		    <name>Falise, Leonardian Mage (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-072EN.png">BP03</set>
+		    <tablerow>2</tablerow>
+		    <text>Fanfare: Earth Rite: Give this follower Storm.
+		        Fanfare: Spellchain (7): Deal 4 damage to each enemy follower on the field.</text>
+		    <prop>
+		        <manacost>4</manacost>
+		        <cmc>4</cmc>
+		        <type>Follower|Runecraft - Mage/Academy</type>
+		        <pt>4/5</pt>
+		        <maintype>Follower</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Maisy, Red Riding Hood (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-073EN.png">BP03</set>
+		    <tablerow>1</tablerow>
+		    <text>Fanfare: If there's another Fable follower on your field, put a Fable counter on this card. Activate: 1PP, engage this card, remove a Fable counter from this card: Select an enemy follower on the field and destroy it.</text>
+		    <prop>
+		        <manacost>2</manacost>
+		        <cmc>2</cmc>
+		        <type>Follower|Swordcraft - Fable/Assassin</type>
+		        <pt>1/1</pt>
+		        <maintype>Follower</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
 		</card>
 		<!-- BP01 Main -->
 		<!-- Forestcraft -->
@@ -7396,7 +7549,7 @@ Fanfare: Destroy all other followers.</text>
 			<prop>
 				<manacost>9</manacost>
 				<cmc>9</cmc>
-				<type>Follower|Neutral - Divinity / Transcendent</type>
+				<type>Follower|Neutral - Diety / Supreme</type>
 				<pt>9/9</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -7410,7 +7563,7 @@ Fanfare: Destroy all other followers.</text>
 			<text>If there are 2 or more followers in an enemy field, this card cannot attack an enemy leader. 
 [Evolve]: Destroy all amulets.</text>
 			<prop>
-				<type>Follower|Evolve|Neutral - Divinity / Transcendent</type>
+				<type>Follower|Evolve|Neutral - Diety / Supreme</type>
 				<pt>11/11</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -7854,7 +8007,7 @@ Activate: [1 PP and put a Forest Bat token into your graveyard]: Choose an enemy
 			<text>If there are 2 or more followers in an enemy field, this card cannot attack an enemy leader. 
 [Evolve]: Destroy all amulets.</text>
 			<prop>
-				<type>Follower|Evolve|Neutral - Divinity / Transcendent</type>
+				<type>Follower|Evolve|Neutral - Diety / Supreme</type>
 				<pt>11/11</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
