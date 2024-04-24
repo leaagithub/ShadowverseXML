@@ -3591,7 +3591,7 @@ Take another turn after this one.</text>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-058EN.png">BP01</set>
 			<tablerow>2</tablerow>
 			<text>(F) Summon a Guardform Golem or Strikeform Golem token.
-(A) (tap): Summon a Magic Sediment token.
+(A) (tap): Summon a Magic  token.
 (A) (tap), Earth Rite: Summon a Guardform Golem or Strikeform Golem token.</text>
 			<prop>
 				<manacost>5</manacost>
@@ -3728,7 +3728,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-067EN.png">BP01</set>
 			<tablerow>2</tablerow>
 			<text>Ward.
-(F) Choose one of the following effects. (1) Earth Rite: Give this follower +1/+2. (2) Summon a Magic Sediment token.</text>
+(F) Choose one of the following effects. (1) Earth Rite: Give this follower +1/+2. (2) Summon a Magic  token.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -3744,7 +3744,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-068EN.png">BP01</set>
 			<tablerow>2</tablerow>
 			<text>(E) (1): Evolve this follower.
-(L) Summon a Magic Sediment token.</text>
+(L) Summon a Magic  token.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -3759,7 +3759,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 			<name>Crafty Warlock (Evolved) </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-069EN.png">BP01</set>
 			<tablerow>2</tablerow>
-			<text>(L) Summon a Magic Sediment token. Add 1 to a Stack on your field.</text>
+			<text>(L) Summon a Magic  token. Add 1 to a Stack on your field.</text>
 			<prop>
 				<type>Follower|Evolve|Runecraft - Alchemist</type>
 				<pt>3/3</pt>
@@ -5696,7 +5696,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Magic Sediment </name>
+			<name>Magic  </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png">BP01</set>
 			<tablerow>0</tablerow>
 			<text>Stack. Amulets with Stack are put onto the field with 1 Stack counter and have the following abilities.
@@ -5862,7 +5862,7 @@ You can use an Evolution Point toward paying an (E) cost by flipping this card o
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-U03EN.png">BP01</set>
 			<tablerow>2</tablerow>
 			<text>(F) Summon a Guardform Golem or Strikeform Golem token.
-(A) (tap): Summon a Magic Sediment token.
+(A) (tap): Summon a Magic  token.
 (A) (tap), Earth Rite: Summon a Guardform Golem or Strikeform Golem token.</text>
 			<prop>
 				<manacost>5</manacost>
@@ -6482,7 +6482,7 @@ Fanfare: Discard all cards from your hand. Put the top card of your deck into yo
 			<name>Sun Oracle Pascale</name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/BP02-037EN.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: Put a Magic Sediment token into the field. 
+			<text>Fanfare: Put a Magic  token into the field. 
 Quick/Activate: [Act this card] and [Earth Rite]: Choose an enemy follower. It gets -2/-2. 
 Quick/Activate: [Act this card] and [Earth Rite]: Choose one of your own followers. It gets +2/+2.</text>
 			<prop>
@@ -10305,7 +10305,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Wizardess of Oz</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-035EN.png">BP03</set>
     <tablerow>6</tablerow>
-    <text>Fanfare: Summon a Magic Sediment token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
+    <text>Fanfare: Summon a Magic  token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
@@ -10320,7 +10320,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <name>Witch of Calamity, Millie Parfait</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-036EN.png">BP03</set>
     <tablerow>6</tablerow>
-    <text>Fanfare: Summon a Magic Sediment token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
+    <text>Fanfare: Summon a Magic  token and add 1 Stack counter to it. Draw a card. Quick/Activate: Earth Rite: The next spell you play this turn costs 4 less to play. This ability can be activated once per turn.</text>
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
@@ -10593,20 +10593,6 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <manacost>1</manacost>
         <cmc>1</cmc>
         <type>Amulet|Runecraft - Mage/Earth Sigil</type>
-        <maintype>Amulet</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
-<card>
-    <name>Magic Sediment</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-T02EN.png">BP03</set>
-    <tablerow>2</tablerow>
-    <text>Stack.</text>
-    <prop>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Amulet|Token|Runecraft - Earth Sigil</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
