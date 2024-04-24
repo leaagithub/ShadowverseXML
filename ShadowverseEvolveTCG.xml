@@ -11910,7 +11910,9 @@ On Evolve: Select an enemy follower on the field. Put it on the bottom of its ow
     <name>King Elephant</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-005EN.png">BP04</set>
     <tablerow>1</tablerow>
-    <text>Evolve (4): Evolve this follower. Storm. Fanfare: Select any number of cards on your field and return them to the hand. Then, give this follower ??+X/??+X. X equals the number of cards in your hand.</text>
+    <text>Evolve (4): Evolve this follower. 
+Storm. 
+Fanfare: Select any number of cards on your field and return them to the hand. Then, give this follower ??+X/??+X. X equals the number of cards in your hand.</text>
     <prop>
         <type>Follower|Forestcraft - Hunter/Beast</type>
         <maintype>Follower</maintype>
