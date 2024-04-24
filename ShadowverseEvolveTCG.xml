@@ -2133,7 +2133,7 @@ Fanfare: Select an enemy follower on the field and deal it X damage. X equals th
 			</prop>
 		</card>
 		<card>
-			<name>Special Week</name>
+			<name></name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-005EN.png">CSD01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
@@ -2150,7 +2150,7 @@ Fanfare: Look at the top card of your deck. If it's an Umamusume card, you may r
 			</prop>
 		</card>
 		<card>
-			<name>Special Week (Evolved) </name>
+			<name> (Evolved) </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-006EN.png">CSD01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: If Overflow is active for you, give each other Umamusume follower on your field +1/+1.</text>
@@ -2563,7 +2563,7 @@ Fanfare: Select an enemy follower on the field. Banish it and draw a card.</text
 		<!-- CSD01 Leaders -->
 		<card>
 			<name>(Japan's Best Stage) Special Week </name>
-			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-ld01EN.png">CSD01</set>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-LD01EN.png">CSD01</set>
 			<tablerow>1</tablerow>
 			<prop>
 				<type>Leader|Dragoncraft</type>
