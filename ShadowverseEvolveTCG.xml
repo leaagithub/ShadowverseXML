@@ -2133,7 +2133,7 @@ Fanfare: Select an enemy follower on the field and deal it X damage. X equals th
 			</prop>
 		</card>
 		<card>
-			<name></name>
+			<name>Special Week </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-005EN.png">CSD01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
@@ -2150,7 +2150,7 @@ Fanfare: Look at the top card of your deck. If it's an Umamusume card, you may r
 			</prop>
 		</card>
 		<card>
-			<name> (Evolved) </name>
+			<name>Special Week (Evolved) </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD01/CSD01-006EN.png">CSD01</set>
 			<tablerow>2</tablerow>
 			<text>On Evolve: If Overflow is active for you, give each other Umamusume follower on your field +1/+1.</text>
@@ -10449,6 +10449,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         <cmc>3</cmc>
         <type>Follower|Runecraft - Chess</type>
         <pt>3/3</pt>
+	<maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
