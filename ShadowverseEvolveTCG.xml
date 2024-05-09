@@ -5696,22 +5696,22 @@ Deal 1 damage to each enemy follower on the field.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Magic  </name>
-			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png">BP01</set>
-			<tablerow>0</tablerow>
-			<text>Stack. Amulets with Stack are put onto the field with 1 Stack counter and have the following abilities.
+            <name>Magic Sediment </name>
+            <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png">BP01</set>
+            <tablerow>0</tablerow>
+            <text>Stack. Amulets with Stack are put onto the field with 1 Stack counter and have the following abilities.
 When this card would leave the field, remove 1 Stack counter from it instead. When this card's Stack count reaches 0, destroy it.
 (A) (tap) : Select another amulet with Stack on your field and transfer all this card's Stack counters to that card.
-			</text>
-			<prop>
-				<manacost>1</manacost>
-				<cmc>1</cmc>
-				<type>Amulet|Token|Runecraft - Earth Sigil</type>
-				<maintype>Amulet|Token</maintype>
-				<format-shadowverse>legal</format-shadowverse>
-				<format-sv>legal</format-sv>
-			</prop>
-		</card>
+            </text>
+            <prop>
+                <manacost>1</manacost>
+                <cmc>1</cmc>
+                <type>Amulet|Token|Runecraft - Earth Sigil</type>
+                <maintype>Amulet|Token</maintype>
+                <format-shadowverse>legal</format-shadowverse>
+                <format-sv>legal</format-sv>
+            </prop>
+        </card>
 		<card>
 			<name>Dragon </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T11EN.png">BP01</set>
