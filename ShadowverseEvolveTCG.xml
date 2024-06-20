@@ -2730,6 +2730,65 @@ Deal 1 damage to each enemy follower on the field.</text>
 		        <format-sv>legal</format-sv>
 		    </prop>
 		</card>
+		<card>
+		    <name>Star Phoenix (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-103EN.png">BP04</set>
+		    <tablerow>1</tablerow>
+		    <text>Evolve (1): Evolve this follower.
+Whenever you play a Dragoncraft spell during your turn, you may: 1PP: If this card is in your cemetery, put it onto your field.</text>
+		    <prop>
+		        <type>Follower|Dragoncraft - Phoenix/Celestial</type>
+		        <manacost>3</manacost>
+		        <cmc>3</cmc>
+		        <pt>2/2</pt>
+		        <maintype>Follower</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Star Phoenix (Evolved) (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-104EN.png">BP04</set>
+		    <tablerow>1</tablerow>
+		    <text>Strike: Select an enemy follower on the field and deal it 2 damage.</text>
+		    <prop>
+		        <type>Follower|Evolve|Dragoncraft - Phoenix/Celestial</type>
+		        <pt>4/4</pt>
+		        <maintype>Follower|Evolve</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Zoe, Queen of Goldenia (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-105EN.png">BP04</set>
+		    <tablerow>1</tablerow>
+		    <text>Evolve (1): Evolve this follower.
+Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into your cemetery and draw a card.</text>
+		    <prop>
+		        <type>Follower|Havencraft - Faith/Princess</type>
+		        <manacost>4</manacost>
+		        <cmc>4</cmc>
+		        <pt>3/3</pt>
+		        <maintype>Follower</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Zoe, Queen of Goldenia (Evolved) (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-106EN.png">BP04</set>
+		    <tablerow>1</tablerow>
+		    <text>On Evolve: Select an enemy follower on the field and banish it.</text>
+		    <prop>
+		        <type>Follower|Evolve|Havencraft - Faith/Princess</type>
+		        <pt>4/4</pt>
+		        <maintype>Follower|Evolve</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+
 		<!--  Main -->
 		<!-- Forestcraft -->
 		<card>
@@ -14795,6 +14854,261 @@ Look at the top 2 cards of your deck. You may reveal a spell from among them and
 		<!-- Set 5 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 5 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 5 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Marwynn, Omen of Repose</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-086EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (4): Evolve this follower.
+Evolve (Skip your next turn): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Havencraft - Omen/Zealot</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marwynn, Omen of Repose (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-087EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Ward. Aura.
+On Evolve: Increase your maximum play points by 1. Give your leader +3. Draw a card.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Omen/Zealot</type>
+        <pt>8/8</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Deus Ex Machina</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-088EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, choose one of the following. (1) Discard your hand. Draw 4 cards. (2) Recover 4 play points.</text>
+    <prop>
+        <type>Follower|Havencraft - Luminary/Supreme</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>4/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Apostle of Repose</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-089EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower.
+At the start of each opponent's main phase, recover 1 play point.</text>
+    <prop>
+        <type>Follower|Havencraft - Omen/Zealot</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>2/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Apostle of Repose (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-090EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select a reserved enemy follower on the field and banish it.
+At the start of each opponent's main phase, recover 2 play points.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Omen/Zealot</type>
+        <pt>3/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Hakrabi</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-091EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Fanfare: Discard an amulet: Search your deck for an amulet that costs 1 play point, put it onto your field, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Havencraft - Luminary/Zealot</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>4/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ancient Protector</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-092EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, you can't lose the game, and opponents can't win.
+When your leader's defense becomes 0 or less, put this card into its owner's cemetery and change your leader's defense to 1.</text>
+    <prop>
+        <type>Amulet|Havencraft - Eidolon/Lightborne</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Disciple of Repose</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-093EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>At the start of each opponent's main phase, select an enemy follower on the field and deal it 1 damage.</text>
+    <prop>
+        <type>Follower|Havencraft - Omen/Zealot</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Unidentified Subject</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-094EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower.
+Whenever you draw a card outside of your start phase, give this follower +1/+1.</text>
+    <prop>
+        <type>Follower|Havencraft - Zealot</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>3/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Unidentified Subject (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-095EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Draw 2 cards.
+Whenever you draw a card outside of your start phase, give this follower +1/+1.</text>
+    <prop>
+        <type>Follower|Havencraft - Zealot</type>
+        <pt>3/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Silver Cog Spinner</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-096EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: If there are at least 5 cards in your hand, recover 2 play points. If there are 5 or less cards, draw a card.</text>
+    <prop>
+        <type>Follower|Havencraft - Lumniary/Lightborne</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>5/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Servant of Repose</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-097EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>At the start of each opponent's main phase, give your leader +1.</text>
+    <prop>
+        <type>Follower|Havencraft - Omen/Zealot</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demon's Epitaph</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-098EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (Discard a card): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Havencraft - Eidolon/Supreme</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demon's Epitaph (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-099EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Bane.
+Last Words: Deal 2 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Eidolon/Supreme</type>
+        <pt>3/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>The Saviors</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-100EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Choose one of the following. (1) Search your deck for a Marwynn, Omen of Repose, reveal it, add it to your hand, then shuffle your deck. (2) Select an enemy follower with 2 defense or less on the field and banish it.</text>
+    <prop>
+        <type>Spell|Havencraft - Omen/Zealot</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Realm of Repose</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-101EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Quick.
+Activate: Engage this card, put this card into its owner's cemetery: For the rest of this turn, if your leader would take more than 4 damage, it takes 4 instead.</text>
+    <prop>
+        <type>Amulet|Havencraft - Omen/Zealot</type>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ancient Amplifier</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-102EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Summon a Mystic Artifact token.
+Activate (1): Engage this card, put this card into its owner's cemetery: Select a token follower on your field and give it +2/+1.</text>
+    <prop>
+        <type>Amulet|Havencraft - Eidolon/Supreme</type>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
 		<!-- Set 5 Neutral @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Mjerrabaine, Omen of One</name>
