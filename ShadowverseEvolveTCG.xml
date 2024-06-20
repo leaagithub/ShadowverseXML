@@ -14282,7 +14282,7 @@ The next time your leader would take damage this turn, it doesn't take damage.</
 
 		<!-- Set 5 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
-    <name>Octrice, Omen of Ursurpation</name>
+    <name>Octrice, Omen of Usurpation</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-018EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower.
@@ -14300,7 +14300,7 @@ Activate (8): Select a card in an opponent's cemetery and play it for 0 play poi
     </prop>
 </card>
 <card>
-    <name>Octrice, Omen of Ursurpation (Evolved)</name>
+    <name>Octrice, Omen of Usurpation (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-019EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Select a card in an opponent's cemetery and put it into your EX area.
@@ -14330,7 +14330,7 @@ If there are at least 10 cards in opponents' cemeteries, any card you play from 
     </prop>
 </card>
 <card>
-    <name>Apostle of Ursurpation</name>
+    <name>Apostle of Usurpation</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-021EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower.
@@ -14346,7 +14346,7 @@ Fanfare: Each opponent puts the top 2 cards of their deck into their cemetery. T
     </prop>
 </card>
 <card>
-    <name>Apostle of Ursurpation (Evolved)</name>
+    <name>Apostle of Usurpation (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-022EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field and deal it 4 damage.</text>
@@ -14388,7 +14388,7 @@ Fanfare: Each opponent puts the top 2 cards of their deck into their cemetery. T
     </prop>
 </card>
 <card>
-    <name>Disciple of Ursurpation</name>
+    <name>Disciple of Usurpation</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-025EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>Storm.
@@ -14449,7 +14449,7 @@ Whenever you play an amulet, select a follower on your field and give it +0/+1.<
     </prop>
 </card>
 <card>
-    <name>Disciple of Ursurpation</name>
+    <name>Disciple of Usurpation</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-029EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Each opponent puts the top card of their deck into their cemetery.
