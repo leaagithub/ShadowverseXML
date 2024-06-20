@@ -57,7 +57,12 @@
 		</set>
 		<set>
 			<name>BP04</name>
-			<longname>BP04 Celestial Mythology</longname>
+			<longname>BP04 Cosmic Mythos</longname>
+			<settype>Expansion</settype>
+		</set>
+		<set>
+			<name>BP05</name>
+			<longname>BP05 Omens Eternal</longname>
 			<settype>Expansion</settype>
 		</set>
 	</sets>
@@ -13854,7 +13859,6 @@ At the start of your end phase, give this follower ??+2.</text>
     <name>Lelouch Lamperouge</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD07EN.png">BP04</set>
     <tablerow>1</tablerow>
-    <text></text>
     <prop>
         <type>Leader|Abysscraft</type>
         <maintype>Leader</maintype>
@@ -13866,7 +13870,6 @@ At the start of your end phase, give this follower ??+2.</text>
     <name>Khawy, Mediator of the Underworld</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP04/BP04-LD08EN.png">BP04</set>
     <tablerow>1</tablerow>
-    <text></text>
     <prop>
         <type>Leader|Abysscraft</type>
         <maintype>Leader</maintype>
@@ -14018,6 +14021,218 @@ Fanfare: Search your deck for a Havencraft follower (with a different name than 
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
+</card>
+
+		<!-- Set 5 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 5 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Izudia, Omen of Unkilling</name>
+    <set picURL="https://shadowcard.io/images/cards/BP05/BP05-001.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: If there are 3 or more Hunter cards in your cemetery, select an enemy follower on the field.
+Transform it into an amulet and give it the following effect: “Activate: 2PP: Put this card into the cemetery.” (It keeps all existing abilities, including Evolve and Racing)</text>
+    <prop>
+        <manacost>10</manacost>
+        <cmc>10</cmc>
+        <type>Follower|Forest</type>
+        <pt>8/8</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+		<!-- Set 5 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 5 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 5 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 5 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 5 Neutral @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 5 Leaders @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Liza, Greenwood Queen</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-LD01EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Forestcraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Albert, Tempestuous Doom</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-LD02EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Swordcraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Anne and Grea, Bonds Everlasting</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-LD03EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Runecraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ian and Adelle, Transcendent Love</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-LD04EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Dragoncraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cerberus, Festive Hound</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-LD05EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Abysscraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Zoe, Golden Princess</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-LD06EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Havencraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+		<!-- Set 5 U's and SPs @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Izudia, Omen of Unkilling (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U01EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Activate: Engage this card. Deal 6 damage to each enemy leader with 10 or more defense.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Omen/Hunter</type>
+        <pt>5/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Octrice, Omen of Usurpation (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U02EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select a card in an opponent's cemetery and put it into your EX area. 
+Activate: 8PP: Select a card in an opponent’s cemetery and play it for 0.
+If there are at least 10 cards in opponents' cemetaries, any card you play from the EX area costs 2 less.</text>
+    <prop>
+        <type>Follower|Evolve|Swordcraft - Omen/Thief</type>
+        <pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lishenna, Omen of Destruction (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U03EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Put a Destruction in White and Destruction in Black in your EX area.</text>
+    <prop>
+        <type>Follower|Runecraft - Omen/Idolatry</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>2/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Galmieux, Omen of Disdain (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U04EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select an Omen card that costs 2 play points or less in your cemetery and play it for 0 play points.
+During your turn, whenever this follower takes ability damage, select an enemy leader or enemy follower on the field and deal it 3 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Omen/Wyrmkin</type>
+        <pt>6/6</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Valnareik, Omen of Lust (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U05EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>While Sanguine is active for you, this follower has Storm.
+Strike: Deal X damage to each enemy leader. X equals the number of times your leader has lost defense this turn. If your leader's defense is 7, give this follower +2/+2.</text>
+    <prop>
+        <type>Follower|Abysscraft - Omen/Demon</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marwynn, Omen of Repose (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U06EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Ward. Aura.
+On Evolve: Increase your maximum play points by 1. Give your leader +3. Draw a card.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Omen/Zealot</type>
+        <pt>8/8</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Gilnelise, Omen of Craving (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-U07EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Drain.
+Fanfare: 3PP: Search your deck for an Apostle of Craving and a Craving's Splendor, put them into your EX area, then shuffle your deck. 
+Fanfare: If all players have a maximum of 10 play points, draw 3 cards.
+Whenever you play a Neutral card, deal 1 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Neutral - Omen</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+	<name>Fairy (U)</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-UT01EN.png">BP01</set>
+	<tablerow>0</tablerow>
+	<prop>
+		<manacost>1</manacost>
+		<cmc>1</cmc>
+		<type>Follower|Token|Forestcraft - Pixie</type>
+		<pt>1/1</pt>
+		<maintype>Follower|Token</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
 </card>
 
 </cards>
