@@ -14857,27 +14857,27 @@ Look at the top 2 cards of your deck. You may reveal a spell from among them and
         <name>Galmieux, Omen of Disdain</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-052EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[evolve] [2]: Evolve this follower.
-During your turn, whenever this follower takes ability damage, change its [evolve] cost to 0 for the rest of the turn.</text>
+		<text>Evolve (2): Evolve this follower.
+During your turn, whenever this follower takes ability damage, change its evolve cost to 0 for the rest of the turn.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Omen/Wyrmkin</type>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
-		<pt>5/5</pt>
+			<pt>5/5</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
 		</prop>
     </card>
     <card>
-        <name>Galmieux, Omen of Disdain (Evolve)</name>
+        <name>Galmieux, Omen of Disdain (Evolved)</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-053EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>On Evolve: Select an Omen card that costs 2 play points or less in your cemetery and play it for 0 play points.
 During your turn, whenever this follower takes ability damage, select an enemy leader or enemy follower on the field and deal it 3 damage.</text>
 		<prop>
-			<type>Follower|Dragoncraft - Omen/Wyrmkin</type>
-		<pt>6/6</pt>
+			<type>Follower|Evolve|Dragoncraft - Omen/Wyrmkin</type>
+			<pt>6/6</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -14887,13 +14887,13 @@ During your turn, whenever this follower takes ability damage, select an enemy l
         <name>Electromagical Rhino</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-054EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[fanfare] Give this follower [attack]+3. Put the top 4 cards of your deck into your cemetery. If an Electromagical Rhino was put into your cemetery by this ability, repeat this [fanfare].
-[lastwords] Select any number of cards named Electromagical Rhino in your cemetery (including this one). Return them to your deck and shuffle it.</text>
+		<text>Fanfare: Give this follower [attack]+3. Put the top 4 cards of your deck into your cemetery. If an Electromagical Rhino was put into your cemetery by this ability, repeat this fanfare.
+Last Words: Select any number of cards named Electromagical Rhino in your cemetery (including this one). Return them to your deck and shuffle it.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Gigant/Supreme</type>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
-		<pt>0/7</pt>
+			<pt>0/7</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -14903,27 +14903,27 @@ During your turn, whenever this follower takes ability damage, select an enemy l
         <name>Apostle of Disdain</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-055EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[evolve] [1]: Evolve this follower.
-During your turn, whenever this follower takes ability damage, give it [attack]+1 and Storm.</text>
+		<text>Evolve (1): Evolve this follower.
+During your turn, whenever this follower takes ability damage, give it +1/+0 and Storm.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Omen/Wyrmkin</type>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-		<pt>2/4</pt>
+			<pt>2/4</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
 		</prop>
     </card>
     <card>
-        <name>Apostle of Disdain (Evolve)</name>
+        <name>Apostle of Disdain (Evolved)</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-056EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>On Evolve, discard a card: Look at the top 5 cards of your deck. From among them, you may reveal up to 2 Omen cards and add them to your hand. Put the remaining cards on the bottom of your deck in any order.
-During your turn, whenever this follower takes ability damage, give it [attack]+1 and Storm.</text>
+During your turn, whenever this follower takes ability damage, give it +1/+0 and Storm.</text>
 		<prop>
-			<type>Follower|Dragoncraft - Omen/Wyrmkin</type>
-		<pt>3/5</pt>
+			<type>Follower|Evolve|Dragoncraft - Omen/Wyrmkin</type>
+			<pt>3/5</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -14934,12 +14934,12 @@ During your turn, whenever this follower takes ability damage, give it [attack]+
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-057EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>This follower can't attack enemy leaders.
-[act] [engage], put another follower from your field into its owner's cemetery: Select an enemy leader or enemy follower on the field and deal it X damage. X equals the attack of the follower you put into the cemetery.</text>
+Activate: Engage this card, put another follower from your field into its owner's cemetery: Select an enemy leader or enemy follower on the field and deal it X damage. X equals the attack of the follower you put into the cemetery.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Gigant/Supreme</type>
 			<manacost>6</manacost>
 			<cmc>6</cmc>
-		<pt>7/7</pt>
+			<pt>7/7</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -14963,12 +14963,12 @@ During your turn, whenever this follower takes ability damage, give it [attack]+
         <name>Disciple of Disdain</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-059EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[act] [0]: Select a follower on your field and deal it 1 damage. This ability can be activated once per turn.</text>
+		<text>Activate: Select a follower on your field and deal it 1 damage. This ability can be activated once per turn.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Omen/Wyrmkin</type>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-		<pt>1/2</pt>
+			<pt>1/2</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -14978,13 +14978,13 @@ During your turn, whenever this follower takes ability damage, give it [attack]+
         <name>Cursed Stone</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-060EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[evolve] [1]: Evolve this follower.
+		<text>Evolve (1): Evolve this follower.
 Ward.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Gigant/Supreme</type>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-		<pt>2/2</pt>
+			<pt>2/2</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -14997,8 +14997,8 @@ Ward.</text>
 		<text>Ward.
 On Evolve: Select an enemy follower on the field. For the rest of this turn and during each opponent's next turn, it loses all abilities and can't attack enemies.</text>
 		<prop>
-			<type>Follower|Dragoncraft - Gigant/Supreme</type>
-		<pt>3/3</pt>
+			<type>Follower|Evolve|Dragoncraft - Gigant/Supreme</type>
+			<pt>3/3</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15008,13 +15008,13 @@ On Evolve: Select an enemy follower on the field. For the rest of this turn and 
         <name>Amethyst Giant</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-062EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[fanfare] Discard a card: Give this follower Rush and Aura.
+		<text>Fanfare: Discard a card: Give this follower Rush and Aura.
 Strike: Refresh this follower. This ability can be performed once per turn.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Gigant/Supreme</type>
 			<manacost>9</manacost>
 			<cmc>9</cmc>
-		<pt>7/7</pt>
+			<pt>7/7</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15024,13 +15024,13 @@ Strike: Refresh this follower. This ability can be performed once per turn.</tex
         <name>Servant of Disdain</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-063EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[fanfare] If Overflow is active for you, select another follower on the field. Deal 1 damage to it and this follower.
+		<text>Fanfare: If Overflow is active for you, select another follower on the field. Deal 1 damage to it and this follower.
 During your turn, whenever this follower takes ability damage, draw a card.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Omen/Wyrmkin</type>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-		<pt>2/3</pt>
+			<pt>2/3</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15041,12 +15041,12 @@ During your turn, whenever this follower takes ability damage, draw a card.</tex
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-064EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>Ward.
-[lastwords] Put 2 Puppet tokens into your EX area.</text>
+Last Words: Put 2 Puppet tokens into your EX area.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Gigant/Supreme</type>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-		<pt>4/5</pt>
+			<pt>4/5</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15056,12 +15056,12 @@ During your turn, whenever this follower takes ability damage, draw a card.</tex
         <name>Airship Whale</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-065EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[evolve] [1]: Evolve this follower.</text>
+		<text>Evolve (1): Evolve this follower.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Marine/Supreme</type>
 			<manacost>5</manacost>
 			<cmc>5</cmc>
-		<pt>5/5</pt>
+			<pt>5/5</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15073,8 +15073,8 @@ During your turn, whenever this follower takes ability damage, draw a card.</tex
         <tablerow>1</tablerow>
 		<text>On Evolve: Look at the top 5 cards of your deck. You may put a follower that costs 3 play points or less from among them onto your field. Put the remaining cards on the bottom of your deck in any order.</text>
 		<prop>
-			<type>Follower|Dragoncraft - Marine/Supreme</type>
-		<pt>6/6</pt>
+			<type>Follower|Evolve|Dragoncraft - Marine/Supreme</type>
+			<pt>6/6</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15085,12 +15085,12 @@ During your turn, whenever this follower takes ability damage, draw a card.</tex
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-067EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>Ward.
-[fanfare] Return 5 cards from your cemetery to your deck and shuffle it: Select an enemy follower on the field and deal it 5 damage.</text>
+Fanfare: Return 5 cards from your cemetery to your deck and shuffle it: Select an enemy follower on the field and deal it 5 damage.</text>
 		<prop>
 			<type>Follower|Dragoncraft - Giant/Supreme</type>
 			<manacost>7</manacost>
 			<cmc>7</cmc>
-		<pt>6/7</pt>
+			<pt>6/7</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15111,9 +15111,6 @@ During your turn, whenever this follower takes ability damage, draw a card.</tex
 		</prop>
     </card>
 
-
-
-	
 		<!-- Set 5 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 
     <card>
@@ -15121,12 +15118,12 @@ During your turn, whenever this follower takes ability damage, draw a card.</tex
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-069EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>While Sanguine is active for you, this follower has Storm.
-Strike: Deal X damage to each enemy leader. X equals the number of times your leader has lost defense this turn. If your leader's defense is 7, give this follower [attack]+2/[defense]+2.</text>
+Strike: Deal X damage to each enemy leader. X equals the number of times your leader has lost defense this turn. If your leader's defense is 7, give this follower +2/+2.</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Demon</type>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-		<pt>2/2</pt>
+			<pt>2/2</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15137,14 +15134,14 @@ Strike: Deal X damage to each enemy leader. X equals the number of times your le
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-070EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>Evolve (1): Evolve this follower.
-		Fanfare:  Necrocharge (10): Select an enemy follower that costs 3 play points or less on the field and destroy it.
+Fanfare:  Necrocharge (10): Select an enemy follower that costs 3 play points or less on the field and destroy it.
 While this card is on your field, any spell an opponent plays costs 1 more.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Necromancer</type>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-		<pt>3/3</pt>
+			<pt>3/3</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15158,8 +15155,8 @@ While this card is on your field, any spell an opponent plays costs 1 more.
 While this card is on your field, any spell an opponent plays costs 1 more.
 		</text>
 		<prop>
-			<type>Follower|Abysscraft - Omen/Necromancer</type>
-		<pt>4/4</pt>
+			<type>Follower|Evolve|Abysscraft - Omen/Necromancer</type>
+			<pt>4/4</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15169,14 +15166,14 @@ While this card is on your field, any spell an opponent plays costs 1 more.
         <name>Apostle of Lust</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-072EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[act] [engage], give your leader [defense]-1: Select a follower that costs 2 play points or less in your cemetery and put it onto your field.
-Whenever another Demon follower is put onto your field, give your leader [defense]+1.
+		<text>Activate: Engage this card, give your leader -1: Select a follower that costs 2 play points or less in your cemetery and put it onto your field.
+Whenever another Demon follower is put onto your field, give your leader +1.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Demon</type>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-		<pt>4/4</pt>
+			<pt>4/4</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15186,29 +15183,29 @@ Whenever another Demon follower is put onto your field, give your leader [defens
         <name>Apostle of Silence</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-073EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>Evolve [1]: Evolve this follower.
+		<text>Evolve (1): Evolve this follower.
 At the start of your end phase, select an enemy leader. If there are 3 cards or less in its controller's hand, deal it 3 damage.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Necromancer</type>
 			<manacost>4</manacost>
 			<cmc>4</cmc>
-		<pt>4/4</pt>
+			<pt>4/4</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
 		</prop>
     </card>
     <card>
-        <name>Apostle of Silence (Evolve)</name>
+        <name>Apostle of Silence (Evolved)</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-074EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>On Evolve: Each opponent discards a random card.
 While this card is on your field, any spell an opponent plays costs 1 more.
 		</text>
 		<prop>
-			<type>Follower|Abysscraft - Omen/Necromancer</type>
-		<pt>5/5</pt>
+			<type>Follower|Evolve|Abysscraft - Omen/Necromancer</type>
+			<pt>5/5</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15218,14 +15215,14 @@ While this card is on your field, any spell an opponent plays costs 1 more.
         <name>Disciple of Lust</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-075EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[fanfare] Deal 1 damage to each leader.
+		<text>Fanfare: Deal 1 damage to each leader.
 Strike: Deal 1 damage to each leader.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Demon</type>
 			<manacost>1</manacost>
 			<cmc>1</cmc>
-		<pt>1/1</pt>
+			<pt>1/1</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15235,30 +15232,30 @@ Strike: Deal 1 damage to each leader.
         <name>Masked Puppet</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-076EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[evolve] [1]: Evolve this follower.
-[fanfare] Put a Puppet token into your EX area.
-During your turn, whenever a follower is put from your field into the cemetery, give this follower [attack]+1.
+		<text>Evolve (1): Evolve this follower.
+Fanfare: Put a Puppet token into your EX area.
+During your turn, whenever a follower is put from your field into the cemetery, give this follower +1/+0.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Puppetry</type>
 			<manacost>3</manacost>
 			<cmc>3</cmc>
-		<pt>2/3</pt>
+			<pt>2/3</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
 		</prop>
     </card>
     <card>
-        <name>Masked Puppet (Evolve)</name>
+        <name>Masked Puppet (Evolved)</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-077EN.png">BP05</set>
         <tablerow>1</tablerow>
 		<text>On Evolve: Summon 2 Puppet tokens.
-During your turn, whenever a follower is put from your field into the cemetery, give this follower [attack]+1.
+During your turn, whenever a follower is put from your field into the cemetery, give this follower +1/+0.
 		</text>
 		<prop>
-			<type>Follower|Abysscraft - Omen/Puppetry</type>
-		<pt>3/4</pt>
+			<type>Follower|Evolve|Abysscraft - Omen/Puppetry</type>
+			<pt>3/4</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15296,28 +15293,28 @@ During your turn, whenever a follower is put from your field into the cemetery, 
         <name>Servant of Lust</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-080EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[evolve] [cost01]: Evolve this follower.
-[fanfare] Deal 1 damage to your leader.
+		<text>Evolve (1): Evolve this follower.
+Fanfare: Deal 1 damage to your leader.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Omen/Demon</type>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-		<pt>3/1</pt>
+			<pt>3/1</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
 		</prop>
     </card>
     <card>
-        <name>Servant of Lust (Evolve)</name>
+        <name>Servant of Lust (Evolved)</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-081EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>On Evolve, give your leader [defense]-1: Select an enemy follower on the field and deal it X damage. X equals the number of times your leader has lost defense this turn.
+		<text>On Evolve, give your leader -1: Select an enemy follower on the field and deal it X damage. X equals the number of times your leader has lost defense this turn.
 		</text>
 		<prop>
-			<type>Follower|Abysscraft - Omen/Demon</type>
-		<pt>4/2</pt>
+			<type>Follower|Evolve|Abysscraft - Omen/Demon</type>
+			<pt>4/2</pt>
 			<maintype>Follower|Evolve</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15333,7 +15330,7 @@ During your turn, whenever a follower is put from your field into the cemetery, 
 			<type>Follower|Abysscraft - Omen/Necromancer</type>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-		<pt>2/3</pt>
+			<pt>2/3</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
@@ -15343,13 +15340,13 @@ During your turn, whenever a follower is put from your field into the cemetery, 
         <name>Hamelin</name>
         <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-083EN.png">BP05</set>
         <tablerow>1</tablerow>
-		<text>[fanfare] Select a token card in your EX area. Put a token of the same name into your EX area.
+		<text>Fanfare: Select a token card in your EX area. Put a token of the same name into your EX area.
 		</text>
 		<prop>
 			<type>Follower|Abysscraft - Demon/Supreme</type>
 			<manacost>2</manacost>
 			<cmc>2</cmc>
-		<pt>3/2</pt>
+			<pt>3/2</pt>
 			<maintype>Follower</maintype>
 			<format-shadowverse>legal</format-shadowverse>
 			<format-sv>legal</format-sv>
