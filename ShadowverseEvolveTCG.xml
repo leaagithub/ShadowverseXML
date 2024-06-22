@@ -15669,7 +15669,7 @@ At the start of your end phase, if there are 2 cards or less in your hand, deal 
     </prop>
 </card>
 <card>
-    <name>Gilnelise, Omen of Craving</name>
+    <name>Gilnelise, Omen of </name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-105EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>Drain.
@@ -15695,9 +15695,9 @@ Evolve (1): Evolve this follower.
 Fanfare: Select another follower on your field and give it Rush.</text>
     <prop>
         <type>Follower|Neutral - Omen</type>
-        <manacost>4</manacost>
-        <cmc>4</cmc>
-        <pt>3/5</pt>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
