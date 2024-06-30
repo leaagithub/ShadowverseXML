@@ -2191,9 +2191,9 @@ Fanfare: Choose an Umamusume follower or amulet that cost 4 or less from your gr
 When this follower begins Racing, give it +1/+1. Then select up to 1 enemy follower on the field and return it to its owner's hand. (Tokens returned to the hand are removed from the game.)</text>
 			<prop>
 				<manacost>3</manacost>
-				<cmc>3/3</cmc>
+				<cmc>3</cmc>
 				<type>Follower|Forestcraft - Umamusume</type>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
