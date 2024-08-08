@@ -65,6 +65,11 @@
 			<longname>BP05 Omens Eternal</longname>
 			<settype>Expansion</settype>
 		</set>
+		<set>
+			<name>BP06</name>
+			<longname>BP06 Paragons of the Colosseum</longname>
+			<settype>Expansion</settype>
+		</set>
 	</sets>
 	<cards>
 		<!-- SD01 Main -->
@@ -2784,6 +2789,54 @@ Fanfare: Deal 2 damage to your leader, put the top 2 cards of your deck into you
 		        <type>Follower|Evolve|Havencraft - Faith/Princess</type>
 		        <pt>4/4</pt>
 		        <maintype>Follower|Evolve</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Safira, Synthetic Beast (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-119EN.png">BP05</set>
+		    <tablerow>1</tablerow>
+		    <text>Rush.
+		Fanfare: Give this follower [attack]+X. X equals the number of Runecraft followers in your cemetery.
+		Activate (5): Give this follower Storm.</text>
+		    <prop>
+		        <type>Follower|Runecraft - Arcanaform/Forbidden</type>
+		        <manacost>4</manacost>
+		        <cmc>4</cmc>
+		        <pt>2/6</pt>
+		        <maintype>Follower</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Feena, Dynamite Daredevil (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-120EN.png">BP05</set>
+		    <tablerow>1</tablerow>
+		    <text>Fanfare: Choose one of the following. (1) Look at the top 5 cards of your deck. You may reveal a follower that costs 1 play point from among them and add it to your hand. Put the remaining cards on the bottom of your deck in any order. (2) Select an enemy follower that costs 1 play point on the field and destroy it.</text>
+		    <prop>
+		        <type>Follower|Neutral - Mercenary</type>
+		        <manacost>2</manacost>
+		        <cmc>2</cmc>
+		        <pt>3/2</pt>
+		        <maintype>Follower</maintype>
+		        <format-shadowverse>legal</format-shadowverse>
+		        <format-sv>legal</format-sv>
+		    </prop>
+		</card>
+		<card>
+		    <name>Ginsetsu, Great Fox (PR)</name>
+		    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-121EN.png">BP06</set>
+		    <tablerow>1</tablerow>
+		    <text>Evolve (1): Evolve this follower.
+Fanfare: Put 5 One-Tailed Fox tokens into EX area.</text>
+		    <prop>
+		        <type>Follower|Abysscraft - Arena/Yokai</type>
+		        <manacost>6</manacost>
+		        <cmc>6</cmc>
+		        <pt>1/5</pt>
+		        <maintype>Follower</maintype>
 		        <format-shadowverse>legal</format-shadowverse>
 		        <format-sv>legal</format-sv>
 		    </prop>
@@ -14671,23 +14724,7 @@ Fanfare: If there are at least 3 Mage followers on your field, give this followe
         <format-sv>legal</format-sv>
     </prop>
 </card>
-<card>
-    <name>Safira, Synthetic Beast</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-040EN.png">BP05</set>
-    <tablerow>1</tablerow>
-    <text>Rush.
-Fanfare: Give this follower [attack]+X. X equals the number of Runecraft followers in your cemetery.
-Activate (5): Give this follower Storm.</text>
-    <prop>
-        <type>Follower|Runecraft - Arcanaform/Forbidden</type>
-        <manacost>4</manacost>
-        <cmc>4</cmc>
-        <pt>2/6</pt>
-        <maintype>Follower</maintype>
-        <format-shadowverse>legal</format-shadowverse>
-        <format-sv>legal</format-sv>
-    </prop>
-</card>
+
 <card>
     <name>Destructive Refrain</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-041EN.png">BP05</set>
@@ -16129,5 +16166,167 @@ Whenever you play a Neutral card, deal 1 damage to each enemy leader.</text>
 	</prop>
 </card>
 
+		<!-- Set 6 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Lymaga, Forest Champion</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-001EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (2): Evolve this follower.
+Storm. Bane.
+Fanfare: Look at the top 4 cards of your deck. You may summon a Hunter follower that costs 4 or less from among them. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Forestcraft - Arena/Hunter</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lymaga, Forest Champion (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-002EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Storm. Bane.
+On Evolve - Look at the top 4 cards of your deck. You may summon a Hunter follower that costs 4 or less from among them. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Arena/Hunter</type>
+	<pt>5/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Amataz, Fairy Blader</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-003EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Put a Fairy token into your EX area. Give each Pixie follower in your EX area +1/+1.
+Activate: Engage this card. Select up to 2 Pixie followers that cost 1 or less on your field and give them Storm.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf/Fae-Touched</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Greenbrier Elf</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-004EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Banish a Pixie token from your EX area: Look at the top 4 cards of your deck. You may reveal a Forestcraft card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Wildwood Matriach</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-005EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.
+Fanfare: If this card was put onto the field by an ability, evolve it.</text>
+    <prop>
+        <type>Follower|Forestcraft - Hunter</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+		<!-- Set 6 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Neutralcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 6 Tokens @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+
+<card>
+	<name>Celestial Shikigami</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T01EN.png">BP06</set>
+	<tablerow>0</tablerow>
+	<prop>
+		<text>Aura.</text>
+		<manacost>4</manacost>
+		<cmc>4</cmc>
+		<type>Follower|Token|Runecraft - Shikigami</type>
+		<pt>4/5</pt>
+		<maintype>Follower|Token</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
+</card>
+<card>
+	<name>Paper Shikigami</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T02EN.png">BP06</set>
+	<tablerow>0</tablerow>
+	<prop>
+		<text>Last Word: Draw a card. Discard a card.
+		<manacost>2</manacost>
+		<cmc>2</cmc>
+		<type>Follower|Token|Runecraft - Shikigami</type>
+		<pt>2/2</pt>
+		<maintype>Follower|Token</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
+</card>
+<card>
+	<name>One-Tailed Fox</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T03EN.png">BP06</set>
+	<tablerow>0</tablerow>
+	<prop>
+		<text>Rush. Ward.</text>
+		<manacost>2</manacost>
+		<cmc>2</cmc>
+		<type>Follower|Token|Abysscraft - Yokai</type>
+		<pt>1/3</pt>
+		<maintype>Follower|Token</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
+</card>
+
+		<!-- Set 6 Leaders @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+
+<card>
+    <name>Lycoris, Soothing Venom</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-LD01EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Forestcraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Oracle of the Waterwyrm</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-LD02EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Dragoncraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+		<!-- Set 6 U's and SPs @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		
 </cards>
 </cockatrice_carddatabase>
