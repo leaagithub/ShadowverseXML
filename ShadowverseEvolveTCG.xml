@@ -16249,6 +16249,195 @@ Fanfare: If this card was put onto the field by an ability, evolve it.</text>
 
 		<!-- Set 6 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 6 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Kuon, Founder of Onmyodo</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-035EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> This card costs 1 less to play for every spell and Onmyoji card in your cemetery.
+----------
+[fanfare] If there's no Celestial Shikigami on your field, summon one.
+[act] [engage]: Select up to 2 Shikigami followers on your field and give them Storm.</text>
+    <prop>
+        <type>Follower|Runecraft - Arena / Onmyoji</type>
+	<manacost>15</manacost>
+	<cmc>15</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mysteria, Magic Founder</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-036EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> [evolve] [cost01]: Evolve this follower.
+[fanfare] Reveal an Academic follower from your hand: Select an enemy follower on the field and deal it 2 damage.
+While this card is on your field, any Academic follower you play costs 1 less.</text>
+    <prop>
+        <type>Follower|Runecraft - Mage / Academic</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>2/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mysteria, Magic Founder (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-037EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Select an enemy follower on the field and deal it 3 damage.
+While this card is on your field, any Academic follower you play costs 1 less.</text>
+    <prop>
+        <type>Follower|Evolve|Runecraft - Mage / Academic</type>
+	<pt>3/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Curse Crafter</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-038EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> [evolve] [cost01]: Evolve this follower.
+[fanfare] Summon a Paper Shikigami token.
+[act] Bury a Shikigami follower: Select an enemy follower on the field and deal it 4 damage. For the rest of this turn, this card's [act] abilities except [evolve] can't be activated.</text>
+    <prop>
+        <type>Follower|Runecraft - Onmyoji</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Curse Crafter (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-039EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Select an enemy follower on the field and deal it 2 damage. If there are at least 7 spells and Onmyoji cards in your cemetery, deal 4 damage instead.
+[act] Bury a Shikigami follower: Select an enemy follower on the field and deal it 4 damage. For the rest of this turn, this card's [act] abilities can't be activated.</text>
+    <prop>
+        <type>Follower|Evolve|Runecraft - Onmyoji</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Hulking Giant</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-040EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>[fanfare] Earth Rite: Select an enemy follower on the field and deal it 5 damage.
+[lastwords] Earth Rite: Deal 3 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Runecraft - Onmyoji</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shikigami Summons</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-041EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Summon a Paper Shikigami token. If there are at least 7 spells and Onmyoji cards in your cemetery, draw a card.</text>
+    <prop>
+        <type>Spell|Runecraft - Onmyoji</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demoncaller</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-042EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>[evolve] [cost01]: Evolve this follower.
+Whenever a Shikigami follower is put onto your field, give it [attack]+1 and Rush.</text>
+    <prop>
+        <type>Follower|Runecraft - Onmyoji</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demoncaller (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-043EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Summon a Paper Shikigami token.
+Whenever a Shikigami follower is put onto your field, give it [attack]+1 and Rush.</text>
+    <prop>
+        <type>Follower|Evolve|Runecraft - Onmyoji</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Traditional Sorcerer</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-044EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Whenever a Shikigami follower is put onto your field, give it Ward.
+[fanfare] If there are at least 7 spells and Onmyoji cards in your cemetery, summon a Paper Shikigami token and give your leader [defense]+2.</text>
+    <prop>
+        <type>Follower|Runecraft - Onmyoji</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Crimson Meteor Storm</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-045EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Spellchain (10) - This card costs 2 less to play.
+----------
+Deal 6 damage to each enemy follower on the field. Deal 3 damage to each enemy leader.</text>
+    <prop>
+        <type>Spell|Runecraft - Mage</type>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Talisman Disciple
+</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-046EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>[lastwords] Search your deck for a Shikigami Summons, reveal it, add it to your hand, then shuffle your deck.
+</text>
+    <prop>
+        <type>Follower|Runecraft - Onmyoji</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- Set 6 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 6 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 6 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
