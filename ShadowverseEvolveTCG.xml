@@ -16983,7 +16983,7 @@ While this card is on your field, each other Dragoncraft follower on your field 
     </prop>
 </card>
 <card>
-    <name>Filene, Whiteforst Dragonewt</name>
+    <name>Filene, Whitefrost Dragonewt</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-054EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
@@ -18055,7 +18055,7 @@ On Evolve - Look at the top 4 cards of your deck. You may summon a Hunter follow
 On Evolve (3): Give this follower +1/+1 for every other follower on your field.</text>
     <prop>
         <type>Follower|Swordcraft - Officer / Supreme</type>
-	<pt>4/3/pt>
+	<pt>4/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -18080,7 +18080,7 @@ Activate: Engage this card. Select up to 2 Shikigami followers on your field and
     </prop>
 </card>
 <card>
-    <name>Filene, Whiteforst Dragonewt (U)</name>
+    <name>Filene, Whitefrost Dragonewt (U)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U04EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
