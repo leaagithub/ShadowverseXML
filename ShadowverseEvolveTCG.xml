@@ -17981,7 +17981,7 @@ Fanfare: Select an enemy card that costs 2 or less on the field and destroy it.<
 	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-T02EN.png">BP06</set>
 	<tablerow>0</tablerow>
 	<prop>
-		<text>Last Word: Draw a card. Discard a card.
+		<text>Last Word: Draw a card. Discard a card.</text>
 		<manacost>2</manacost>
 		<cmc>2</cmc>
 		<type>Follower|Token|Runecraft - Shikigami</type>
