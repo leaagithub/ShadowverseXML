@@ -3494,7 +3494,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 			</prop>
 		</card>
 		<card>
-			<name>Fervid Soldier (Evolve) </name>
+			<name>Fervid Soldier (Evolved) </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-044EN.png">BP01</set>
 			<tablerow>2</tablerow>
 			<text>Whenever another follower is put onto your field, give this follower +1/+0.</text>
@@ -16951,15 +16951,796 @@ Fanfare: Select an Alchemist follower that costs 3 or less in your cemetery and 
 </card>
 
 		<!-- Set 6 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
-
-		<!-- Set 6 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Garyu, Supreme Dragonkin</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-052EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: Draw a card.
+While this card is on your field, each other Dragoncraft follower on your field has Ward.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Arena / Dragonewt</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>4/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Garyu, Supreme Dragonkin (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-053EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - You may summon a Dragoncraft follower that costs 5 or less from your hand.
+While this card is on your field, each other Dragoncraft follower on your field has Ward.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Arena / Dragonewt</type>
+	<pt>4/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Filene, Whiteforst Dragonewt</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-054EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
+Fanfare: If Overflow is active for you, search your deck for a Whitefrost Whisper, put it into your EX area, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Phoenix Empress</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-055EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Rush.
+Last Words: Decrease your max play points by 1: Put this card onto its owner's field engaged.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Phoenix</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>5/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Wyrm God of the Skies</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-056EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>This card can only be played from hand.
+----------
+Evolve (1): Evolve this follower.
+Activate (2): bury this card from your EX area: Select a follower on your field and give it +4/+4. For the rest of this turn, it can't attack enemies.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt / Wyrmkin</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Wyrm God of the Skies (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-057EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Give your leader +3.
+Last Words: Put this card into its owner's EX area.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Dragonewt / Wyrmkin</type>
+	<pt>5/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Whitefrost Whisper</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-058EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>This card costs 1 less to play if Overflow is active for you.
+----------
+Select an engaged enemy follower on the field and destroy it. If there's a Filene, Whitefrost Dragonewt on your field, deal 2 damage to the selected follower's leader.</text>
+    <prop>
+        <type>Spell|Dragoncraft - Dragonewt</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ice Dancing Dragonewt</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-059EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: If Overflow is active for you, give this follower +1/+0 and Storm.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt / Wyrmkin</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ice Dancing Dragonewt (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-060EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>This follower ignores Ward.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Dragonewt / Wyrmkin</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Jadelong Tactician</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-061EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Storm.
+Strike - Select another follower on your field and give it +1/+1. If it's a Garyu, Supreme Dragonkin, give +2/+2 instead.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Aquascale Stalwart</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-062EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Fanfare: If Overflow is active for you, look at the top 5 cards of your deck. You may reveal a Dragoncraft follower that costs 5 or more from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Swordwhip Dragoon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-063EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select up to 2 enemy followers on the field and deal 2 damage divided between them. If Overflow is active for you, deal 4 damage divided between them instead.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dragonblader</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-064EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: Each player puts a Dragon token into their EX area.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dragonblader (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-065EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve: Select a card in an EX area and banish it.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Dragonheart</type>
+	<pt>6/6</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Trident Merman</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-066EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Summon 2 Megalorca tokens.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Marine</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dragon Chef</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-067EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Give your leader +2. If there's an amulet on your field, give +4 instead.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Wyrmkin / Chef</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Flamewinged Might</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-068EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Select a follower on your field and give it +2/+0.</text>
+    <prop>
+        <type>Spell|Dragoncraft - Phoenix</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 
 		<!-- Set 6 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Ginsetsu, Great Fox</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-069EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: Put 5 One-Tailed Fox tokens into your EX area.</text>
+    <prop>
+        <type>Follower|Abysscraft - Arena / Yokai</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>1/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ginsetsu, Great Fox (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-070EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, any Yokai follower you play costs 2 less. Also, if a Yokai follower on your field would deal damage, it deals that much plus 1 instead.
+Whenever a Yokai follower you control leaves the field, give this follower +1/+0.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Arena / Yokai</type>
+	<pt>1/9</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Aragavy the Berserker</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-071EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare (5): Deal 5 damage to each other follower on the field. Give this follower +2/+2 and Storm.
+At the start of your end phase, if Sanguine is active for you, select an enemy leader or enemy follower on the field and deal it 3 damage.</text>
+    <prop>
+        <type>Follower|Abysscraft - Arena / Beast</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>4/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shuten-Doji</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-072EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Bane.
+Fanfare: Banish 2 Yokai cards from your cemetery: Evolve this follower</text>
+    <prop>
+        <type>Follower|Abysscraft - Yokai</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>1/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shuten-Doji (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-073EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Storm. Bane.
+On Evolve: Select another Yokai followeron your field and give it Storm.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Yokai</type>
+	<pt>2/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Bear Pelt Warrior</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-074EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Rush.
+Strike - Deal 1 damage to each leader.
+Last Words: Give your leader +4.</text>
+    <prop>
+        <type>Follower|Abysscraft - Beast</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>5/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Yuzuki, Righteous Demon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-075EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Bane.
+Fanfare: Each opponent buries a follower. Necrocharge (10) - They bury 2 instead.
+Activate (3): discard this card: Select an enemy follower on the field. Deal it 5 damage and bury the top card of your deck.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kasha</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-076EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Choose one of the following. (1) Select an enemy follower on the field. Deal it 1 damage and bury the top card of your deck. (2) Select a Yokai follower not named Kasha in your cemetery and add it to your hand.</text>
+    <prop>
+        <type>Follower|Abysscraft - Yokai</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cougar Pelt Warrior</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-077EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Abysscraft - Beast</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cougar Pelt Warrior (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-078EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Search your deck for a Cougar Pelt Warrior, put it onto your field engaged, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Beast</type>
+	<pt>4/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Unleash the Nightmare</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-079EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>This card costs 1 less to play if there's a Vampire card on your field.
+----------
+Summon 3 Forest Bat tokens. Draw 2 cards.</text>
+    <prop>
+        <type>Spell|Abysscraft - Vampire</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Zashiki-Warashi</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-080EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Abysscraft - Yokai</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Zashiki-Warashi (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-081EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Discard a Yokai card: Give your leader +1. Draw 2 cards.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Yokai</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Antelope Pelt Warrior</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-082EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your main phase, deal 1 damage to your leader.</text>
+    <prop>
+        <type>Follower|Abysscraft - Beast</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Rookie Succubus</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-083EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Summon a Forest Bat token.
+Last Words: Summon a Forest Bat token.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon / Vampire</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Demonic Procession</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-084EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Look at the top 5 cards of your deck. You may reveal a Yokai follower from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Spell|Abysscraft - Yokai</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Berserker's Pelt</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-085EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Once on each of your turns, when your leader loses defense, select a follower on your field and give it +1/+1.
+Activate: Engage this card, bury this card: Give your leader +2. Activate only if your leader's defense is 10 or less.</text>
+    <prop>
+        <type>Amulet|Abysscraft - Beast</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
+		<!-- Set 6 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Wilbert, Grand Knight</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-086EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Fanfare: Look at the top 5 cards of your deck. From among them, you may summon a follower with Ward not named Wilbert, Grand Knight that costs 5 or less. Put the rest on the bottom of your deck in any order.
+Whenever a follower with Ward is put from your field into the cemetery, deal 1 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Havencraft - Arena / Luminary</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>4/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Karula, Arts Master</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-087EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+At the start of your end phase, if you have at least 2 play points, deal 2 damage to each enemy leader. If you have at least 4, draw a card. If you have at least 6, select up to 1 enemy follower on the field and destroy it.</text>
+    <prop>
+        <type>Follower|Havencraft - Arena / Faith</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Karula, Arts Master (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-088EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, recover 2 play points. Then, if you have at least 2 play points, deal 2 damage to each enemy leader. If you have at least 4, draw a card. If you have at least 6, select up to 1 enemy follower on the field and destroy it.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Arena / Faith</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Saintly Leader</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-089EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Activate: Engage this card, banish 3 followers with Ward from your cemetery: Select an enemy follower on the field and banish it.</text>
+    <prop>
+        <type>Follower|Havencraft - Luminary</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>2/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Phantom Blade Wielder</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-090EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+At the start of your end phase, if you have at least 2 play points, select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Phantom Blade Wielder (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-091EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Select an enemy follower on the field and deal it 2 damage.
+At the start of your end phase, if you have at least 2 play points, select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Faith</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Manifest Devotion</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-092EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Look at the top 7 cards of your deck. You may summon up to 1 amulet that costs 5 or less and up to 1 amulet that costs 3 or less from among them. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Spell|Havencraft - Faith</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Holy Lancer</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-093EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Ward.
+Fanfare: If there's another follower with Ward on your field, select an enemy follower on the field and deal it 3 damage.</text>
+    <prop>
+        <type>Follower|Havencraft - Luminary</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Holy Lancer (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-094EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+On Evolve - Select an enemy follower on the field and deal it 4 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Luminary</type>
+	<pt>4/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Boost Kicker</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-095EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare (X): Deal X damage to each enemy follower on the field. X equals a number of your choice.
+At the start of your end phase, recover 1 play point.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Feather Sanctuary</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-096EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Summon a Holy Falcon token.
+Activate: Engage this card, bury and amulet: Summon a Holy Falcon token.</text>
+    <prop>
+        <type>Amulet|Havencraft - Faith / Avian</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Winged Staff Priestess</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-097EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Last Words: Search your deck for a Winged Staff Priestess, reveal it, add it to your hand, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Havencraft - Luminary/type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Gravity Grappler</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-098EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, if you have at least 2 play points, summon a Mystic Artifact token.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith/type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Barrage Brawler</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-099EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (Discard a card): Evolve this follower.
+At the start of your end phase, if you have at least 2 play points, select an enemy leader and deal it 1 damage.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith/type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>0/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Barrage Brawler (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-100EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - Recover 2 play points.
+At the start of your end phase, if you have at least 2 play points, select an enemy leader and deal it 1 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Faith/type>
+	<pt>1/2</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Holy Counterattack</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-101EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Quick.
+This card can't be played during your turn.
+----------
+Select an engaged enemy follower on the field and deal it 2 damage. If there's a follower with Ward on your field, deal 4 damage instead.</text>
+    <prop>
+        <type>Spell|Havencraft - Luminary/type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Focus</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-102EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Quick.
+This card can't be played during your turn.
+----------
+If you have at least 2 play points, give your leader +1 and draw a card.</text>
+    <prop>
+        <type>Spell|Havencraft - Faith/type>
+	<manacost>0</manacost>
+	<cmc>0</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 
 		<!-- Set 6 Neutralcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Mammoth God's Colosseum</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0103EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-103EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Fanfare: Each player buries each follower on their field except for one of their choice.
 Last Words: Search your deck for a Colosseum on High, summon it, then shuffle your deck.</text>
@@ -16975,7 +17756,7 @@ Last Words: Search your deck for a Colosseum on High, summon it, then shuffle yo
 </card>
 <card>
     <name>Badb Catha</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0104EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-104EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Evolve (2): Evolve this follower.
 Fanfare: Choose one of the following. (1) Select another follower on your field and give it +1/+1. (2) Give your leader +2. (3) Look at the top 3 cards of your deck. Put any number of them on the top of your deck in any order. Put the rest on the bottom in any order.</text>
@@ -16991,7 +17772,7 @@ Fanfare: Choose one of the following. (1) Select another follower on your field 
 </card>
 <card>
     <name>Badb Catha (Evolved)</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0105EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-105EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> On Evolve - Choose one of the following. (1) Engage each enemy follower on the field. (2) Deal 2 damage to each enemy leader. (3) Put the top card of your deck into your EX area.</text>
     <prop>
@@ -17004,7 +17785,7 @@ Fanfare: Choose one of the following. (1) Select another follower on your field 
 </card>
 <card>
     <name>Mithra, Daybreak Deity</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0106EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-106EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Evolve (1): Evolve this follower.
 Fanfare: Each player rolls a 6-sided die. If they roll a 1, 2, or 3, they draw 2 cards. If they roll a 4, 5, or 6, they discard 2 random cards.</text>
@@ -17020,7 +17801,7 @@ Fanfare: Each player rolls a 6-sided die. If they roll a 1, 2, or 3, they draw 2
 </card>
 <card>
     <name>Mithra, Daybreak Deity (Evolved)</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0107EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-107EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> On Evolve - Declare any number from 1 to 6, then roll a 6-sided die. If you roll the declared number, give your leader +5, search your deck for any card, put it into your EX area, shuffle your deck, then recover all your play points.</text>
     <prop>
@@ -17033,7 +17814,7 @@ Fanfare: Each player rolls a 6-sided die. If they roll a 1, 2, or 3, they draw 2
 </card>
 <card>
     <name>Fall From Grace</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0108EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-108EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Quick.
 Select a follower on the field. Banish it and give its leader +2. Its controller draws a card.</text>
@@ -17048,7 +17829,7 @@ Select a follower on the field. Banish it and give its leader +2. Its controller
 </card>
 <card>
     <name>Colosseum on High</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0109EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-109EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Fanfare: Each player looks at the top 3 cards of their deck. They may summon a follower from among them. They bury the rest.
 While this card is on the field, if a follower on the field can attack a follower, it can't attack leaders.</text>
@@ -17063,7 +17844,7 @@ While this card is on the field, if a follower on the field can attack a followe
 </card>
 <card>
     <name>Chaht, Ringside Announcer</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0110EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-110EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> This card costs 3 less to play if there's a Colosseum on High on your field.
 ----------
@@ -17080,7 +17861,7 @@ Evolve (1): Evolve this follower.</text>
 </card>
 <card>
     <name>Chaht, Ringside Announcer (Evolved)</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0111EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-111EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> On Evolve - Search your deck for an Arena card, reveal it, add it to your hand, then shuffle your deck.</text>
     <prop>
@@ -17093,7 +17874,7 @@ Evolve (1): Evolve this follower.</text>
 </card>
 <card>
     <name>Clash of Heroes</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0112EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-112EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Select a follower on your field and an enemy follower on the field. Deal the first follower damage equal to the second's attack. Deal the second follower damage equal to the first's attack.</text>
     <prop>
@@ -17107,7 +17888,7 @@ Evolve (1): Evolve this follower.</text>
 </card>
 <card>
     <name>Biofabrication</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0113EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-113EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Select a faceup evolved follower in your evolve deck. Turn it facedown and draw a card.</text>
     <prop>
@@ -17121,7 +17902,7 @@ Evolve (1): Evolve this follower.</text>
 </card>
 <card>
     <name>Sweet-Tooth Sleuth</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0114EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-114EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Fanfare: Select an opponent. They reveal their hand.</text>
     <prop>
@@ -17136,7 +17917,7 @@ Evolve (1): Evolve this follower.</text>
 </card>
 <card>
     <name>Bazooka Goblins</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0115EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-115EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Evolve (2): Evolve this follower.
 Fanfare: Select an enemy card that costs 2 or less on the field and destroy it.</text>
@@ -17152,7 +17933,7 @@ Fanfare: Select an enemy card that costs 2 or less on the field and destroy it.<
 </card>
 <card>
     <name>Bazooka Goblins (Evolved)</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0116EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-116EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> On Evolve - Select an enemy card that costs 2 or less on the field and destroy it.</text>
     <prop>
@@ -17165,7 +17946,7 @@ Fanfare: Select an enemy card that costs 2 or less on the field and destroy it.<
 </card>
 <card>
     <name>Sentry Gate</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-0117EN.png">BP06</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-117EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text> Whenever an enemy follower on the field attacks, its controller may pay 2PP to destroy this amulet. If they don't pay, deal 2 damage to the follower.</text>
     <prop>
@@ -17252,6 +18033,108 @@ Fanfare: Select an enemy card that costs 2 or less on the field and destroy it.<
 </card>
 
 		<!-- Set 6 U's and SPs @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Lymaga, Forest Champion (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U01EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Storm. Bane.
+On Evolve - Look at the top 4 cards of your deck. You may summon a Hunter follower that costs 4 or less from among them. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Arena / Hunter</type>
+	<pt>5/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ralmia, Sonic Racer (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U02EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+On Evolve (3): Give this follower +1/+1 for every other follower on your field.</text>
+    <prop>
+        <type>Follower|Swordcraft - Officer / Supreme</type>
+	<pt>4/3/pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kuon, Founder of Onmyodo (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U03EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> This card costs 1 less to play for every spell and Onmyoji card in your cemetery.
+----------
+Fanfare: If there's no Celestial Shikigami on your field, summon one.
+Activate: Engage this card. Select up to 2 Shikigami followers on your field and give them Storm.</text>
+    <prop>
+        <type>Follower|Runecraft - Arena / Onmyoji</type>
+	<manacost>15</manacost>
+	<cmc>15</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Filene, Whiteforst Dragonewt (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U04EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
+Fanfare: If Overflow is active for you, search your deck for a Whitefrost Whisper, put it into your EX area, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ginsetsu, Great Fox (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U05EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>While this card is on your field, any Yokai follower you play costs 2 less. Also, if a Yokai follower on your field would deal damage, it deals that much plus 1 instead.
+Whenever a Yokai follower you control leaves the field, give this follower +1/+0.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Arena / Yokai</type>
+	<pt>1/9</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Karula, Arts Master (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U06EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>At the start of your end phase, recover 2 play points. Then, if you have at least 2 play points, deal 2 damage to each enemy leader. If you have at least 4, draw a card. If you have at least 6, select up to 1 enemy follower on the field and destroy it.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Arena / Faith</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Badb Catha (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U07EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Choose one of the following. (1) Engage each enemy follower on the field. (2) Deal 2 damage to each enemy leader. (3) Put the top card of your deck into your EX area.</text>
+    <prop>
+        <type>Follower|Evolve|Neutral - Diety / Lightborne</type>
+	<pt>4/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		
 </cards>
 </cockatrice_carddatabase>
