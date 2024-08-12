@@ -18054,9 +18054,9 @@ On Evolve - Look at the top 4 cards of your deck. You may summon a Hunter follow
     <text> Storm.
 On Evolve (3): Give this follower +1/+1 for every other follower on your field.</text>
     <prop>
-        <type>Follower|Swordcraft - Officer / Supreme</type>
+        <type>Follower|Evolve|Swordcraft - Officer / Supreme</type>
 	<pt>4/3</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
