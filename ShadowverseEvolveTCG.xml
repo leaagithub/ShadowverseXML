@@ -17663,7 +17663,7 @@ Last Words: Search your deck for a Winged Staff Priestess, reveal it, add it to 
     <tablerow>1</tablerow>
     <text>At the start of your end phase, if you have at least 2 play points, summon a Mystic Artifact token.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/type>
+        <type>Follower|Havencraft - Faith</type>
 	<manacost>3</manacost>
 	<cmc>3</cmc>
 	<pt>3/3</pt>
@@ -17679,7 +17679,7 @@ Last Words: Search your deck for a Winged Staff Priestess, reveal it, add it to 
     <text>Evolve (Discard a card): Evolve this follower.
 At the start of your end phase, if you have at least 2 play points, select an enemy leader and deal it 1 damage.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/type>
+        <type>Follower|Havencraft - Faith</type>
 	<manacost>1</manacost>
 	<cmc>1</cmc>
 	<pt>0/1</pt>
@@ -17695,7 +17695,7 @@ At the start of your end phase, if you have at least 2 play points, select an en
     <text>On Evolve - Recover 2 play points.
 At the start of your end phase, if you have at least 2 play points, select an enemy leader and deal it 1 damage.</text>
     <prop>
-        <type>Follower|Evolve|Havencraft - Faith/type>
+        <type>Follower|Evolve|Havencraft - Faith</type>
 	<pt>1/2</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -17711,7 +17711,7 @@ This card can't be played during your turn.
 ----------
 Select an engaged enemy follower on the field and deal it 2 damage. If there's a follower with Ward on your field, deal 4 damage instead.</text>
     <prop>
-        <type>Spell|Havencraft - Luminary/type>
+        <type>Spell|Havencraft - Luminary</type>
 	<manacost>1</manacost>
 	<cmc>1</cmc>
         <maintype>Spell</maintype>
@@ -17728,7 +17728,7 @@ This card can't be played during your turn.
 ----------
 If you have at least 2 play points, give your leader +1 and draw a card.</text>
     <prop>
-        <type>Spell|Havencraft - Faith/type>
+        <type>Spell|Havencraft - Faith</type>
 	<manacost>0</manacost>
 	<cmc>0</cmc>
         <maintype>Spell</maintype>
