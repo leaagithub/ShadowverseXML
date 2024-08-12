@@ -14169,7 +14169,7 @@ Transform it into an amulet and give it the following effect: “Activate: 2PP: 
 </card>
 <card>
     <name>Spinaria, Keeper of Enigmas</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-003EN.png.png">BP05</set>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-003EN.png">BP05</set>
     <tablerow>1</tablerow>
     <text>Ward.
 Fanfare: Look at the top 4 cards of your deck. From among them, you may reveal up to 1 Forestcraft follower and up to 1 Forestcraft spell and add them to your hand. Put the remaining cards on the bottom of your deck in any order. Combo (3): Recover 3 play points.</text>
@@ -16298,9 +16298,9 @@ Eanfare: If this card was put onto the field by an ability, give it Storm.</text
     <tablerow>1</tablerow>
     <text> On Evolve - Select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
-        <type>Follower|Forestcraft - Hunter</type>
+        <type>Follower|Evolve|Forestcraft - Hunter</type>
 	<pt>3/3</pt>
-        <maintype>Follower</maintype>
+        <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
