@@ -16705,6 +16705,25 @@ Activate: Engage this card. Select up to 2 Shikigami followers on your field and
     </prop>
 </card>
 <card>
+    <name>Clear Intellect, Koyori Hakui</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-036.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <text> (This card is treated as Kuon, Founder of Onmyodo).
+This card costs 1 less to play for every spell and Onmyoji card in your cemetery.
+----------
+Fanfare: If there's no Celestial Shikigami on your field, summon one.
+Activate: Engage this card. Select up to 2 Shikigami followers on your field and give them Storm.</text>
+    <prop>
+        <type>Follower|Runecraft - Arena / Onmyoji</type>
+	<manacost>15</manacost>
+	<cmc>15</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Mysteria, Magic Founder</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-036EN.png">BP06</set>
     <tablerow>1</tablerow>
@@ -16787,6 +16806,21 @@ Last Words: Earth Rite: Deal 3 damage to each enemy leader.</text>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-041EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text>Summon a Paper Shikigami token. If there are at least 7 spells and Onmyoji cards in your cemetery, draw a card.</text>
+    <prop>
+        <type>Spell|Runecraft - Onmyoji</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Koyo's Big Invention</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-043.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Shikigami Summons).
+Summon a Paper Shikigami token. If there are at least 7 spells and Onmyoji cards in your cemetery, draw a card.</text>
     <prop>
         <type>Spell|Runecraft - Onmyoji</type>
         <manacost>2</manacost>
@@ -16999,6 +17033,23 @@ Fanfare: If Overflow is active for you, search your deck for a Whitefrost Whispe
     </prop>
 </card>
 <card>
+    <name>Blue Sea Predator, Chloe Sakamata</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-057.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Whitefrost Dragonewt Filene).
+Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
+Fanfare: If Overflow is active for you, search your deck for a Whitefrost Whisper, put it into your EX area, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Phoenix Empress</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-055EN.png">BP06</set>
     <tablerow>1</tablerow>
@@ -17051,6 +17102,23 @@ Last Words: Put this card into its owner's EX area.</text>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-058EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text>This card costs 1 less to play if Overflow is active for you.
+----------
+Select an engaged enemy follower on the field and destroy it. If there's a Filene, Whitefrost Dragonewt on your field, deal 2 damage to the selected follower's leader.</text>
+    <prop>
+        <type>Spell|Dragoncraft - Dragonewt</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>I'll Clean You Up?</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-062.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Whitefrost Whisper).
+This card costs 1 less to play if Overflow is active for you.
 ----------
 Select an engaged enemy follower on the field and destroy it. If there's a Filene, Whitefrost Dragonewt on your field, deal 2 damage to the selected follower's leader.</text>
     <prop>
@@ -18031,6 +18099,17 @@ Fanfare: Select an enemy card that costs 2 or less on the field and destroy it.<
         <format-sv>legal</format-sv>
     </prop>
 </card>
+<card>
+    <name>Koyori Hakui</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-LDS01.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Runecraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 
 		<!-- Set 6 U's and SPs @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
@@ -18080,10 +18159,46 @@ Activate: Engage this card. Select up to 2 Shikigami followers on your field and
     </prop>
 </card>
 <card>
+    <name>Clear Intellect, Koyori Hakui (U)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-SP01.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <text> (This card is treated as Kuon, Founder of Onmyodo).
+This card costs 1 less to play for every spell and Onmyoji card in your cemetery.
+----------
+Fanfare: If there's no Celestial Shikigami on your field, summon one.
+Activate: Engage this card. Select up to 2 Shikigami followers on your field and give them Storm.</text>
+    <prop>
+        <type>Follower|Runecraft - Arena / Onmyoji</type>
+	<manacost>15</manacost>
+	<cmc>15</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Filene, Whitefrost Dragonewt (U)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP06/BP06-U04EN.png">BP06</set>
     <tablerow>1</tablerow>
     <text>Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
+Fanfare: If Overflow is active for you, search your deck for a Whitefrost Whisper, put it into your EX area, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Blue Sea Predator, Chloe Sakamata (U)</name>
+    <set picURL="https://images.shadowcard.io/images/cards/BP06-SP02.jpg">BP06</set>
+    <tablerow>1</tablerow>
+    <text>(This card is treated as Whitefrost Dragonewt Filene).
+Fanfare: Select an enemy follower on the field and engage it. It doesn't refresh during its controller's next start phase.
 Fanfare: If Overflow is active for you, search your deck for a Whitefrost Whisper, put it into your EX area, then shuffle your deck.</text>
     <prop>
         <type>Follower|Dragoncraft - Dragonewt</type>
