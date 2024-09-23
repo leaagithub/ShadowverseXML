@@ -15804,8 +15804,8 @@ Ward.</text>
     <name>Rosa, Mech Wing Maiden (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP05/BP05-111EN.png">BP05</set>
     <tablerow>1</tablerow>
-    <text>Evolve (1): Evolve this follower.
-Ward.</text>
+    <text>Ward.
+On Evolve: Draw a card.</text>
     <prop>
         <type>Follower|Evolve|Neutral - Angel/Supreme</type>
         <pt>2/4</pt>
