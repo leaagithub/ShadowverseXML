@@ -70,6 +70,31 @@
 			<longname>BP06 Paragons of the Colosseum</longname>
 			<settype>Expansion</settype>
 		</set>
+		<set>
+			<name>CP02</name>
+			<longname>CP02 THE IDOLM@STER CINDERELLA GIRLS</longname>
+			<settype>Expansion</settype>
+		</set>
+		<set>
+			<name>CSD02A</name>
+			<longname>CSD02A Crossover Starter Deck "Cute"</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>CSD02B</name>
+			<longname>CSD02B Crossover Starter Deck "Cool"</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>CSD02C</name>
+			<longname>CSD02C Crossover Starter Deck "Passion"</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>BP07</name>
+			<longname>BP07 Verdant Steel</longname>
+			<settype>Expansion</settype>
+		</set>
 	</sets>
 	<cards>
 		<!-- SD01 Main -->
@@ -18250,6 +18275,108 @@ Whenever a Yokai follower you control leaves the field, give this follower +1/+0
         <format-sv>legal</format-sv>
     </prop>
 </card>
+		<!-- CP02 IM@S @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 IM@S Cute Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 IM@S Cool Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 IM@S Passion Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Shiki Ichinose</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-036EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.
+Fanfare: Look at the top 3 cards of your deck. You may put one of them into your EX area. Bury the rest.
+Activate: Engage this card, discard a card: Select an enemy follower on the field and deal it 5 damage.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Cute</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>2/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shiki Ichinose (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-037EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select up to 1 card in your EX area and deal damage equal to its cost to your leader. It costs 0 play points to play this turn.
+Activate: Engage this card, discard a card: Select an enemy follower on the field and deal it 5 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Runecraft - IM@S CG / Cute</type>
+	<pt>4/7</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Center Street</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-041EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Quick.
+Select an enemy follower on the field. Deal it 5 damage and, if there's a Passion follower on your field, draw a card.</text>
+    <prop>
+        <type>Spell|Runecraft - IM@S CG / Passion</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Precocious Little Devil</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-045EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Quick.
+Select an enemy follower on the field and deal it 2 damage. If there are at least 3 iM@S CG followers on your field, deal 3 damage instead.</text>
+    <prop>
+        <type>Spell|Runecraft - IM@S CG / Cool</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Full Bloom Panorama</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-051EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Quick.
+Select up to 2 enemy followers on the field and destroy them.</text>
+    <prop>
+        <type>Spell|Runecraft - IM@S CG / Cool</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+		<!-- CP02 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Tokens @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 Leaders @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- CP02 7 U's and SP's @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+
+		<!-- Set 7 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Tokens @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 Leaders @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+		<!-- Set 7 U's and SP's @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		
 </cards>
 </cockatrice_carddatabase>
