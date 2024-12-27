@@ -18360,6 +18360,52 @@ Select up to 2 enemy followers on the field and destroy them.</text>
 </card>
 		<!-- CP02 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Ranko Kanzaki</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-069EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Select an enemy follower on the field and deal it 2 damage.
+Activate (1), Lesson (2): Select up to 2 enemy followers on the field and deal them 2 damage.</text>
+    <prop>
+        <type>Follower|Abysscraft - IM@S CG / Cool</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ranko Kanzaki (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-070EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Look at the top 4 cards of your deck. You may put one of them into your EX area. Bury the rest.
+Activate (1), Lesson (2): Select up to 2 enemy followers on the field and deal them 2 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - IM@S CG / Cool</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Whispers of a Dream</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-075EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Quick.
+Select an enemy follower that costs 3 or less on the field. Destroy it and bury the top card of your deck.</text>
+    <prop>
+        <type>Spell|Abysscraft - IM@S CG / Cool</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Tokens @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
@@ -18894,6 +18940,261 @@ Activate: Engage this card, bury this card: Deal 1 damage to each enemy leader. 
 </card>
 		<!-- Set 7 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 7 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Mono, Garnet Rebel</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-069EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower. Activate only if there are 5 Machina followers on your field.
+Activate, banish 2 Machina cards from your cemetery: Summon an Assembly Droid token. Activate only once per turn.</text>
+    <prop>
+        <type>Follower|Abysscraft - Machina / Demon</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mono, Garnet Rebel (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-070EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Activate (2), banish an Alpha Drive from your cemetery: Give each Machina follower on your field +2/+2 and Rush. Activate only once per turn.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Machina / Demon</type>
+	<pt>5/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kuldak</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-071EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Select up to 2 Vampire cards that cost a total of 6 or less in your cemetery and put them into your EX area. They cost 0 play points to play this turn.
+Activate: Engage this card, select an enemy follower on the field and deal it damage equal to the number of Vampire cards on your field.</text>
+    <prop>
+        <type>Follower|Abysscraft - Vampire</type>
+	<manacost>7</manacost>
+	<cmc>7</cmc>
+	<pt>4/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Aena, Amethyst Rebel</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-072EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Search your deck for a Machina follower that costs 3 or less, summon it, then shuffle your deck.
+Last Word: Give your leader +2.</text>
+    <prop>
+        <type>Follower|Abysscraft - Machina / Demon</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Doublame, Duke and Dame</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-073EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Bury the top card of your deck.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Doublame, Duke and Dame (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-074EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select an enemy follower on the field and deal it 2 damage. Necrocharge (10) - Deal 4 damage instead.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Demon</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Alpha Drive</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-075EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Choose one of the following. (1) Select a Machina follower in your cemetery and add it to your hand. (2) Select a Mono, Garnet Rebel in your cemetery and summon it.</text>
+    <prop>
+        <type>Spell|Abysscraft - Machina / Demon</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Nicola, Forbidden Strength</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-076EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Bury the top 2 cards of your deck.</text>
+    <prop>
+        <type>Follower|Abysscraft - Machina / Departed</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Nicola, Forbidden Strength (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-077EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select a Machina card that costs 2 or less in your cemetery and put it into your EX area. It costs 2 less to play this turn.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Machina / Departed</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Hellblaze Demon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-078EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Discard a card: Put the top card of your deck into your EX area. If it's a follower, give it +1/+1.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Forbidden Art</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-079EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Select an enemy follower on the field and deal it 4 damage. If there's a Nicola, Forbidden Strength on your field, deal 6 damage instead.</text>
+    <prop>
+        <type>Spell|Abysscraft - Machina / Departed</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Robozombie</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-080EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Assail. Bane.
+While there's another Machina follower on your field, this follower has Rush.</text>
+    <prop>
+        <type>Follower|Abysscraft - Machina / Departed</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>2/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Bone Drone</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-081EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Last Word: Summon an Assembly Droid token.</text>
+    <prop>
+        <type>Follower|Abysscraft - Machina / Departed</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Berserk Demon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-082EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (3): Evolve this follower.
+Fanfare: Deal 3 damage to your leader.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>6/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Berserk Demon (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-083EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select up to 2 enemy followers on the field and destroy them.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Demon</type>
+	<pt>8/8</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ghostwriter</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-084EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Whenever a follower on your field evolves, summon 2 Ghost tokens.
+Activate: Engage this card, select a Ghost on your field and give it Bane.</text>
+    <prop>
+        <type>Follower|Abysscraft - Departed</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Sanguine Core</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-085EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Look at the top 2 cards of your deck. You may reveal a Machina card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.
+Activate: Engage this card, bury this card: Put an Assembly Droid token into your EX area. Activate only if there are at least 5 Machina cards in your cemetery.</text>
+    <prop>
+        <type>Amulet|Abysscraft - Machina</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
 		<!-- Set 7 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 7 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
