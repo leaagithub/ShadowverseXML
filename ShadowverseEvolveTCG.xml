@@ -2866,6 +2866,171 @@ Fanfare: Put 5 One-Tailed Fox tokens into EX area.</text>
 		        <format-sv>legal</format-sv>
 		    </prop>
 		</card>
+<card>
+    <name>Fashionista Nelcha (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-122EN.png">BP04</set>
+    <tablerow>1</tablerow>
+    <text>Activate: Engage this card: Combo (3): Choose one of the following effects: (1) Select another follower on your field and give it +2/+2. (2) Select an enemy follower on the field and give it -2/-2.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf</type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+	<name>Blazing Breath (PR)</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-124EN.png">SD04</set>
+	<tablerow>2</tablerow>
+	<text>[Quick]
+Select an enemy follower on the field and deal it 2 damage. If Overflow is active for you, deal 4 damage instead. (Overflow becomes active if your maximum number of play points is at least 7.)
+	</text>
+	<prop>
+		<manacost>1</manacost>
+		<cmc>1</cmc>
+		<type>Spell|Dragoncraft - Wyrmkin</type>
+		<maintype>Spell</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
+</card>
+<card>
+    <name>Gilnelise, Omen of Craving (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-127EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Drain.
+Fanfare: 3PP: Search your deck for an Apostle of Craving and a Craving's Splendor, put them into your EX area, then shuffle your deck. 
+Fanfare: If all players have a maximum of 10 play points, draw 3 cards.
+Whenever you play a Neutral card, deal 1 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Neutral - Omen</type>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kuon, Founder of Onmyodo (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-136EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text> This card costs 1 less to play for every spell and Onmyoji card in your cemetery.
+----------
+Fanfare: If there's no Celestial Shikigami on your field, summon one.
+Activate: Engage this card. Select up to 2 Shikigami followers on your field and give them Storm.</text>
+    <prop>
+        <type>Follower|Runecraft - Arena / Onmyoji</type>
+	<manacost>15</manacost>
+	<cmc>15</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+	<name>Heavenly Aegis (PR)</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-139EN.png">BP02</set>
+	<tablerow>2</tablerow>
+	<text>Evolve (2): Evolve this card. 
+Evolve: [Discard 3 cards from your hand]: Evolve this card. 
+[Aura] 
+This card cannot be destroyed by abilities. (Clash damage and damage dealt by abilities can still destroy it).</text>
+	<prop>
+		<manacost>8</manacost>
+		<cmc>8</cmc>
+		<type>Follower|Havencraft - Faith / Eidolon</type>
+		<pt>8/8</pt>
+		<maintype>Follower</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
+</card>
+<card>
+	<name>Cerberus (PR)</name>
+	<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-140EN.png">BP01</set>
+	<tablerow>2</tablerow>
+	<text>(E) (2): Evolve this follower.
+(F) Put a Mimi or Coco token into your EX area. Necrocharge (10): Put both into your EX area instead.</text>
+	<prop>
+		<manacost>4</manacost>
+		<cmc>4</cmc>
+		<type>Follower|Abysscraft - Demon</type>
+		<pt>3/3</pt>
+		<maintype>Follower</maintype>
+		<format-shadowverse>legal</format-shadowverse>
+		<format-sv>legal</format-sv>
+	</prop>
+</card>
+<card>
+    <name>Precocious Little Devil (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-145EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Quick.
+Select an enemy follower on the field and deal it 2 damage. If there are at least 3 iM@S CG followers on your field, deal 3 damage instead.</text>
+    <prop>
+        <type>Spell|Runecraft - IM@S CG / Cool</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Hulking Giant (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-164EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Earth Rite: Select an enemy follower on the field and deal it 5 damage.
+Last Words: Earth Rite: Deal 3 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Runecraft - Golem / Forbidden</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Yuzuki, Righteous Demon (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-165EN.png">BP06</set>
+    <tablerow>1</tablerow>
+    <text>Bane.
+Fanfare: Each opponent buries a follower. Necrocharge (10) - They bury 2 instead.
+Activate (3): discard this card: Select an enemy follower on the field. Deal it 5 damage and bury the top card of your deck.</text>
+    <prop>
+        <type>Follower|Abysscraft - Demon</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Spinaria, Keeper of Enigmas (PR)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/PR/PR-168EN.png">BP05</set>
+    <tablerow>1</tablerow>
+    <text>Ward.
+Fanfare: Look at the top 4 cards of your deck. From among them, you may reveal up to 1 Forestcraft follower and up to 1 Forestcraft spell and add them to your hand. Put the remaining cards on the bottom of your deck in any order. Combo (3): Recover 3 play points.</text>
+    <prop>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Follower|Forestcraft - Supreme</type>
+        <pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 
 		<!--  Main -->
 		<!-- Forestcraft -->
@@ -19472,7 +19637,143 @@ Activate (1): Bury this card.</text>
     </prop>
 </card>
 		<!-- Set 7 Leaders @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Emmylou, Wee Witchette</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-LD01EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Runecraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Forte, Duskwing Tyrant</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-LD02EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Dragoncraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Sonia, Guardian of Silence</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-LD03EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <prop>
+        <type>Leader|Havencraft</type>
+	<maintype>Leader</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- Set 7 U's and SP's @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Ladica, the Stone Claw (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U01EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Whenever a Naterran Great Tree is put onto your field, recover 1 play point.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft -Natura / Beast</type>
+	<pt>6/6</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Tsubaki of the Demon Blade (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U02EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: If there are at least 5 Swordcraft followers in your cemetery, select an enemy follower on the field and destroy it.
+While there are at least 10 Swordcraft followers in your cemetery, this follower has Storm.</text>
+    <prop>
+        <type>Follower|Swordcraft - Assassin / Ninja</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>4/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Riley, Hydroshaman (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U03EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Earth Rite: Choose one of the following. If this card was put onto the field from the cemetery, choose up to 3 instead. (1) Select an enemy follower on the field and deal it 5 damage. (2) Give this follower +3/+0. (3) Draw 2 cards.
+Activate (6): Summon this card from your cemetery. Give it Storm and "Last Word: Banish this card."</text>
+    <prop>
+        <type>Follower|Runecraft - Machina / Supreme</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Valdain, Cursed Shadow (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U04EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Choose one of the following. (1) Select an enemy follower on the field. Deal it 4 damage, search your deck for a Shadow's Corrosion and put it into your EX area, then shuffle your deck. (2) Select a Shadow's Corrosion in your cemetery and play it for 0 play points.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft -Natura / Beast</type>
+	<pt>5/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mono, Garnet Rebel (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U05EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Activate (2), banish an Alpha Drive from your cemetery: Give each Machina follower on your field +2/+2 and Rush. Activate only once per turn.</text>
+    <prop>
+        <type>Follower|Evolve|Abysscraft - Machina / Demon</type>
+	<pt>5/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lapis, Glorious Seraph (Evolved) (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U06EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+When this card leaves the field, draw a card for every prayer counter on it.
+At the start of your end phase, select a card on your field. Place a prayer counter on it and give your leader +2.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Faith / Luminary / Lightborne</type>
+	<pt>3/7</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Technolord (U)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-U07EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Banish 3 Machina cards from your cemetery: Choose up to 2 of the following. (1) Select an enemy follower on the field and destroy it. (2) Select an enemy amulet on the field and destroy it. (3) Deal 3 damage to each enemy leader. (4) Search your deck for a Machina card not named Technolord, reveal it, add it to your hand, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Neutral - Machina / Diety</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>6/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		
 </cards>
 </cockatrice_carddatabase>
