@@ -18523,6 +18523,23 @@ Select up to 2 enemy followers on the field and destroy them.</text>
         <format-sv>legal</format-sv>
     </prop>
 </card>
+<card>
+    <name>Tomoe Murakami</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-050EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> When playing this card, discard a card: This card costs 2 less to play.
+----------
+Fanfare: Search your deck for up to 2 spells with different names, reveal them, add them to your hand, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Passion</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
