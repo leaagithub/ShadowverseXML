@@ -18443,7 +18443,51 @@ Whenever a Yokai follower you control leaves the field, give this follower +1/+0
 		<!-- CP02 IM@S @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 IM@S Cute Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 IM@S Cool Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Kako Takafuji</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-007EN.png">CSD02B</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Havencraft - IM@S CG / Cool</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kako Takafuji (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02b/CSD02b-008EN.png">CSD02B</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve (3): Select an enemy leader and deal it 3 damage.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - IM@S CG / Cool</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 IM@S Passion Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Akane Hino [Positive Passion]</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02c/CSD02c-003EN.png">CSD02C</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Fanfare: Lesson (3), discard 2 Passion cards: Deal 6 damage to each enemy follower on the field. Draw 2 cards.</text>
+    <prop>
+        <type>Follower|Havencraft - IM@S CG / Passion</type>
+	<manacost>8</manacost>
+	<cmc>8</cmc>
+	<pt>7/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
@@ -18509,16 +18553,16 @@ Select an enemy follower on the field and deal it 2 damage. If there are at leas
     </prop>
 </card>
 <card>
-    <name>Full Bloom Panorama</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-051EN.png">CP02</set>
+    <name>Sarina Matsumoto</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-046EN.png">CP02</set>
     <tablerow>1</tablerow>
-    <text> Quick.
-Select up to 2 enemy followers on the field and destroy them.</text>
+    <text> Whenever you play a spell, select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
-        <type>Spell|Runecraft - IM@S CG / Cool</type>
+        <type>Follower|Runecraft - IM@S CG / Cool</type>
 	<manacost>3</manacost>
 	<cmc>3</cmc>
-        <maintype>Spell</maintype>
+	<pt>1/5</pt>
+        <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -18536,6 +18580,21 @@ Fanfare: Search your deck for up to 2 spells with different names, reveal them, 
 	<cmc>6</cmc>
 	<pt>5/5</pt>
         <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Full Bloom Panorama</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-051EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Quick.
+Select up to 2 enemy followers on the field and destroy them.</text>
+    <prop>
+        <type>Spell|Runecraft - IM@S CG / Cool</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+        <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
@@ -18589,7 +18648,57 @@ Select an enemy follower that costs 3 or less on the field. Destroy it and bury 
     </prop>
 </card>
 		<!-- CP02 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Kaede Takagaki</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-086EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+Fanfare: Select an enemy follower on the field and banish it.
+At the start of your end phase, if your leader's defense is 5 or less, give it +5 and draw a card.
+Activate (1), Lesson (1): Give this follower Aura.</text>
+    <prop>
+        <type>Follower|Havencraft - IM@S CG / Cool</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>New Generations</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-103EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> When playing this card, banish 3 Cute cards, 3 Cool cards, and 3 Passion cards from your cemetery: This card costs 9 less to play.
+----------
+Storm. Bane. Ward.</text>
+    <prop>
+        <type>Follower|Neutral - IM@S CG / Cute / Cool / Passion</type>
+	<manacost>10</manacost>
+	<cmc>10</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Rookie Trainer</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-108EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Activate: Engage this card, select another iM@S CG follower on your field and give it +1/+0.</text>
+    <prop>
+        <type>Follower|Neutral - IM@S CG</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Tokens @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Leaders @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 7 U's and SP's @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
