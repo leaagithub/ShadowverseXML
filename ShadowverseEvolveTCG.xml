@@ -18705,6 +18705,266 @@ Storm. Bane. Ward.</text>
 
 		<!-- Set 7 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- Set 7 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Ladica, the Stoneclaw</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-001EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower. Activate only if you've played at least 5 cards this turn.
+Whenever a Naterran Great Tree is put onto your field, recover 1 play point.</text>
+    <prop>
+        <type>Follower|Forestcraft - Natura / Beast</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>5/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ladica, the Stoneclaw (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-002EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Whenever a Naterran Great Tree is put onto your field, recover 1 play point.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Natura / Beast</type>
+	<pt>6/6</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cynthia, the Queen's Blade</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-003EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Put a Fairy Wisp token into your EX area. Give each Pixie token on your field +2/+0.
+While this card is on your field, each Pixie token on your field has Storm and Assail.
+Whenever a Pixie token is put onto your field, give it +2/+0.</text>
+    <prop>
+        <type>Follower|Forestcraft - Elf</type>
+	<manacost>6</manacost>
+	<cmc>6</cmc>
+	<pt>4/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Primal Giant</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-004EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> When this card is discarded, put a Naterran Great Tree token into your EX area.
+When playing this card, bury 4 Natura cards: This card costs 4 less to play.
+----------
+Fanfare: Select a Forestcraft follower that costs 5 or less in your cemetery and summon it.</text>
+    <prop>
+        <type>Follower|Forestcraft - Natura / Fae-Touched</type>
+	<manacost>9</manacost>
+	<cmc>9</cmc>
+	<pt>7/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Setus, the Beastblade</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-005EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.
+Ward.
+At the start of your end phase, give your leader +4 and, if a follower was put from your field into the cemetery this turn, give this follower +2/+2.</text>
+    <prop>
+        <type>Follower|Forestcraft - Beast</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Setus, the Beastblade (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-006EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+On Evolve - Select a follower that costs 3 or less in your cemetery and summon it.
+At the start of your end phase, give your leader +4 and, if a follower was put from your field into the cemetery this turn, give this follower +2/+2.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Beast</type>
+	<pt>4/6</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Send 'Em Packing</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-007EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Select a Ladica, the Stoneclaw on your field and give it +1/+1. Combo (5) - Deal damage equal to its attack to each enemy follower on the field.</text>
+    <prop>
+        <type>Spell|Forestcraft - Natura / Beast</type>
+	<manacost>0</manacost>
+	<cmc>0</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Blossom Spirit</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-008EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Put a Naterran Great Tree or Fairy token into your EX area.</text>
+    <prop>
+        <type>Follower|Forestcraft - Natura / Fae-Touched</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Blossom Spirit (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-009EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select an enemy follower on the field and deal it 2 damage. If there are at least 3 cards in your EX area, deal 4 damage instead.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Natura / Fae-Touched</type>
+	<pt>3/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Avatar of Fruition</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-010EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Put a Naterran Great Tree token into your EX area.
+While this card is on your field, any Naterran Great Tree you play costs 1 less.</text>
+    <prop>
+        <type>Follower|Forestcraft - Natura / Fae-Touched</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Divine Smithing</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-011EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Select up to 2 Pixie followers on your field or in your EX area and give them +1/+0. Combo (3) - Draw a card.</text>
+    <prop>
+        <type>Spell|Forestcraft - Elf</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Cheshire Cat</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-012EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Select an enemy leader or enemy follower on the field and deal it 1 damage. If this card wasn't put onto the field from hand, deal 2 damage instead.
+Activate: Engage this card, put this card on the bottom of its owner's deck: Select a Fable follower on your field or in your EX area and place 2 Fable counters on it.</text>
+    <prop>
+        <type>Follower|Forestcraft - Beast / Fable</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ghastly Treant</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-013EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Put a Naterran Great Tree token into your EX area.
+Activate: Banish a Naterran Great Tree from your field: Give your leader +3. Activate only once per turn.</text>
+    <prop>
+        <type>Follower|Forestcraft - Natura / Verdant</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Forest Hermit</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-014EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Put a Naterran Great Tree token into your EX area.</text>
+    <prop>
+        <type>Follower|Forestcraft - Hunter</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Forest Hermit (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-015EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select a Natura card in your cemetery and add it to your hand.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - Hunter</type>
+	<pt>2/2</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marvelously Mad Hatter</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-016EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: If there's another Fable card on your field, search your deck for a Fable follower, put it into your EX area, then shuffle your deck. You may place a Fable counter on that follower.</text>
+    <prop>
+        <type>Follower|Forestcraft - Fable</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Fertile Aether</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-017EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Put a Naterran Great Tree token into your EX area. Combo (3) - Put 2 instead and give your leader +2.</text>
+    <prop>
+        <type>Spell|Forestcraft - Natura</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- Set 7 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Bayleon, Sovereign Light</name>
@@ -19230,6 +19490,265 @@ Activate: Engage this card, bury this card: Deal 1 damage to each enemy leader. 
     </prop>
 </card>
 		<!-- Set 7 Dragoncraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Valdain, Cursed Shadow</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-052EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.
+Evolve (0): Evolve this follower. Activate only if there are at least 10 Natura cards in your cemetery.
+Fanfare: Look at the top 3 cards of your deck. You may reveal a Natura card from among them and add it to your hand. Bury the rest.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Natura / Dragonewt</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Valdain, Cursed Shadow (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-053EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Choose one of the following. (1) Select an enemy follower on the field. Deal it 4 damage, search your deck for a Shadow's Corrosion and put it into your EX area, then shuffle your deck. (2) Select a Shadow's Corrosion in your cemetery and play it for 0 play points.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Natura / Dragonewt</type>
+	<pt>5/5</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Neptune, Tidemistress</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-054EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+Fanfare: Look at the top 5 cards of your deck. From among them, you may reveal up to 2 Marine followers not named Neptune, Tidemistress and add them to your hand. Put the rest on the bottom of your deck in any order. You may summon a Marine follower that costs 5 or less from your hand and give it +2/+2.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart / Marine</type>
+	<manacost>7</manacost>
+	<cmc>7</cmc>
+	<pt>6/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Wildfire Tyrannosaur</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-055EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> When this card is discarded, (1): Select an enemy follower on the field and deal it 3 damage.
+----------
+Activate: Banish a Naterran Great Tree from your field: Deal 3 damage to each enemy follower on the field.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Natura / Wrymkin</type>
+	<manacost>8</manacost>
+	<cmc>8</cmc>
+	<pt>6/6</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marion, Elegant Dragonewt</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-056EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: If Overflow is active for you, look at the top 3 cards of your deck. You may put a Dragoncraft follower from among them into your EX area. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marion, Elegant Dragonewt (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-057EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select another Dragoncraft follower on your field or in your EX area and give it +1/+1.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Dragonewt</type>
+	<pt>2/2</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shadow's Corrosion</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-058EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> This card can't be played from the EX area.
+At the start of your end phase, if this card is in your EX area, deal 1 damage to each enemy leader for every 5 Natura cards in your cemetery.
+----------
+Select an enemy follower on the field. Deal it 4 damage and, if there's a Valdain, Cursed Shadow on your field, put this card into its owner's EX area.</text>
+    <prop>
+        <type>Spell|Dragoncraft - Natura / Dragonewt</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Bubbleborne Mermaid</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-059EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Give your leader +1 for every Marine follower on your field.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Marine</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Hoarfrost Triceratops</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-060EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Banish a Naterran Great Tree from your field: Give this follower +2/+2.
+Last Words: Summon a Naterran Great Tree token.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Natura / Wyrmkin</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Hoarfrost Triceratops (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-061EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select an enemy follower on the field and deal it 3 damage.
+Last Words: Summon a Naterran Great Tree token.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Natura / Wyrmkin</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Whirlwind Pteranodon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-062EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Banish a Naterran Great Tree from your field: Increase your max play points by 1.
+Last Words: Summon a Naterran Great Tree token.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Natura / Wyrmkin</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dragonewt Needler</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-063EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Whenever a Dragonewt follower on your field attacks, deal 2 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonewt</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>2/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lightning Velociraptor</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-064EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Summon a Naterran Great Tree token. If Overflow is active for you, summon up to 2 instead and give this follower Rush.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Natura / Wyrmkin</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Doting Dragoneer</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-065EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.
+Fanfare: If Overflow is active for you, select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Dragonheart</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Doting Dragoneer (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-066EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select a Dragoncraft follower that costs 3 or less in your cemetery and summon it.</text>
+    <prop>
+        <type>Follower|Evolve|Dragoncraft - Dragonheart</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Boomfish</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-067EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Activate (2), bury this card: Deal 3 damage to each follower on the field and your leader.</text>
+    <prop>
+        <type>Follower|Dragoncraft - Marine</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Feral Aether</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-068EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Summon a Naterran Great Tree token. If Overflow is active for you, summon up to 3 instead.</text>
+    <prop>
+        <type>Spell|Dragoncraft - Natura</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- Set 7 Abysscraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Mono, Garnet Rebel</name>
@@ -19487,6 +20006,269 @@ Activate: Engage this card, bury this card: Put an Assembly Droid token into you
 </card>
 
 		<!-- Set 7 Havencraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Limonia, Flawed Saint</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-086EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (7): Evolve this follower.
+Fanfare: Put a Repair Mode token into your EX area.
+Activate: Banish a Repair Mode from your EX area: This card's evolve costs 1 less this turn.</text>
+    <prop>
+        <type>Follower|Havencraft - Machina / Faith / Zealot / Eidolon</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Limonia, Flawed Saint (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-087EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Destroy each enemy follower on the field.
+Activate (0): Select a Machina follower that costs 2 or less in your cemetery and summon it. Activate only once per turn.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Machina / Faith / Zealot / Eidolon</type>
+	<pt>5/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Lapis, Glorious Seraph</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-088EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+When this card leaves the field, draw a card for every prayer counter on it.
+At the start of your end phase, select a card on your field. Place a prayer counter on it and give your leader +2.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith / Luminary / Lightborne</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>3/7</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Father Refinement</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-089EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Rush.
+Fanfare: Put 2 Repair Mode tokens into your EX area. Recover 2 play points.
+Strike - Draw a card. If there are 5 cards named Repair Mode in your EX area, draw 2 instead.</text>
+    <prop>
+        <type>Follower|Havencraft - Machina / Faith / Zealot</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marlone, Light of Balance</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-090EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Each player puts a Repair Mode token into their EX area.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marlone, Light of Balance (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-091EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select an enemy follower that costs X or less on the field and destroy it. X equals the number of cards in your EX area.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Faith</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Augmentation Bestowal</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-092EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Choose one of the following. (1) Banish 2 cards named Repair Mode from your EX area: Search your deck for a Machina follower that costs 3 or less, summon it, then shuffle your deck. (2) Banish 5 cards named Repair Mode from your EX area: Search your deck for a Machina follower that costs 6 or less, summon it, then shuffle your deck.</text>
+    <prop>
+        <type>Spell|Havencraft - Faith</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Bunny-Eared Administrator</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-093EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: If this card wasn't put onto the field from hand, select an enemy follower on the field and deal it 3 damage.
+Activate (1), discard this card: Give your leader +1. Put this card into your deck 3rd from the top.</text>
+    <prop>
+        <type>Follower|Havencraft - Beast / Fable</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Robofalcon</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-094EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Storm.
+Strike - Put a Repair Mode token into your EX area. Then, if there are at least 3 cards named Repair Mode in your EX area, give this follower +1/+0.</text>
+    <prop>
+        <type>Follower|Havencraft - Machina / Avian</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Robofalcon (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-095EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+On Evolve - Put a Repair Mode token into your EX area.
+Strike - Put a Repair Mode token into your EX area. Then, if there are at least 3 cards named Repair Mode in your EX area, give this follower +1/+0.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Machina / Avian</type>
+	<pt>2/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Marcotte, Heretical Sister</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-096EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+Fanfare: Draw a card. If there are 5 cards in your EX area, instead search your deck for any card, add it to your hand, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Havencraft - Machina / Avian</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Ironknuckle Nun</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-097EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+Fanfare: Put a Repair Mode token into your EX area.
+Last Words: Put a Repair Mode token into your EX area.</text>
+    <prop>
+        <type>Follower|Havencraft - Machina / Faith</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dark Bishop</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-098EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Havencraft - Faith / Fable</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Dark Bishop (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-099EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Look at the top 5 cards of your deck. From among them, you may summon a Fable follower that costs 5 or less or Fable amulet that costs 5 or less. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - Faith / Fable</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Meowskers, Ruff-Tuff Major</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-100EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Strike - Select an enemy leader or enemy follower on the field and deal it 1 damage.</text>
+    <prop>
+        <type>Follower|Havencraft - Natura / Lightborne / Beast</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Saintly Core</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-101EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Look at the top 2 cards of your deck. You may reveal a Machina card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.
+Activate: Engage this card, bury this card: Put a Repair Mode token into your EX area. Activate only if there are at least 2 Machina followers on your field.</text>
+    <prop>
+        <type>Amulet|Havencraft - Machina</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Meowskers Ambush!</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP07/BP07-101EN.png">BP07</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Look at the top 3 cards of your deck. You may reveal a Havencraft follower from among them and add it to your hand. Put the rest on the bottom of your deck in any order.
+Activate: Engage this card, bury this card: You may summon a follower with "Meowskers" in its name from your hand.</text>
+    <prop>
+        <type>Amulet|Havencraft - Natura / Lightborne / Beast</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- Set 7 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Technolord</name>
