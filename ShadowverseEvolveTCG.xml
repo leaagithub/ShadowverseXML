@@ -20661,6 +20661,8 @@ When this card leaves the field, draw a card for every prayer counter on it.
 At the start of your end phase, select a card on your field. Place a prayer counter on it and give your leader +2.</text>
     <prop>
         <type>Follower|Havencraft - Faith / Luminary / Lightborne</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
 	<pt>3/7</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
