@@ -18489,6 +18489,68 @@ Fanfare: Lesson (3), discard 2 Passion cards: Deal 6 damage to each enemy follow
     </prop>
 </card>
 		<!-- CP02 Forestcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Aiko Takamori</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-001EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: Look at the top 3 cards of your deck. You may reveal a Passion card from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Passion</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Aiko Takamori (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-002EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - You may summon a Passion follower that costs 3 or less from your hand.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - IM@S CG / Passion</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Miku Maekawa</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Strike - Select an enemy follower on the field and deal it 2 damage.
+Activate (1), Lesson (1): Give this follower Storm.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cute</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>3/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Miku Maekawa</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower
+Ward.
+Activate, Lesson (1): Select another card that costs 1 or less on your field and return it to its owner's hand. For the rest of this turn, this card's Activate abilities except Evolve can't be activated.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Passion</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
