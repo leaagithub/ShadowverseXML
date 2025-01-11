@@ -18535,8 +18535,8 @@ Activate (1), Lesson (1): Give this follower Storm.</text>
     </prop>
 </card>
 <card>
-    <name>Miku Maekawa</name>
-    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-003EN.png">CP02</set>
+    <name>Yuzu Kitami</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-004EN.png">CP02</set>
     <tablerow>1</tablerow>
     <text> Evolve (2): Evolve this follower
 Ward.
@@ -18547,6 +18547,201 @@ Activate, Lesson (1): Select another card that costs 1 or less on your field and
 	<cmc>1</cmc>
 	<pt>1/1</pt>
         <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Yuzu Kitami (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-005EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+On Evolve - Select an enemy follower that costs 2 or less on the field and return it to its owner's hand.
+Activate, Lesson (1): Select another card that costs 1 or less on your field and return it to its owner's hand. For the rest of this turn, this card's Activate abilities except Evolve can't be activated.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - IM@S CG / Passion</type>
+	<pt>2/2</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Anastasia</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-006EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Recover 2 play points.
+Whenever you play a card during your turn, if it's the 3rd you've played this turn, recover 2 play points. If it's the 5th, give each follower on your field +1/+1.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cool</type>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
+	<pt>2/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Brand New Beat</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-007EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> When this card leaves the field, if a Magical Item was banished from your EX area this turn, draw a card.
+Activate: Engage this card, bury this card: Select a follower on your field and give it +1/+1.</text>
+    <prop>
+        <type>Amulet|Forestcraft - IM@S CG / Cool</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Shinobu Kudo</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-008EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Search your deck for up to two 1-cost iM@S CG followers and/or 1-cost iM@S CG amulets with different names, summon them, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cute</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Yumi Aiba</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-009EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare: If there are at least 3 Passion followers on your field, select an enemy follower on the field and deal it 2 damage.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Passion</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Yumi Aiba (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-010EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Select an enemy follower with 3 defense or less on the field and put it on the bottom of its owner's deck.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - IM@S CG / Passion</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Goddess by the Sunlit Sea</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-011EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Draw a card. If there's a follower that costs 5 or more on your field, recover 1 play point.</text>
+    <prop>
+        <type>Spell|Forestcraft - IM@S CG / Cool</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Honoka Ayase</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-012EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Select another iM@S CG follower on your field and give it Rush.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cool</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>2/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Azuki Momoi</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-013EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> This card costs 3 less to play if there are at least 3 iM@S CG followers on your field.
+----------
+Ward.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cute</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>3/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kana Imai</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-014EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cute</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Kana Imai (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-015EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Look at the top card of your deck. You may reveal it and add it to your hand. If you revealed a Cute card, give your leader +2.</text>
+    <prop>
+        <type>Follower|Evolve|Forestcraft - IM@S CG / Cute</type>
+	<pt>3/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Otoha Umeki</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-016EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Whenever you play a card, select an enemy follower on the field and deal it 1 damage.</text>
+    <prop>
+        <type>Follower|Forestcraft - IM@S CG / Cool</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>1/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>A Single Vessel</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-017EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Select an enemy follower on the field and deal it 3 damage.
+Last Words: Select an enemy follower on the field and deal it 3 damage.
+Activate (2): Engage this card, discard a card: Bury this card.</text>
+    <prop>
+        <type>Amulet|Forestcraft - IM@S CG / Cool</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
