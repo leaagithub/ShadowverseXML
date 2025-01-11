@@ -16518,9 +16518,8 @@ Last Words: Look at the top 2 cards of your deck. You may reveal a Hunter card f
     <text> Choose one of the following. (1) Select a Pixie token on your field or in your EX area and give it +2/+2. (2) Put 2 Fairy tokens into your EX area.</text>
     <prop>
         <type>Spell|Forestcraft - Fae-Touched</type>
-	<manacost>3</manacost>
-	<cmc>3</cmc>
-	<pt>4/1</pt>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
