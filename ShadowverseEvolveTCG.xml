@@ -18441,6 +18441,21 @@ Whenever a Yokai follower you control leaves the field, give this follower +1/+0
 </card>
 		<!-- CP02 IM@S @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 		<!-- CP02 IM@S Cute Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Chika Yokoyama</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-004EN.png">CSD02A</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: If there are at least 5 Cute cards in your cemetery, give this follower +1/+2 and Ward.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Cute</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>2/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 IM@S Cool Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Kako Takafuji</name>
@@ -18818,6 +18833,21 @@ Select an enemy follower on the field and deal it 2 damage. If there are at leas
 	<manacost>3</manacost>
 	<cmc>3</cmc>
 	<pt>1/5</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Sae Kobayakawa</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-049EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare: Select another iM@S CG follower on your field and give it +1/+1.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Cute</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
