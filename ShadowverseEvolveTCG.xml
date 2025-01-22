@@ -18456,6 +18456,37 @@ Whenever a Yokai follower you control leaves the field, give this follower +1/+0
         <format-sv>legal</format-sv>
     </prop>
 </card>
+		<!-- CP02 IM@S Cute Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Akiha Ikebukuro</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-007EN.png">CSD02A</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower. 
+	Fanfare: Select another Cute follower on your field and give it [defense]+1.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Cute</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>		<!-- CP02 IM@S Cute Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Akiha Ikebukuro (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CSD02a/CSD02a-008EN.png">CSD02A</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Discard a Cute card: Select an enemy follower on the field. Deal it 3 damage and draw a card.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Cute</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+
 		<!-- CP02 IM@S Cool Exclusives @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Kako Takafuji</name>
