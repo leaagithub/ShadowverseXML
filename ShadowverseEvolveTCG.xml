@@ -19600,7 +19600,7 @@ At the start of your end phase, give each other Machina follower on your field +
     <text> Fanfare: Earth Rite: Choose one of the following. If this card was put onto the field from the cemetery, choose up to 3 instead. (1) Select an enemy follower on the field and deal it 5 damage. (2) Give this follower +3/+0. (3) Draw 2 cards.
 Activate (6): Summon this card from your cemetery. Give it Storm and "Last Word: Banish this card."</text>
     <prop>
-        <type>Follower|Runecraft - Machina / Supreme</type>
+        <type>Follower|Runecraft - Mage</type>
 	<manacost>3</manacost>
 	<cmc>3</cmc>
 	<pt>3/4</pt>
@@ -20931,7 +20931,7 @@ While there are at least 10 Swordcraft followers in your cemetery, this follower
     <text> Fanfare: Earth Rite: Choose one of the following. If this card was put onto the field from the cemetery, choose up to 3 instead. (1) Select an enemy follower on the field and deal it 5 damage. (2) Give this follower +3/+0. (3) Draw 2 cards.
 Activate (6): Summon this card from your cemetery. Give it Storm and "Last Word: Banish this card."</text>
     <prop>
-        <type>Follower|Runecraft - Machina / Supreme</type>
+        <type>Follower|Runecraft - Mage</type>
 	<manacost>3</manacost>
 	<cmc>3</cmc>
 	<pt>3/4</pt>
