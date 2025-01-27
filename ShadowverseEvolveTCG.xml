@@ -10110,7 +10110,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Rush. Aura. Fanfare: Put a Fable counter on this card. If this card was put onto the field from anywhere other than your hand, give this follower Storm. Activate: 1PP, Remove any number of Fable counters from this card: Give this follower ??+X/??+X. X equals the number of Fable counters removed with this effect.</text>
     <prop>
-        <type>Follower|Forestcraft - Beast/Fable/Princess</type>
+        <type>Follower|Forestcraft - Beast / Fable / Princess</type>
         <manacost>6</manacost>
         <cmc>6</cmc>
         <pt>5/7</pt>
@@ -10125,7 +10125,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1), return another follower on your field to its owner's hand: Evolve this follower. (Tokens returned to the hand are removed from the game.) Fanfare: Search your deck for a Beast follower, reveal it, and add it to your hand. If it costs 2 or less play points, put it onto your field instead.</text>
     <prop>
-        <type>Follower|Forestcraft - Fae-Touched|Verdant</type>
+        <type>Follower|Forestcraft - Fae-Touched / Verdant / Beast</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
         <pt>4/4</pt>
@@ -10140,7 +10140,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field and return it to its owner's hand. If you selected an evolved follower, destroy it instead. (Tokens returned to the hand are removed from the game.)</text>
     <prop>
-        <type>Follower|Evolve|Forestcraft - Fae-Touched/Verdant</type>
+        <type>Follower|Evolve|Forestcraft - Fae-Touched / Verdant / Beast</type>
         <pt>5/5</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10153,7 +10153,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Activate: Engage this card: Put a Fable counter on this card. Activate: 1PP, remove a Fable counter from this card: Select an enemy follower on the field and destroy it.</text>
     <prop>
-        <type>Follower|Forestcraft - Pixie/Fable</type>
+        <type>Follower|Forestcraft - Pixie / Fable</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
         <pt>1/4</pt>
@@ -10168,7 +10168,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (0): Evolve this follower. Can only evolve if you have returned a card to your hand this turn. When this card is returned to your hand from the field, you may put a Forescraft follower that costs 2 or less play points from your hand onto the field.</text>
     <prop>
-        <type>Follower|Forestcraft - Verdant/Beast</type>
+        <type>Follower|Forestcraft - Verdant / Beast</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/2</pt>
@@ -10183,7 +10183,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>When this card is returned to your hand from the field, you may put a Forescraft follower that costs 2 or less play points from your hand onto the field. On Evolve: Draw a card.</text>
     <prop>
-        <type>Follower|Evolve|Forestcraft - Verdant/Beast</type>
+        <type>Follower|Evolve|Forestcraft - Verdant / Beast</type>
         <pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10225,7 +10225,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Whenever a card is returned from the field to your hand, give your leader ??+1.</text>
     <prop>
-        <type>Follower|Forestcraft - Verdant/Beast</type>
+        <type>Follower|Forestcraft - Verdant / Beast</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/2</pt>
@@ -10240,7 +10240,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Whenever a card is returned from the field to your hand, give your leader ??+1. On Evolve: Search your deck for a Floral Breeze, reveal it, and add it to your hand.</text>
     <prop>
-        <type>Follower|Evolve|Forestcraft - Verdant/Beast</type>
+        <type>Follower|Evolve|Forestcraft - Verdant / Beast</type>
         <pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10267,7 +10267,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Put a Fairy token into your EX area. Combo (3): Put a Fable counter on this card. Activate: Engage this card, remove a Fable counter from this card: Select an enemy follower on the field and deal it 3 damage.</text>
     <prop>
-        <type>Follower|Forestcraft - Princess/Fable</type>
+        <type>Follower|Forestcraft - Princess / Fable</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
         <pt>2/3</pt>
@@ -10325,7 +10325,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Select a card on your field. Return it to its owner's hand and give your leader ??+1. (Token cards that are returned to the hand are removed from the game.)</text>
     <prop>
-        <type>Spell|Forestcraft - Verdant/Beast</type>
+        <type>Spell|Forestcraft - Verdant / Beast</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <maintype>Spell</maintype>
@@ -10339,7 +10339,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Look at the top 4 cards of your deck. You may put a Fable follower from among them into your EX area. Put the rest on the bottom of your deck in any order. Activate: Engage this card, put this card into your cemetery: Select a Fable follower on your field and put a Fable counter on it.</text>
     <prop>
-        <type>Amulet|Forestcraft - Beast/Fable</type>
+        <type>Amulet|Forestcraft - Beast / Fable</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
         <maintype>Amulet</maintype>
@@ -10356,7 +10356,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Swordcraft - Princess/Fable</type>
+        <type>Follower|Swordcraft - Princess / Fable</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10371,7 +10371,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Swordcraft - Princess/Fable</type>
+        <type>Follower|Swordcraft - Princess / Fable</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10386,7 +10386,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Swordcraft - Commander/Heroic</type>
+        <type>Follower|Swordcraft - Commander / Heroic</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10399,7 +10399,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Select a Heroic follower on your field that can Evolve. Evolve that follower.</text>
     <prop>
-        <type>Follower|Evolve|Swordcraft - Commander/Heroic</type>
+        <type>Follower|Evolve|Swordcraft - Commander / Heroic</type>
         <pt>5/5</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10414,7 +10414,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Swordcraft - Fable/Assassin</type>
+        <type>Follower|Swordcraft - Fable / Assassin</type>
         <pt>1/1</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10429,7 +10429,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Swordcraft - Officer/Heroic</type>
+        <type>Follower|Swordcraft - Officer / Heroic</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10442,7 +10442,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>N/A</tablerow>
     <text>Strike: If there's another Heroic follower on your field, give this follower ??+1/??+1. On Evolve: Select a Heroic card in your cemetery and play it for 0 play points.</text>
     <prop>
-        <type>Follower|Evolve|Swordcraft - Officer/Heroic</type>
+        <type>Follower|Evolve|Swordcraft - Officer / Heroic</type>
         <pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10471,7 +10471,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>Follower|Swordcraft - Officer/Fable</type>
+        <type>Follower|Swordcraft - Officer / Fable</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10486,7 +10486,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Swordcraft - Officer/Heroic</type>
+        <type>Follower|Swordcraft - Officer / Heroic</type>
         <pt>3/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10499,7 +10499,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field and deal it 2 damage. If there are 2 or more Heroic cards in your cemetery, deal 4 damage instead.</text>
     <prop>
-        <type>Follower|Evolve|Swordcraft - Officer/Heroic</type>
+        <type>Follower|Evolve|Swordcraft - Officer / Heroic</type>
         <pt>4/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10514,7 +10514,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Spell|Swordcraft - Princess/Fable</type>
+        <type>Spell|Swordcraft - Princess / Fable</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10558,7 +10558,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Swordcraft - Beast/Fable</type>
+        <type>Follower|Swordcraft - Beast / Fable</type>
         <pt>1/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10571,7 +10571,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>N/A</tablerow>
     <text>Whenever an enemy follower is destroyed during your turn, give this follower ??+1. On Evolve: Select an enemy follower on the field and deal it 2 damage.</text>
     <prop>
-        <type>Follower|Evolve|Swordcraft - Beast/Fable</type>
+        <type>Follower|Evolve|Swordcraft - Beast / Fable</type>
         <pt>2/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10586,7 +10586,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Follower|Swordcraft - Officer/Heroic</type>
+        <type>Follower|Swordcraft - Officer / Heroic</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10601,7 +10601,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Spell|Swordcraft - Officer/Heroic</type>
+        <type>Spell|Swordcraft - Officer / Heroic</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10616,7 +10616,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Follower|Runecraft - Mage/Fable</type>
+        <type>Follower|Runecraft - Mage / Fable</type>
         <pt>4/6</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10631,7 +10631,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Follower|Runecraft - Mage/Fable</type>
+        <type>Follower|Runecraft - Mage / Fable</type>
         <pt>4/6</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10677,7 +10677,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>Follower|Runecraft - Mage/Academy</type>
+        <type>Follower|Runecraft - Mage / Academic</type>
         <pt>4/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10738,7 +10738,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>Follower|Runecraft - Mage/Academy</type>
+        <type>Follower|Runecraft - Mage / Academic</type>
         <pt>4/4</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10780,11 +10780,11 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-046EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Stack.
-        Fanfare: Give your leader ??+3.</text>
+        Fanfare: Give your leader +3.</text>
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Amulet|Runecraft - Earth Sigil/Fable</type>
+        <type>Amulet|Runecraft - Earth Sigil / Fable</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10795,11 +10795,11 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-047EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Stack.
-        Fanfare: Give your leader ??+3.</text>
+        Fanfare: Give your leader +3.</text>
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Amulet|Runecraft - Earth Sigil/Fable</type>
+        <type>Amulet|Runecraft - Earth Sigil / Fable</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10813,7 +10813,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Runecraft - Mage/Fable</type>
+        <type>Follower|Runecraft - Mage / Fable</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10826,7 +10826,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>2</tablerow>
     <text>On Evolve: Draw a card.</text>
     <prop>
-        <type>Follower|Evolve|Runecraft - Mage/Fable</type>
+        <type>Follower|Evolve|Runecraft - Mage / Fable</type>
         <pt>2/2</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10886,7 +10886,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Amulet|Runecraft - Mage/Earth Sigil</type>
+        <type>Amulet|Runecraft - Mage / Earth Sigil</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10900,7 +10900,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Amulet|Runecraft - Mage/Earth Sigil</type>
+        <type>Amulet|Runecraft - Mage / Earth Sigil</type>
         <maintype>Amulet</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -10933,7 +10933,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Fable</type>
+        <type>Follower|Dragoncraft - Wyrmkin / Fable</type>
 	<pt>7/7</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10948,7 +10948,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Follower|Dragoncraft - Wyrmkin / Armed</type>
 	<pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10962,7 +10962,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <text>Assail.
         On Evolve: Summon a Draconic Weapon token and recover 2 play points.</text>
     <prop>
-        <type>Follower|Evolve|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Follower|Evolve|Dragoncraft - Wyrmkin / Armed</type>
 	<pt>6/6</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10977,7 +10977,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
         Strike: Select an enemy follower on the field and deal it 4 damage. Deal 3 damage to that follower's
         leader.</text>
     <prop>
-        <type>Follower|Evolve|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Follower|Evolve|Dragoncraft - Wyrmkin / Armed</type>
 	<pt>7/5</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -10993,7 +10993,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Fable</type>
+        <type>Follower|Dragoncraft - Wyrmkin / Fable</type>
 	<pt>0/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11008,7 +11008,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 		<manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Follower|Dragoncraft - Wyrmkin / Armed</type>
 	<pt>3/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11021,7 +11021,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Select an enemy follower on the field deal it 2 damage. If there's another Armed follower on your field, deal 4 damage instead.</text>
     <prop>
-        <type>Follower|Evolve|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Follower|Evolve|Dragoncraft - Wyrmkin / Armed</type>
 	<pt>4/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11070,7 +11070,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Dragoncraft - Dragonewt/Wyrmkin</type>
+        <type>Follower|Dragoncraft - Dragonewt / Wyrmkin</type>
 	<pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11083,7 +11083,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Deal 2 damage to each enemy leader.</text>
     <prop>
-        <type>Follower|Evolve|Dragoncraft - Dragonewt/Wyrmkin</type>
+        <type>Follower|Evolve|Dragoncraft - Dragonewt / Wyrmkin</type>
 	<pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11098,7 +11098,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Spell|Dragoncraft - Dragonewt/Wyrmkin</type>
+        <type>Spell|Dragoncraft - Dragonewt / Wyrmkin</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11142,7 +11142,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Follower|Dragoncraft - Dragonheart/Dragonewt</type>
+        <type>Follower|Dragoncraft - Dragonheart / Dragonewt</type>
 	<pt>1/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11155,7 +11155,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>On Evolve: Look at the top 3 cards of your deck. You may reveal a Dragoncraft follower from among them and put it into your hand. Put the rest on the bottom of your deck in any order.</text>
     <prop>
-        <type>Follower|Evolve|Dragoncraft</type>
+        <type>Follower|Evolve|Dragoncraft - Dragonheart / Dragonewt</type>
 	<pt>2/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11172,7 +11172,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Follower|Dragoncraft - Wyrmkin / Armed</type>
 	<pt>3/4</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11187,7 +11187,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
 	<manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Spell|Dragoncraft - Wyrmkin/Armed</type>
+        <type>Spell|Dragoncraft - Wyrmkin / Armed</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11202,7 +11202,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>6</manacost>
         <cmc>6</cmc>
-        <type>Follower|Abysscraft - Demon/Fable</type>
+        <type>Follower|Abysscraft - Demon / Fable</type>
         <pt>6/6</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11346,7 +11346,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Spell|Abysscraft - Beast/Fable</type>
+        <type>Spell|Abysscraft - Beast / Fable</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
@@ -11461,7 +11461,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Ward. Fanfare: If this follower was put onto the field from your hand, put a Fable counter on it. Fanfare: If this follower was put onto the field from anywhere other than your hand, give it ??+1/??+1. Last Words: If this card has a Fable counter on it, put it into your EX area.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Fable</type>
+        <type>Follower|Havencraft - Faith / Fable / Princess</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
 	<maintype>Follower</maintype>
@@ -11504,7 +11504,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: Give each other follower on your field and your leader ??+2. Last Words: Give each follower on your field and your leader ??+2.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Fable</type>
+        <type>Follower|Havencraft - Faith / Fable</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
 	<maintype>Follower</maintype>
@@ -11519,7 +11519,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (2): Evolve this follower. Ward.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Avian</type>
+        <type>Follower|Havencraft - Faith / Avian</type>
         <manacost>1</manacost>
         <cmc>1</cmc>
 	<maintype>Follower</maintype>
@@ -11534,7 +11534,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Ward. On Evolve: Search your deck for a follower with 2 or less attack, reveal it, and add it to your hand.</text>
     <prop>
-        <type>Follower|Evolve|Havencraft - Faith/Avian</type>
+        <type>Follower|Evolve|Havencraft - Faith / Avian</type>
 	<pt>2/2</pt>
 	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11576,7 +11576,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Ward. Whenever another follower on your field with Ward or Storm attacks, deal 1 damage to each enemy leader. Activate: 2PP: Give this follower Storm.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Avian</type>
+        <type>Follower|Havencraft - Faith / Avian</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
 	<maintype>Follower</maintype>
@@ -11591,7 +11591,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Ward. Whenever another follower on your field with Ward or Storm attacks, deal 1 damage to each enemy leader. On Evolve: Select an enemy follower on the field and deal it 2 damage. Activate: 2PP: Give this follower Storm.</text>
     <prop>
-        <type>Follower|Evolve|Havencraft - Faith/Avian</type>
+        <type>Follower|Evolve|Havencraft - Faith / Avian</type>
 	<pt>4/4</pt>
 	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11618,7 +11618,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Fanfare: If this follower is put onto your field from anywhere other than your hand, put a Fable counter on it. Activate: Remove a Fable counter from this card: Select an enemy leader or enemy follower on the field and deal it 2 damage.</text>
     <prop>
-        <type>Follower|Havencraft - Eidolon/Fable</type>
+        <type>Follower|Havencraft - Eidolon / Fable</type>
         <manacost>3</manacost>
         <cmc>3</cmc>
 	<maintype>Follower</maintype>
@@ -11633,7 +11633,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Evolve (1): Evolve this follower. Fanfare: Select a Fable card in your cemetery. Put it into your EX area and put a Fable counter on it.</text>
     <prop>
-        <type>Follower|Havencraft - Avian/Fable</type>
+        <type>Follower|Havencraft - Avian / Fable</type>
         <manacost>5</manacost>
         <cmc>5</cmc>
 	<maintype>Follower</maintype>
@@ -11648,7 +11648,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Assail.</text>
     <prop>
-        <type>Follower|Evolve|Havencraft - Avian/Fable</type>
+        <type>Follower|Evolve|Havencraft - Avian / Fable</type>
 	<pt>5/6</pt>
 	<maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11661,7 +11661,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Ward. Fanfare: Engage an amulet on your field: Summon a Holy Falcon token.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Avian</type>
+        <type>Follower|Havencraft - Faith / Avian</type>
         <manacost>4</manacost>
         <cmc>4</cmc>
 	<maintype>Follower</maintype>
@@ -11676,7 +11676,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>1</tablerow>
     <text>Storm. Fanfare: Select another follower on your field with Storm or Ward and give it ??+1.</text>
     <prop>
-        <type>Follower|Havencraft - Faith/Beast</type>
+        <type>Follower|Havencraft - Faith / Beast</type>
         <manacost>2</manacost>
         <cmc>2</cmc>
 	<maintype>Follower</maintype>
@@ -11741,7 +11741,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>7</manacost>
         <cmc>7</cmc>
-        <type>Follower|Neutral - Angel/Fallen Angel</type>
+        <type>Follower|Neutral - Angel / Fallen Angel</type>
         <pt>5/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11756,7 +11756,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>3</manacost>
         <cmc>3</cmc>
-        <type>Follower|Neutral - Princess/Fable</type>
+        <type>Follower|Neutral - Princess / Fable</type>
         <pt>4/5</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11764,7 +11764,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
-    <name>Tainted Angel Soldier</name>
+    <name>Seraph of Sin</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-111EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Fanfare: Select an enemy leader or an enemy follower on the field and deal it 2 damage.
@@ -11790,7 +11790,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>4</manacost>
         <cmc>4</cmc>
-        <type>Follower|Neutral - Angel/Beast</type>
+        <type>Follower|Neutral - Angel / Beast</type>
         <pt>2/3</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11803,7 +11803,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <tablerow>2</tablerow>
     <text>On Evolve: Select another Neutral follower on your field and return it to its owner's hand.</text>
     <prop>
-        <type>Follower|Evolve|Neutral - Angel/Beast</type>
+        <type>Follower|Evolve|Neutral - Angel / Beast</type>
         <pt>3/4</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11818,7 +11818,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Follower|Neutral - Musical/Fable</type>
+        <type>Follower|Neutral - Musical / Fable / Princess</type>
         <pt>2/2</pt>
         <maintype>Follower</maintype>
         <format-shadowverse>legal</format-shadowverse>
@@ -11862,14 +11862,14 @@ Strike: If there are no other followers on your field, select an enemy follower 
     <prop>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Spell|Neutral - Angel/Fallen Angel</type>
+        <type>Spell|Neutral - Angel / Fallen Angel</type>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
     </prop>
 </card>
 <card>
-    <name>Coal-Black Disciple</name>
+    <name>Angel of Darkness</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-118EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Activate: Engage this card, put a Fallen Angel follower on your field into your cemetery: Select an enemy follower on the field and deal it 4 damage.</text>
@@ -11884,7 +11884,7 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
-    <name>Dark Messenger</name>
+    <name>Harbinger of the Night</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-119EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>Evolve (1): Evolve this follower.
@@ -11900,13 +11900,11 @@ Strike: If there are no other followers on your field, select an enemy follower 
     </prop>
 </card>
 <card>
-    <name>Dark Messenger (Evolved)</name>
+    <name>Harbinger of the Night (Evolved)</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP03/BP03-120EN.png">BP03</set>
     <tablerow>2</tablerow>
     <text>On Evolve: Deal 1 damage to each enemy leader.</text>
     <prop>
-        <manacost>N/A</manacost>
-        <cmc>N/A</cmc>
         <type>Follower|Evolve|Neutral - Fallen Angel</type>
         <pt>3/3</pt>
         <maintype>Follower|Evolve</maintype>
