@@ -20944,7 +20944,7 @@ Activate (6): Summon this card from your cemetery. Give it Storm and "Last Word:
     <tablerow>1</tablerow>
     <text> On Evolve - Choose one of the following. (1) Select an enemy follower on the field. Deal it 4 damage, search your deck for a Shadow's Corrosion and put it into your EX area, then shuffle your deck. (2) Select a Shadow's Corrosion in your cemetery and play it for 0 play points.</text>
     <prop>
-        <type>Follower|Evolve|Forestcraft -Natura / Beast</type>
+        <type>Follower|Evolve|Dragoncraft -Natura / Beast</type>
 	<pt>5/5</pt>
         <maintype>Follower|Evolve</maintype>
         <format-shadowverse>legal</format-shadowverse>
