@@ -1296,7 +1296,7 @@ Strike: Give this follower +1/+0.</text>
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
-				<type>Follower|Dragoncraft - Marine</type>
+				<type>Follower|Dragoncraft - ine</type>
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -20482,7 +20482,7 @@ Strike - Put a Repair Mode token into your EX area. Then, if there are at least 
     <text> Ward.
 Fanfare: Draw a card. If there are 5 cards in your EX area, instead search your deck for any card, add it to your hand, then shuffle your deck.</text>
     <prop>
-        <type>Follower|Havencraft - Machina / Avian</type>
+        <type>Follower|Havencraft - Zealot</type>
 	<manacost>2</manacost>
 	<cmc>2</cmc>
 	<pt>1/3</pt>
