@@ -19126,6 +19126,50 @@ Activate (1), Lesson (1): Give this follower Aura.</text>
         <format-sv>legal</format-sv>
     </prop>
 </card>
+<card>
+    <name>Nana Abe</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-089EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text>Evolve (1): Evolve this follower.
+Fanfare: Look at the top 5 cards of your deck. You may reveal an amulet from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+    <prop>
+        <type>Follower|Havencraft - IM@S CG / Cute</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/2</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Nana Abe (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-090EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text>On Evolve - You may summon an amulet that costs 3 or less from your hand.</text>
+    <prop>
+        <type>Follower|Evolve|Havencraft - IM@S CG / Cute</type>
+	<pt>4/3</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Psychic Maiden</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-096EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text>Fanfare: Select an enemy follower with 4 defense or less on the field and banish it.
+Activate (5), engage this card, bury this card: Select an enemy follower on the field and banish it.</text>
+    <prop>
+        <type>Amulet|Havencraft - IM@S CG / Passion</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+        <maintype>Amulet</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Neutrals @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>New Generations</name>
