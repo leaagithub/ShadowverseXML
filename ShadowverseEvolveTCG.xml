@@ -18841,6 +18841,100 @@ Activate (2): Engage this card, discard a card: Bury this card.</text>
     </prop>
 </card>
 		<!-- CP02 Swordcraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
+<card>
+    <name>Nagi Hisakawa</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-020EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Fanfare, banish two 1-cost cards from your cemetery: Choose up to 2 of the following. (1) Select an enemy follower on the field and destroy it. (2) Deal 2 damage to each enemy leader. (3) Draw a card. Discard a card.
+Activate (1), Lesson (1): Give this follower Rush.</text>
+    <prop>
+        <type>Follower|Swordcraft - IM@S CG / Passion</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Rin Shibuya</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-021EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Ward.
+Fanfare: If there's a follower with "Uzuki Shimamura" in its name on your field, select an enemy follower on the field and deal it 5 damage.
+Fanfare: If there's a follower with "Mio Honda" in its name on your field, deal 5 damage to each enemy leader.</text>
+    <prop>
+        <type>Follower|Swordcraft - IM@S CG / Cool</type>
+	<manacost>4</manacost>
+	<cmc>4</cmc>
+	<pt>4/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mio Honda</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-022EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Storm.
+Strike - If there's a follower with "Uzuki Shimamura" in its name on your field, give this follower +0/+1.
+Strike - If there's a follower with "Rin Shibuya" in its name on your field, give this follower +1/+0.</text>
+    <prop>
+        <type>Follower|Swordcraft - IM@S CG / Passion</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+	<pt>2/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Uzuki Shimamura</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-023EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (1): Evolve this follower.
+Fanfare, Lesson (1): Give your leader +1.</text>
+    <prop>
+        <type>Follower|Swordcraft - IM@S CG / Cute</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/3</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Uzuki Shimamura (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-024EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Search your deck for a follower with "Rin Shibuya" or "Mio Honda" in its name, put it into your EX area, then shuffle your deck. It costs 2 less to play this turn.</text>
+    <prop>
+        <type>Follower|Evolve|Swordcraft - IM@S CG / Cute</type>
+	<pt>4/4</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Mayu Sakuma</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-030EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Assail. Bane. Drain.</text>
+    <prop>
+        <type>Follower|Swordcraft - IM@S CG / Cute</type>
+	<manacost>3</manacost>
+	<cmc>3</cmc>
+	<pt>3/4</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Shiki Ichinose</name>
