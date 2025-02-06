@@ -184,7 +184,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 			<name>Fairy Caster </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006EN.png">SD01</set>
 			<tablerow>2</tablerow>
-			<text>(F) Summon 3 Fairy tokens. If your field becomes full from this effect, put any remaining tokens into your EX area.</text>
+			<text>(F) Summon 3 Fairy tokens. If your field becomes  from this effect, put any remaining tokens into your EX area.</text>
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
@@ -19080,8 +19080,8 @@ Fanfare: Search your deck for up to 2 spells with different names, reveal them, 
 Select up to 2 enemy followers on the field and destroy them.</text>
     <prop>
         <type>Spell|Runecraft - IM@S CG / Cool</type>
-	<manacost>3</manacost>
-	<cmc>3</cmc>
+	<manacost>5</manacost>
+	<cmc>5</cmc>
         <maintype>Spell</maintype>
         <format-shadowverse>legal</format-shadowverse>
         <format-sv>legal</format-sv>
