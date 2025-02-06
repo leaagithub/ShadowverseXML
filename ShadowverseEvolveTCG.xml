@@ -19013,6 +19013,34 @@ Select an enemy follower on the field and deal it 2 damage. If there are at leas
     </prop>
 </card>
 <card>
+    <name>Rika Jougasaki</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-047EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> Evolve (2): Evolve this follower.</text>
+    <prop>
+        <type>Follower|Runecraft - IM@S CG / Passion</type>
+	<manacost>1</manacost>
+	<cmc>1</cmc>
+	<pt>1/1</pt>
+        <maintype>Follower</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
+    <name>Rika Jougasaki (Evolved)</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-048EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text> On Evolve - Search your deck for a spell that costs 3 or less, reveal it, add it to your hand, then shuffle your deck.</text>
+    <prop>
+        <type>Follower|Evolve|Runecraft - IM@S CG / Passion</type>
+	<pt>2/2</pt>
+        <maintype>Follower|Evolve</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
+<card>
     <name>Sae Kobayakawa</name>
     <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-049EN.png">CP02</set>
     <tablerow>1</tablerow>
