@@ -18935,6 +18935,21 @@ Fanfare, Lesson (1): Give your leader +1.</text>
         <format-sv>legal</format-sv>
     </prop>
 </card>
+<card>
+    <name>Angelic Maid</name>
+    <set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP02/CP02-034EN.png">CP02</set>
+    <tablerow>1</tablerow>
+    <text>Quick.
+Select a follower on your field. Give it +1/+3 and your leader +3.</text>
+    <prop>
+        <type>Spell|Swordcraft - IM@S CG / Cute</type>
+	<manacost>2</manacost>
+	<cmc>2</cmc>
+        <maintype>Spell</maintype>
+        <format-shadowverse>legal</format-shadowverse>
+        <format-sv>legal</format-sv>
+    </prop>
+</card>
 		<!-- CP02 Runecraft @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   -->
 <card>
     <name>Shiki Ichinose</name>
